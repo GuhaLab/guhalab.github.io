@@ -11,6 +11,7 @@
       style="
         width: {{ include.width | default: "auto" }};
         max-height: {{ include.height | default: "unset" }};
+        box-shadow: {{ include.box-shadow | default: "auto" }};
       "
       alt="{{ include.caption | default: "figure image" }}"
       loading="lazy"

@@ -1,9 +1,8 @@
 ---
 ---
 
-# GuhaLab's Website
 
-An engaging 1-3 sentence description of your lab.
+The Guha Lab is a dedicated team of researchers in the Department of Radiation Oncology at the <a href="https://einsteinmed.edu/">Albert Einstein College of Medicine</a> and <a href="https://www.montefiore.org/">Montefiore Medical Center</a>. 
 
 {% include section.html %}
 
@@ -11,7 +10,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Since 1998, we have been working to improve outcomes for cancer patients by leveraging the power of radiation therapy. 
 
 {%
   include button.html
@@ -26,7 +25,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/ktclung.png"
   link="research"
   title="Our Research"
   text=text
@@ -34,7 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our work covers the full range of radiation oncology and tumor immunology, with projects focusing on normal tissue radiation toxicity and the tumor immune microenvironment.
 
 {%
   include button.html
@@ -49,7 +48,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/olfm4.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -59,7 +58,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our lab consists of a highly dedicated and collaborative team of researchers with expertise in fields including radiation oncology, tumor immunology, medical physics, engineering, and more.
 
 {%
   include button.html
@@ -74,7 +73,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/guhalab2022crop.jpg"
   link="team"
   title="Our Team"
   text=text

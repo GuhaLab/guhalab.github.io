@@ -45,15 +45,19 @@
   display: none;
 }
 
+
 .portrait-text {
   display: flex;
   flex-direction: column;
   line-height: calc(var(--spacing) - 0.4);
-}
+  text-align: center;
+} 
+
 
 .portrait-name {
   font-family: var(--heading);
   font-weight: var(--semi-bold);
+  text-align: center;
 }
 
 .portrait-role .icon {

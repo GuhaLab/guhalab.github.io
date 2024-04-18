@@ -6,21 +6,41 @@ pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
+senior:
+  icon: fa-solid fa-microscope
+  description: Senior Faculty
+
+jrfaculty:
+  icon: fa-solid fa-microscope
+  description: Faculty
+
+resident:
+  icon: fa-solid fa-stethoscope
+  description: Resident
+
 postdoc:
   icon: fa-solid fa-glasses
-  description: Postdoctoral Researcher
+  description: Postdoctoral Fellow
+
+mstp:
+  icon: fa-solid fa-graduation-cap
+  description: MD/PhD Student
 
 phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+member:
+  icon: fa-solid fa-flask
+  description: Lab Member
+
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
-programmer:
-  icon: fa-solid fa-code
-  description: Programmer
+administrator:
+  icon: fa-solid fa-user-tie
+  description: Administrator
 
 mascot:
   icon: fa-solid fa-dog
@@ -60,6 +80,11 @@ phone:
   tooltip: Phone number
   link: tel:$VALUE
 
+fax:
+  icon: fa-solid fa-fax
+  text: Fax Number
+  tooltip: Fax number
+
 address:
   icon: fa-solid fa-map-location-dot
   text: Address
@@ -79,7 +104,7 @@ orcid:
   link: https://orcid.org/$VALUE
 
 google-scholar:
-  icon: fa-brands fa-google
+  icon: fa-brands fa-google-scholar
   text: Google Scholar
   tooltip: Google Scholar
   link: https://scholar.google.com/citations?user=$VALUE

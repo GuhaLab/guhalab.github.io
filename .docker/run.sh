@@ -14,10 +14,10 @@ DOCKER_RUN="docker run"
 WORKING_DIR=$(pwd)
 
 # fix windows faux linux shells/tools
-if [[ $OSTYPE == msys* ]] || [[ $OSTYPE == cygwin* ]]; then
-    DOCKER_RUN="winpty docker run"
-    WORKING_DIR=$(cmd //c cd)
-fi
+#if [[ $OSTYPE == msys* ]] || [[ $OSTYPE == cygwin* ]]; then
+#    DOCKER_RUN="winpty docker run"
+ #   WORKING_DIR=$(cmd //c cd)
+#fi 
 
 # build docker image
 docker build ${PLATFORM} \

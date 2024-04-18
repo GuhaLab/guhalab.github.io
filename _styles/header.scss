@@ -1,8 +1,8 @@
 ---
 ---
 
-$logo-big: 80px;
-$logo: 40px;
+$logo-big: 120px;
+$logo: 60px;
 $big-padding: 100px;
 $collapse: 700px;
 $sticky: true;
@@ -24,7 +24,7 @@ header {
 }
 
 header a {
-  color: var(--text);
+  color: var(--header);
   text-decoration: none;
 }
 
@@ -64,8 +64,7 @@ header a {
 
 // subtitle
 .title > *:last-child {
-  opacity: 0.65;
-  font-weight: var(--thin);
+  font-weight: var(--regular);
 }
 
 .nav-toggle {
@@ -107,7 +106,7 @@ nav {
 }
 
 nav > a {
-  padding: 5px;
+  padding: 0 5px;
 }
 
 nav > a:hover {
@@ -138,7 +137,7 @@ header[data-big] {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: $big-padding 20px;
+  padding: 20px 20px;
 
   @if $sticky {
     top: unset;
@@ -164,6 +163,6 @@ header[data-big] {
   }
 
   .title > *:last-child {
-    font-size: var(--large);
+    font-size: var(--xl);
   }
 }

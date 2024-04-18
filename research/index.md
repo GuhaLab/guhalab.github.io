@@ -2,23 +2,21 @@
 title: Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Published Works
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab focuses on radiation biology and tumor immunology with the goal of improving outcomes for cancer patients. We work with the full range of ionizing and non-ionizing forms of radiation, including low-intensity focused ultrasound (LOFU), photons, protons, and heavy ion radiation. 
+{% include button.html icon="fa-solid fa-book-open" text="More on PubMed" link="https://pubmed.ncbi.nlm.nih.gov/?term=chandan+guha&sort=date" %} 
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Orthovoltage X-Rays Exhibit Increased Efficacy Compared with γ-Rays in Preclinical Irradiation" style="rich" %}
 
-{% include section.html %}
-
-## All
+## Our Published Works
 
 {% include search-box.html %}
 

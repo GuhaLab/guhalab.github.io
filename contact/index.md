@@ -2,76 +2,56 @@
 title: Contact
 nav:
   order: 5
-  tooltip: Email, address, and location
+  tooltip: Contact Us
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab is within the Department of Radiation Oncology at the <a href="https://einsteinmed.edu/">Albert Einstein College of Medicine</a> and <a href="https://www.montefiore.org/">Montefiore Medical Center</a>. We are a member of the Montefiore Einstein Comprehensive Cancer center and are headquartered in the third floor of the Ullmann Building. 
+
+{%
+  include figure.html
+  image="images/meccc-logo.svg"
+  link="https://cancer.montefioreeinstein.org/"
+  width="400px"
+  box-shadow="none"
+%}
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="cguha@montefiore.org"
+  link="cguha@montefiore.org"
 %}
+
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(718) 405-8550"
+  link="+1-718-405-8550"
 %}
+
 {%
   include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  type="fax"
+  text="(718) 405-8551"
 %}
+
 
 {% include section.html %}
 
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
+{% capture content %}
+{% include figure.html image="images/ullmann.jpg" %}
+{% include figure.html image="images/price.jpg" %}
+{% include figure.html image="images/campus.jpg" %}
 {% endcapture %}
 
-{% capture col2 %}
-
 {%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  include grid.html
+  content=content
+  style="square"
 %}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html dark=true %}
 
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
 
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
