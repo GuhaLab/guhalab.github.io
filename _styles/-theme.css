@@ -2,6 +2,7 @@
   --primary: #0ea5e9;
   --secondary: #7dd3fc;
   --text: #000000;
+  --header: #003C7D;
   --background: #ffffff;
   --background-alt: #fafafa;
   --light-gray: #e0e0e0;
@@ -9,21 +10,20 @@
   --overlay: #00000020;
 }
 
-[data-dark=true] {
+/*[data-dark="true"] {
   --primary: #0ea5e9;
   --secondary: #075985;
   --text: #ffffff;
-  --background: #181818;
+  --background: #181818; 
   --background-alt: #1c1c1c;
   --light-gray: #404040;
   --gray: #808080;
   --overlay: #ffffff10;
-}
-
+} */
 :root {
-  --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
-  --body: "Barlow", sans-serif;
+  --title: "Sen", sans-serif;
+  --heading: "Open Sans", sans-serif;
+  --body: "Open Sans", sans-serif;
   --code: "Roboto Mono", monospace;
   --medium: 1rem;
   --large: 1.2rem;
