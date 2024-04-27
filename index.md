@@ -48,7 +48,7 @@ Our work covers the full range of radiation oncology and tumor immunology, with 
 
 {%
   include feature.html
-  image="images/olfm4.jpg"
+  image="images/Olfm4.jpg"
   link="projects"
   title="Our Projects"
   flip=true
