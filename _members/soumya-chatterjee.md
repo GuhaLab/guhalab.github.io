@@ -1,6 +1,6 @@
 ---
 name: Soumya Chatterjee, Ph.D.
-image: images/photo.jpg
+image: images/soumyachatterjee.jpg
 role: postdoc
 alisases: Soumya Chatterjee
 
