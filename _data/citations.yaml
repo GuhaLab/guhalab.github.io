@@ -1,5 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.21203/rs.3.rs-3946910/v1
+  title: Thrombopoietin mimetic stimulates bone marrow vascular and stromal niches
+    to mitigate acute radiation syndrome
+  authors:
+  - Justin Vercellino
+  - "Beata Ma\u0142achowska"
+  - Shilpa Kulkarni
+  - Brett I. Bell
+  - Shahin Shajahan
+  - Kosaku Shinoda
+  - Gary Eichenbaum
+  - Amit K. Verma
+  - Sanchita P. Ghosh
+  - Weng-Lang Yang
+  - Paul S. Frenette
+  - Chandan Guha
+  publisher: Research Square Platform LLC
+  date: '2024-02-19'
+  link: https://doi.org/gtkh5g
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.prro.2023.08.016
   title: 'Defining Minimum Treatment Parameters of Ablative Radiation Therapy in Patients
     With Hepatocellular Carcinoma: An Expert Consensus'
@@ -45,28 +67,6 @@
   publisher: Practical Radiation Oncology
   date: '2024-03-01'
   link: https://doi.org/gtkh5f
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.21203/rs.3.rs-3946910/v1
-  title: Thrombopoietin mimetic stimulates bone marrow vascular and stromal niches
-    to mitigate acute radiation syndrome
-  authors:
-  - Justin Vercellino
-  - "Beata Ma\u0142achowska"
-  - Shilpa Kulkarni
-  - Brett I. Bell
-  - Shahin Shajahan
-  - Kosaku Shinoda
-  - Gary Eichenbaum
-  - Amit K. Verma
-  - Sanchita P. Ghosh
-  - Weng-Lang Yang
-  - Paul S. Frenette
-  - Chandan Guha
-  publisher: Research Square Platform LLC
-  date: '2024-02-19'
-  link: https://doi.org/gtkh5g
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
