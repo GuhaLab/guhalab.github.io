@@ -1,6 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.21203/rs.3.rs-3946910/v1
+- id: doi:10.1186/s13287-024-03734-z
   title: Thrombopoietin mimetic stimulates bone marrow vascular and stromal niches
     to mitigate acute radiation syndrome
   authors:
@@ -16,9 +16,9 @@
   - Weng-Lang Yang
   - Paul S. Frenette
   - Chandan Guha
-  publisher: Research Square Platform LLC
-  date: '2024-02-19'
-  link: https://doi.org/gtkh5g
+  publisher: Stem Cell Research &amp; Therapy
+  date: '2024-04-29'
+  link: https://doi.org/gtsqzd
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
