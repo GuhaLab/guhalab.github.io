@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://guhalab.org/sitemap.xml
