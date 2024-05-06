@@ -155,6 +155,25 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1101/2023.10.28.564559
+  title: Haematopoietic stem cell numbers are not solely determined by niche availability
+  authors:
+  - Shoichiro Takeishi
+  - Tony Marchand
+  - Wade R. Koba
+  - Daniel K. Borger
+  - Chunliang Xu
+  - Chandan Guha
+  - Aviv Bergman
+  - Paul S. Frenette
+  - Kira Gritsman
+  - Ulrich Steidl
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-10-29'
+  link: https://doi.org/gtkh5p
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.jcmgh.2023.10.007
   title: Microbial-Dependent Recruitment of Immature Myeloid Cells Promotes Intestinal
     Regeneration
@@ -173,25 +192,6 @@
   publisher: Cellular and Molecular Gastroenterology and Hepatology
   date: '2024-01-01'
   link: https://doi.org/gtkh5n
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.28.564559
-  title: Haematopoietic stem cell numbers are not solely determined by niche availability
-  authors:
-  - Shoichiro Takeishi
-  - Tony Marchand
-  - Wade R. Koba
-  - Daniel K. Borger
-  - Chunliang Xu
-  - Chandan Guha
-  - Aviv Bergman
-  - Paul S. Frenette
-  - Kira Gritsman
-  - Ulrich Steidl
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-29'
-  link: https://doi.org/gtkh5p
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
