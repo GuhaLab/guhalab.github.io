@@ -42,7 +42,7 @@ Our lab is within the Department of Radiation Oncology at the <a href="https://e
 
 {% capture content %}
 {% include figure.html image="images/ullmann.jpg" %}
-{% include figure.html image="images/price.jpg" %}
+{% include figure.html image="images/Price.jpg" %}
 {% include figure.html image="images/campus.jpg" %}
 {% endcapture %}
 
