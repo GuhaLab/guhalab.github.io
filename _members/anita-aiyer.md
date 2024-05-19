@@ -2,7 +2,7 @@
 name: Anita Aiyer, M.S.
 image: images/anitasaiyer.jpg
 description: Staff Scientist
-role: jrfaculty
+role: staffscientist
 aliases: Anita S. Aiyer, Anita Aiyer
 
 links:

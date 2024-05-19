@@ -18,11 +18,15 @@ nav:
 {% include grid.html style="square" content=content %}
 
 {% include list.html data="members" component="portrait" filters="role: pi, group:" %}
-{% include list.html data="members" component="portrait" filters="role: senior, group:" %}
-
+{% include list.html data="members" component="portrait" filters="role: senior1, group:" %}
+{% include list.html data="members" component="portrait" filters="role: senior2, group:" %}
+{% include list.html data="members" component="portrait" filters="role: senior3, group:" %}
+{% include list.html data="members" component="portrait" filters="role: senior4, group:" %}
 
 {% include list.html data="members" component="portrait" filters="role: jrfaculty, group:" %}
-
+{% include list.html data="members" component="portrait" filters="role: staffscientist1, group:" %}
+{% include list.html data="members" component="portrait" filters="role: staffscientist, group:" %}
+{% include list.html data="members" component="portrait" filters="role: instructor, group:" %}
 
 {% include list.html data="members" component="portrait" filters="role: resident, group:" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc, group:" %}
@@ -34,6 +38,7 @@ nav:
 
 
 {% include list.html data="members" component="portrait" filters="role: administrator, group:" %}
+{% include list.html data="members" component="portrait" filters="role: adminassistant, group:" %}
 {% include section.html %}
 ## Alumni
 

@@ -2,7 +2,7 @@
 name: Sanjay Pandey, Ph.D.
 image: images/photo.jpg
 description: Staff Scientist
-role: jrfaculty
+role: staffscientist
 aliases: Sanjay Pandey
 
 links:

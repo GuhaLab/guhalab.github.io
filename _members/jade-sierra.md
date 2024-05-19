@@ -2,7 +2,7 @@
 name: Jade Sierra
 image: images/photo.jpg
 description: Administrative Assistant
-role: administrator
+role: adminassistant
 aliases: 
 
 links:

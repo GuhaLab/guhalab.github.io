@@ -2,7 +2,7 @@
 name: Steve Barry, Ph.D.
 image: images/stevebarry.png
 description: Director of Innovations
-role: senior
+role: senior3
 aliases: Steve Barry
 
 links:

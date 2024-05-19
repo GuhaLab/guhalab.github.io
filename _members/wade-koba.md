@@ -2,7 +2,7 @@
 name: Wade Koba, B.S.
 image: images/photo.jpg
 description: Principal Staff Scientist
-role: jrfaculty
+role: staffscientist
 aliases: Wade Koba
 
 links:

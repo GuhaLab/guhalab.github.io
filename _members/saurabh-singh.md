@@ -2,7 +2,7 @@
 name: Saurabh Singh, Ph.D.
 image: images/photo.jpg
 description: Staff Scientist
-role: jrfaculty
+role: staffscientist
 aliases: Saurabh Singh
 
 links:

@@ -6,13 +6,37 @@ pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
-senior:
+senior1:
+  icon: fa-solid fa-microscope
+  description: Senior Faculty
+
+senior2:
+  icon: fa-solid fa-microscope
+  description: Senior Faculty
+
+senior3:
+  icon: fa-solid fa-microscope
+  description: Senior Faculty
+
+senior4:
   icon: fa-solid fa-microscope
   description: Senior Faculty
 
 jrfaculty:
   icon: fa-solid fa-microscope
   description: Faculty
+
+staffscientist1:
+  icon: fa-solid fa-microscope
+  description: Staff Scientist
+
+staffscientist:
+  icon: fa-solid fa-microscope
+  description: Staff Scientist
+
+instructor:
+  icon: fa-solid fa-microscope
+  description: Staff Scientist
 
 resident:
   icon: fa-solid fa-stethoscope
@@ -41,6 +65,10 @@ undergrad:
 administrator:
   icon: fa-solid fa-user-tie
   description: Administrator
+
+adminassistant:
+  icon: fa-solid fa-user-tie
+  description: Administrative Assistant
 
 mascot:
   icon: fa-solid fa-dog

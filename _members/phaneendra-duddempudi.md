@@ -2,7 +2,7 @@
 name: Phaneendra K. Duddempudi, Ph.D.
 image: images/photo.jpg
 description:  Staff Scientist
-role: jrfaculty
+role: staffscientist
 aliases: Phaneendra K Duddempudi, Phaneendra Duddempudi, Kumar Duddempudi
 
 links:

@@ -2,7 +2,7 @@
 name: Vivek Kumar, Ph.D.
 image: images/photo.jpg
 description: Instructor
-role: jrfaculty
+role: instructor
 aliases: Vivek Kumar
 
 links:

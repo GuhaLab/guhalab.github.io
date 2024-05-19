@@ -1,7 +1,7 @@
 ---
 name: Svjetlana Raus, Ph.D.
 image: images/svjetlana-raus.jpeg
-role: jrfaculty
+role: staffscientist
 description: Staff Scientist
 aliases: Svjetlana Raus
 

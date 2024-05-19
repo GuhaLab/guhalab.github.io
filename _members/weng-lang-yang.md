@@ -2,7 +2,7 @@
 name: Weng-Lang Yang, Ph.D.
 image: images/wenglangyang.jpg
 description: Research Professor
-role: senior
+role: senior2
 aliases: Weng-Lang Yang
 
 links:
