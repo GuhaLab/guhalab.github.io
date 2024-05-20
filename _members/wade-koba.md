@@ -1,5 +1,5 @@
 ---
-name: Wade Koba, B.S.
+name: Wade Koba, B.M.E.
 image: images/photo.jpg
 description: Principal Staff Scientist
 role: staffscientist
