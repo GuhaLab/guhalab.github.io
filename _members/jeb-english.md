@@ -1,7 +1,7 @@
 ---
 name: Jeb English, M.S.
 image: images/jebenglish.jpeg
-role: phd
+role: postdoc
 aliases: Jeb English
 
 links:
