@@ -1,5 +1,28 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.radonc.2024.110404
+  title: Validation and reproducibility of in vivo dosimetry for pencil beam scanned
+    FLASH proton treatment in mice
+  authors:
+  - Alex Bookbinder
+  - Balaji Selvaraj
+  - Xingyi Zhao
+  - Yunjie Yang
+  - Brett I. Bell
+  - Michael Pennock
+  - Pingfang Tsai
+  - "Wolfgang A. Tom\xE9"
+  - J. Isabelle Choi
+  - Chandan Guha
+  - Charles B. Simone
+  - Haibo Lin
+  - Minglei Kang
+  publisher: Radiotherapy and Oncology
+  date: '2024-06-01'
+  link: https://doi.org/gt3twh
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1186/s13287-024-03734-z
   title: Thrombopoietin mimetic stimulates bone marrow vascular and stromal niches
     to mitigate acute radiation syndrome
