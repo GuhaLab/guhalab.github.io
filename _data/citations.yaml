@@ -250,6 +250,35 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1002/mp.16364
+  title: Commissioning a 250 MeV research beamline for proton FLASH radiotherapy preclinical
+    experiments
+  authors:
+  - Yunjie Yang
+  - Minglei Kang
+  - "Chin\u2010Cheng Chen"
+  - Lei Hu
+  - Francis Yu
+  - Pingfang Tsai
+  - Sheng Huang
+  - Jiayi Liu
+  - Ryan Turner
+  - Brian Shen
+  - Shaakir Hasan
+  - Arpit M. Chhabra
+  - J Isabelle Choi
+  - Brett Bell
+  - Michael Pennock
+  - Wolfgang A. Tome
+  - Chanda Guha
+  - Charles B. Simone
+  - Haibo Lin
+  publisher: Medical Physics
+  date: '2023-03-29'
+  link: https://doi.org/gtrd78
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s10555-023-10114-1
   title: The role of histone H3 lysine demethylases in glioblastoma
   authors:
