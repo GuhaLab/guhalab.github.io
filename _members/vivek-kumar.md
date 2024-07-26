@@ -1,6 +1,6 @@
 ---
 name: Vivek Kumar, Ph.D.
-image: images/photo.jpg
+image: images/vivekkumar.jpg
 description: Instructor
 role: instructor
 aliases: Vivek Kumar
