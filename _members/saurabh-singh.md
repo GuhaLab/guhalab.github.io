@@ -1,6 +1,6 @@
 ---
 name: Saurabh Singh, Ph.D.
-image: images/photo.jpg
+image: images/saurabhsingh.jpeg
 description: Staff Scientist
 role: staffscientist
 aliases: Saurabh Singh
