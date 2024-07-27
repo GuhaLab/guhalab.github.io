@@ -1,6 +1,6 @@
 ---
 name: Mansoor M. Ahmed, Ph.D.
-image: images/photo.jpg
+image: images/mansoorahmed.png
 description: Research Professor
 role: senior1
 aliases: Mansoor Ahmed, Mansoor M. Ahmed
