@@ -1,5 +1,88 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.07.08.602528
+  title: FLASH proton reirradiation, with or without hypofractionation, mitigates
+    chronic toxicity in the normal murine intestine, skin, and bone
+  authors:
+  - Ioannis I. Verginadis
+  - Anastasia Velalopoulou
+  - Michele M. Kim
+  - Kyle Kim
+  - Ioannis Paraskevaidis
+  - Brett Bell
+  - Seyyedeh Azar Oliaei Motlagh
+  - Antoneta Karaj
+  - Esha Banerjee
+  - Giovanni Finesso
+  - Charles-Antoine Assenmacher
+  - Enrico Radaelli
+  - Jiawei Lu
+  - Yuewei Lin
+  - Mary E. Putt
+  - Eric S. Diffenderfer
+  - Chandan Guha
+  - Ling Qin
+  - James M. Metz
+  - Amit Maity
+  - Keith A. Cengel
+  - Constantinos Koumenis
+  - Theresa M. Busch
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-07-11'
+  link: https://doi.org/gt5kc4
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.semradonc.2024.05.005
+  title: Innovations in Physics, Biology and Clinical Translation of Spatially Fractionated
+    and FLASH Radiotherapy
+  authors:
+  - Robert J. Griffin
+  - Chandan Guha
+  publisher: Seminars in Radiation Oncology
+  date: '2024-07-01'
+  link: https://doi.org/gt5kc5
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.radonc.2024.110442
+  title: 'Novel time-synchronized immune-guided partial tumor irradiation: Proof of
+    principle trial'
+  authors:
+  - S. Tubin
+  - M.L. Ashdown
+  - M.A. Mansoor
+  - C. Guha
+  - G. Salerno
+  - B. Celedin
+  - B. Trummer
+  - S. Demschar
+  - W. Raunik
+  publisher: Radiotherapy and Oncology
+  date: '2024-07-01'
+  link: https://doi.org/gt5kc6
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.semradonc.2024.05.002
+  title: 'Optimizing GRID and Lattice Spatially Fractionated Radiation Therapy: Innovative
+    Strategies for Radioresistant and Bulky Tumor Management'
+  authors:
+  - Mansoor M. Ahmed
+  - Xiaodong Wu
+  - Majid Mohiuddin
+  - Naipy C. Perez
+  - Hualin Zhang
+  - Beatriz E. Amendola
+  - Beata Malachowska
+  - Mohammed Mohiuddin
+  - Chandan Guha
+  publisher: Seminars in Radiation Oncology
+  date: '2024-07-01'
+  link: https://doi.org/gt5kc7
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.radonc.2024.110404
   title: Validation and reproducibility of in vivo dosimetry for pencil beam scanned
     FLASH proton treatment in mice
@@ -20,6 +103,38 @@
   publisher: Radiotherapy and Oncology
   date: '2024-06-01'
   link: https://doi.org/gt3twh
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cell.2024.05.004
+  title: Isthmus progenitor cells contribute to homeostatic cellular turnover and
+    support regeneration following intestinal injury
+  authors:
+  - Ermanno Malagola
+  - Alessandro Vasciaveo
+  - Yosuke Ochiai
+  - Woosook Kim
+  - Biyun Zheng
+  - Luca Zanella
+  - Alexander L.E. Wang
+  - Moritz Middelhoff
+  - "Henrik Nienh\xFCser"
+  - Lu Deng
+  - Feijing Wu
+  - Quin T. Waterbury
+  - Bryana Belin
+  - Jonathan LaBella
+  - Leah B. Zamechek
+  - Melissa H. Wong
+  - Linheng Li
+  - Chandan Guha
+  - Chia-Wei Cheng
+  - Kelley S. Yan
+  - Andrea Califano
+  - Timothy C. Wang
+  publisher: Cell
+  date: '2024-06-01'
+  link: https://doi.org/gt5kc8
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
