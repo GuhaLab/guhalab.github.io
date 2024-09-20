@@ -1,5 +1,36 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.ijrobp.2024.09.006
+  title: Whole abdominal pencil beam scanned proton FLASH increases acute lethality
+  authors:
+  - Brett I. Bell
+  - Christian Velten
+  - Michael Pennock
+  - Minglei Kang
+  - Kathryn E. Tanaka
+  - Balaji Selvaraj
+  - Alexander Bookbinder
+  - Wade Koba
+  - Justin Vercellino
+  - Jeb English
+  - "Beata Ma\u0142achowska"
+  - Sanjay Pandey
+  - Phaneendra K. Duddempudi
+  - Yunjie Yang
+  - Shahin Shajahan
+  - Shaakir Hasan
+  - J. Isabelle Choi
+  - Charles B. Simone
+  - Weng-Lang Yang
+  - "Wolfgang A. Tom\xE9"
+  - Haibo Lin
+  - Chandan Guha
+  publisher: International Journal of Radiation Oncology*Biology*Physics
+  date: '2024-09-01'
+  link: https://doi.org/g3c98g
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.07.08.602528
   title: FLASH proton reirradiation, with or without hypofractionation, mitigates
     chronic toxicity in the normal murine intestine, skin, and bone
