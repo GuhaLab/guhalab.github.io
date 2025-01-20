@@ -132,7 +132,7 @@
   orcid: 0000-0002-1906-2186
   plugin: sources.py
   file: sources.yaml
-  image: https://guhalab.org/images/images/flashfig1.jpg
+  image: https://www.redjournal.org/cms/asset/84b43ee8-be65-4f72-acfc-8f0faaa242c3/cov200h.gif
 - id: doi:10.1101/2024.07.08.602528
   title: FLASH proton reirradiation, with or without hypofractionation, mitigates
     chronic toxicity in the normal murine intestine, skin, and bone
