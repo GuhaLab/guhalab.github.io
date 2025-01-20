@@ -26,6 +26,10 @@ jrfaculty:
   icon: fa-solid fa-microscope
   description: Faculty
 
+resassistantprof:
+  icon: fa-solid fa-microscope
+  description: Research Assistant Professor
+
 staffscientist1:
   icon: fa-solid fa-microscope
   description: Staff Scientist

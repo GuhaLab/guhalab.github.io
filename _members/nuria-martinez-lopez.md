@@ -2,7 +2,7 @@
 name: Nuria Martinez-Lopez, Ph.D.
 image: images/nuriamartinezlopez.jpeg
 description: Research Assistant Professor
-role: jrfaculty
+role: resassistantprof
 aliases: Nuria Martinez-Lopez
 
 links:
