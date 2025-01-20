@@ -18,8 +18,7 @@ Our lab focuses on radiation biology and tumor immunology with the goal of impro
 
 {% include citation.html lookup="Thrombopoietin mimetic stimulates bone marrow vascular and stromal niches to mitigate acute radiation syndrome" style="rich" %}
 
-{% include citation.html lookup="Thrombopoietin mimetic reduces mouse lung inflammation and fibrosis after
-    radiation by attenuating activated endothelial phenotypes" style="rich" %}
+{% include citation.html lookup="Thrombopoietin mimetic reduces mouse lung inflammation and fibrosis after radiation by attenuating activated endothelial phenotypes" style="rich" %}
 
 ## Our Published Works
 
