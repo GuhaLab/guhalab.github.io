@@ -1,6 +1,6 @@
 ---
 name: Wade Koba, B.M.E.
-image: images/photo.jpg
+image: images/wadekoba.png
 description: Principal Staff Scientist
 role: staffscientist
 aliases: Wade Koba
