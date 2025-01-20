@@ -1,5 +1,54 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1001/jamaoncol.2024.5403
+  title: Stereotactic Body Radiotherapy vs Sorafenib Alone in Hepatocellular Carcinoma
+  authors:
+  - Laura A. Dawson
+  - Kathryn A. Winter
+  - Jennifer J. Knox
+  - Andrew X. Zhu
+  - Sunil Krishnan
+  - Chandan Guha
+  - Lisa A. Kachnic
+  - Michael T. Gillin
+  - Theodore S. Hong
+  - Timothy D. Craig
+  - Terence M. Williams
+  - Ali Hosni
+  - Eric Chen
+  - Anne M. Noonan
+  - Eugene J. Koay
+  - Rishi Sinha
+  - Michael I. Lock
+  - Nitin Ohri
+  - Jennifer A. Dorth
+  - Guila Delouya
+  - Anand Swaminath
+  - Jennifer Moughan
+  - Christopher H. Crane
+  publisher: JAMA Oncology
+  date: '2024-12-19'
+  link: https://doi.org/g82jg3
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1172/jci.insight.181330
+  title: Thrombopoietin mimetic reduces mouse lung inflammation and fibrosis after
+    radiation by attenuating activated endothelial phenotypes
+  authors:
+  - Jeb English
+  - Sriya Dhanikonda
+  - Kathryn E. Tanaka
+  - Wade Koba
+  - Gary Eichenbaum
+  - Weng-Lang Yang
+  - Chandan Guha
+  publisher: JCI Insight
+  date: '2024-11-08'
+  link: https://doi.org/g8rgsv
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.oraloncology.2024.107069
   title: Comprehensive functional evaluation of head and neck squamous cell carcinoma
     with BH3-profiling demonstrates apoptotic competency and therapeutic efficacy
