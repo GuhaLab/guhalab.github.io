@@ -30,6 +30,10 @@ resassistantprof:
   icon: fa-solid fa-microscope
   description: Research Assistant Professor
 
+staffscientist0:
+  icon: fa-solid fa-microscope
+  description: Staff Scientist
+
 staffscientist1:
   icon: fa-solid fa-microscope
   description: Staff Scientist
