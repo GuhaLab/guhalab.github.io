@@ -14,11 +14,12 @@ Our lab focuses on radiation biology and tumor immunology with the goal of impro
 
 ## Highlighted
 
-{% include citation.html lookup="Orthovoltage X-Rays Exhibit Increased Efficacy Compared with γ-Rays in Preclinical Irradiation" style="rich" %}
-
-{% include citation.html lookup="Whole abdominal pencil beam scanned proton FLASH increases acute lethality" style="rich" %}
+{% include citation.html lookup="Whole Abdominal Pencil Beam Scanned Proton FLASH Increases Acute Lethality" style="rich" %}
 
 {% include citation.html lookup="Thrombopoietin mimetic stimulates bone marrow vascular and stromal niches to mitigate acute radiation syndrome" style="rich" %}
+
+{% include citation.html lookup="Thrombopoietin mimetic reduces mouse lung inflammation and fibrosis after
+    radiation by attenuating activated endothelial phenotypes" style="rich" %}
 
 ## Our Published Works
 
