@@ -1,6 +1,6 @@
 ---
 name: Patrik Asp, Ph.D.
-image: images/photo.jpg
+image: images/patrikasp.jpg
 description: Instructor
 role: senior4
 aliases: Patrik Asp
