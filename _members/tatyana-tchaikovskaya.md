@@ -2,7 +2,7 @@
 name: Tatyana Tchaikovskaya, Ph.D.
 image: images/tatyanatchaikovskaya.jpg
 description: Staff Scientist
-role: staffscientist0
+role: staffscientisttat
 aliases: Tatyana Tchaikovskaya
 
 links:
