@@ -1,5 +1,133 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.04.11.647869
+  title: Loss of CARM1 alters the developmental programming of Glioma stem-like cells
+    and creates a druggable NGFR/NTRK dependency
+  authors:
+  - Dejauwne L. Young
+  - Jennifer Aguilan
+  - Ronald Cutler
+  - Stephanie Stransky
+  - Joseph D. DeAngelo
+  - Jacob S. Roth
+  - Beata Malachowska
+  - Justin Vercellino
+  - Brett I. Bell
+  - David Shechter
+  - Philip J. Tofilon
+  - Richard E. Phillips
+  - Chandan Guha
+  - Simone Sidoli
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-04-17'
+  link: https://doi.org/g9gf67
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijrobp.2025.03.047
+  title: 'Requirements and study design for the next proton FLASH clinical trials:
+    an international multidisciplinary Delphi consensus'
+  authors:
+  - Yvonne LB Klaver
+  - Mischa S Hoogeman
+  - Q Richard Lu
+  - Jeffrey D Bradley
+  - J Isabelle Choi
+  - Matthew J Ferris
+  - Cai Grau
+  - Chandan Guha
+  - Haibo Lin
+  - Liyong Lin
+  - Anthony E Mascia
+  - Astrid M Moerman
+  - Per R Poulsen
+  - Lewis Z Shi
+  - "Brita Singers S\xF8rensen"
+  - Sibo Tian
+  - Marie-Catherine Vozenin
+  - Christopher D Willey
+  - Sumin Zhou
+  - Richard A Amos
+  - Maria Hawkins
+  - Charles B Simone
+  publisher: International Journal of Radiation Oncology*Biology*Physics
+  date: '2025-03-01'
+  link: https://doi.org/g9gf68
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/s2468-1253(24)00267-x
+  title: Emerging evidence-based role for external-beam radiation therapy in hepatocellular
+    carcinoma
+  authors:
+  - Stephanie O Dudzinski
+  - Neil B Newman
+  - Jeff McIntyre
+  - Reena Engineer
+  - Nina N Sanford
+  - Jennifer Y Wo
+  - Jinsil Seong
+  - Chandan Guha
+  - Daniel T Chang
+  - Theodore S Hong
+  - Laura A Dawson
+  - Eugene J Koay
+  - Ethan B Ludmir
+  publisher: The Lancet Gastroenterology &amp; Hepatology
+  date: '2025-04-01'
+  link: https://doi.org/g9gf69
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.01.29.25321332
+  title: Revitalizing systemic immune responses in advanced NSCLC using FLT3L and
+    SBRT
+  authors:
+  - Divij Mathew
+  - Nitin Ohri
+  - Shin Foong Ngiow
+  - Balazs Halmos
+  - KC Wumesh
+  - Madhur Garg
+  - Jeffrey M Levsky
+  - Haiying Cheng
+  - Rasim A. Gucalp
+  - William Raymond Bodner
+  - Rafi Kabarriti
+  - Claudia Gutierrez-Chavez
+  - Adel Zakharia
+  - Shalom Kalnicki
+  - Tibor Keler
+  - Michael Yellin
+  - Andy J Minn
+  - Amit Maity
+  - Josephine R Giles
+  - Chandan Guha
+  - E. John Wherry
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-02-02'
+  link: https://doi.org/g9gf7b
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.canlet.2025.217571
+  title: 'Therapy resistance: Modulating evolutionarily conserved heat shock protein
+    machinery in cancer'
+  authors:
+  - Ilona Skrabalak
+  - Alicja Rajtak
+  - Beata Malachowska
+  - Natalia Skrzypczak
+  - Karin A. Skalina
+  - Chandan Guha
+  - Jan Kotarski
+  - Karolina Okla
+  publisher: Cancer Letters
+  date: '2025-04-01'
+  link: https://doi.org/g9gf7c
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1001/jamaoncol.2024.5403
   title: Stereotactic Body Radiotherapy vs Sorafenib Alone in Hepatocellular Carcinoma
   authors:
