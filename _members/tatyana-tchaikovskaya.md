@@ -2,7 +2,7 @@
 name: Tatyana Tchaikovskaya, Ph.D.
 image: images/tatyanatchaikovskaya.jpg
 description: Staff Scientist
-role: staffscientisttat
+role: stafftat
 aliases: Tatyana Tchaikovskaya
 
 links:
@@ -10,5 +10,3 @@ links:
   home-page: https://www.einsteinmed.edu/faculty/5820/tatyana-tchaikovskaya/
   linkedin: tatyana-tchaikovskaya-0260863b/
 ---
-
-

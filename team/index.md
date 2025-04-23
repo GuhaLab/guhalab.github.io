@@ -25,8 +25,8 @@ nav:
 
 {% include list.html data="members" component="portrait" filters="role: jrfaculty, group:" %}
 {% include list.html data="members" component="portrait" filters="role: resassistantprof, group:" %}
-{% include list.html data="members" component="portrait" filters="role: staffscientisttat, group:" %}
-{% include list.html data="members" component="portrait" filters="role: staffscientist1, group:" %}
+
+{% include list.html data="members" component="portrait" filters="role: stafftat, group:" %}
 {% include list.html data="members" component="portrait" filters="role: staffscientist, group:" %}
 {% include list.html data="members" component="portrait" filters="role: instructor, group:" %}
 

@@ -1,6 +1,6 @@
 ---
 name: Subramanian Thothathri, M.S
-image: 
+image: subramanianthothathri.jpeg
 role: phd
 aliases: Subramanian Thothathri
 
