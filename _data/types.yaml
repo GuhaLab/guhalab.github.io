@@ -44,7 +44,7 @@ staffscientist:
 
 instructor:
   icon: fa-solid fa-microscope
-  description: Staff Scientist
+  description: Instructor
 
 resident:
   icon: fa-solid fa-stethoscope
