@@ -8,7 +8,7 @@ links:
   email: beata.malachowska@einsteinmed.edu
   home-page: https://einsteinmed.edu/faculty/16514/beata-e-malachowska
   orcid: 0000-0003-4009-8797
-  google-scholar: Q2BcgtT4AAAAJ
+  google-scholar: 2BcgtT4AAAAJ
   linkedin: beata-małachowska/?locale=en_US
   twitter: b_e_malachowska
   github: beata-malachowska

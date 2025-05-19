@@ -9,7 +9,7 @@ links:
   email: weng-lang.yang@einsteinmed.edu
   home-page: https://www.einsteinmed.edu/faculty/6583/weng-lang-yang/
   orcid: 0000-0001-6128-6557
-  google-scholar: dX_aqAAAAAJ
+  google-scholar: -dX_aqAAAAAJ
   linkedin: weng-lang-yang-2a318a10
 ---
 

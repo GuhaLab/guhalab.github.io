@@ -10,7 +10,7 @@ links:
   email: brett.bell@einsteinmed.edu 
   home-page: https://brettbell.com
   orcid: 0000-0002-8439-1402
-  google-scholar: TvMtLMAAAAJ
+  google-scholar: -TvMtLMAAAAJ
   linkedin: brettibell
   twitter: Brett_I_Bell
   github: BrettIBell
