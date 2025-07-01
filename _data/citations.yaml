@@ -1,5 +1,52 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1080/2162402x.2025.2507856
+  title: 'Updates on radiotherapy-immunotherapy combinations: Proceedings of 8th Annual
+    ImmunoRad Conference'
+  authors:
+  - Fereshteh Talebi
+  - Fabiana Gregucci
+  - Jalal Ahmed
+  - Nir Ben Chetrit
+  - Brian D. Brown
+  - Timothy A. Chan
+  - Dhan Chand
+  - Julie Constanzo
+  - Sandra Demaria
+  - Dmitry I. Gabrilovich
+  - Encouse Golden
+  - Andrew Godkin
+  - Chandan Guha
+  - Gaorav P. Gupta
+  - Aisha Hasan
+  - Fernanda G. Herrera
+  - Howard Kaufman
+  - Donna Li
+  - Alan A. Melcher
+  - Sierra McDonald
+  - Taha Merghoub
+  - Arta M. Monjazeb
+  - "S\xE9bastien Paris"
+  - Sean Pitroda
+  - Anguraj Sadanandam
+  - "D\xF6rthe Schaue"
+  - Laura Santambrogio
+  - Phillippe Szapary
+  - Julien Sage
+  - James W. Welsh
+  - Anna Wilkins
+  - Kristina H. Young
+  - Eric Wennerberg
+  - Laurence Zitvogel
+  - Lorenzo Galluzzi
+  - Eric Deutsch
+  - Silvia C. Formenti
+  publisher: OncoImmunology
+  date: '2025-05-22'
+  link: https://doi.org/g9rx8m
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.04.11.647869
   title: Loss of CARM1 alters the developmental programming of Glioma stem-like cells
     and creates a druggable NGFR/NTRK dependency
@@ -21,6 +68,47 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2025-04-17'
   link: https://doi.org/g9gf67
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2340/1651-226x.2025.40680
+  title: Pre-treatment tumour PET metrics and clinical outcomes of anal cancer in
+    patients living with and without HIV
+  authors:
+  - Michael Pennock
+  - N. Patrik Brodin
+  - Christian Velten
+  - Megi Gjini
+  - Nitin Ohri
+  - Chandan Guha
+  - Shalom Kalnicki
+  - Wolfgang A. Tome
+  - Madhur K. Garg
+  - Rafi Kabarriti
+  publisher: Acta Oncologica
+  date: '2025-04-24'
+  link: https://doi.org/g9rx8n
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.04.24.648993
+  title: TIGIT expression dictates the immunosuppressive reprogramming of myeloid
+    cells in glioblastoma
+  authors:
+  - Mohammad Asad
+  - Julio Inocencio
+  - Stefan Mitrasinovic
+  - Minori Aoki
+  - Celina Crisman
+  - Patrick Lasala
+  - Emad Eskandar
+  - Chandan Guha
+  - XingXing Zang
+  - Ian F. Parney
+  - Benjamin T. Himes
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-04-25'
+  link: https://doi.org/g9rx8p
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -125,6 +213,51 @@
   publisher: Cancer Letters
   date: '2025-04-01'
   link: https://doi.org/g9gf7c
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.radonc.2025.110744
+  title: FLASH proton reirradiation, with or without hypofractionation, reduces chronic
+    toxicity in the normal murine intestine, skin, and bone
+  authors:
+  - Ioannis I. Verginadis
+  - Anastasia Velalopoulou
+  - Michele M. Kim
+  - Kyle Kim
+  - Ioannis Paraskevaidis
+  - Brett Bell
+  - Seyyedeh Azar Oliaei Motlagh
+  - Antoneta Karaj
+  - Esha Banerjee
+  - Giovanni Finesso
+  - Charles-Antoine Assenmacher
+  - Enrico Radaelli
+  - Jiawei Lu
+  - Yuewei Lin
+  - Mary E. Putt
+  - Eric S. Diffenderfer
+  - Chandan Guha
+  - Ling Qin
+  - James M. Metz
+  - Amit Maity
+  - Keith A. Cengel
+  - Constantinos Koumenis
+  - Theresa M. Busch
+  publisher: Radiotherapy and Oncology
+  date: '2025-04-01'
+  link: https://doi.org/g9rx8q
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.hoc.2024.12.003
+  title: Radiation-Induced Tissue Regeneration
+  authors:
+  - Mansoor M. Ahmed
+  - Beata Malachowska
+  - Chandan Guha
+  publisher: Hematology/Oncology Clinics of North America
+  date: '2025-04-01'
+  link: https://doi.org/g9rx8r
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
