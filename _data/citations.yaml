@@ -74,6 +74,50 @@
 - id: doi:10.2340/1651-226x.2025.40680
   title: Pre-treatment tumour PET metrics and clinical outcomes of anal cancer in
     patients living with and without HIV
+<<<<<<< HEAD
+=======
+  authors:
+  - Michael Pennock
+  - N. Patrik Brodin
+  - Christian Velten
+  - Megi Gjini
+  - Nitin Ohri
+  - Chandan Guha
+  - Shalom Kalnicki
+  - Wolfgang A. Tome
+  - Madhur K. Garg
+  - Rafi Kabarriti
+  publisher: Acta Oncologica
+  date: '2025-04-24'
+  link: https://doi.org/g9rx8n
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.04.24.648993
+  title: TIGIT expression dictates the immunosuppressive reprogramming of myeloid
+    cells in glioblastoma
+  authors:
+  - Mohammad Asad
+  - Julio Inocencio
+  - Stefan Mitrasinovic
+  - Minori Aoki
+  - Celina Crisman
+  - Patrick Lasala
+  - Emad Eskandar
+  - Chandan Guha
+  - XingXing Zang
+  - Ian F. Parney
+  - Benjamin T. Himes
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-04-25'
+  link: https://doi.org/g9rx8p
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijrobp.2025.03.047
+  title: 'Requirements and study design for the next proton FLASH clinical trials:
+    an international multidisciplinary Delphi consensus'
+>>>>>>> 4a636396139af4f5f6efd6884f770430aa65558f
   authors:
   - Michael Pennock
   - N. Patrik Brodin
