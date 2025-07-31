@@ -1,5 +1,52 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1080/2162402x.2025.2507856
+  title: 'Updates on radiotherapy-immunotherapy combinations: Proceedings of 8th Annual
+    ImmunoRad Conference'
+  authors:
+  - Fereshteh Talebi
+  - Fabiana Gregucci
+  - Jalal Ahmed
+  - Nir Ben Chetrit
+  - Brian D. Brown
+  - Timothy A. Chan
+  - Dhan Chand
+  - Julie Constanzo
+  - Sandra Demaria
+  - Dmitry I. Gabrilovich
+  - Encouse Golden
+  - Andrew Godkin
+  - Chandan Guha
+  - Gaorav P. Gupta
+  - Aisha Hasan
+  - Fernanda G. Herrera
+  - Howard Kaufman
+  - Donna Li
+  - Alan A. Melcher
+  - Sierra McDonald
+  - Taha Merghoub
+  - Arta M. Monjazeb
+  - "S\xE9bastien Paris"
+  - Sean Pitroda
+  - Anguraj Sadanandam
+  - "D\xF6rthe Schaue"
+  - Laura Santambrogio
+  - Phillippe Szapary
+  - Julien Sage
+  - James W. Welsh
+  - Anna Wilkins
+  - Kristina H. Young
+  - Eric Wennerberg
+  - Laurence Zitvogel
+  - Lorenzo Galluzzi
+  - Eric Deutsch
+  - Silvia C. Formenti
+  publisher: OncoImmunology
+  date: '2025-05-22'
+  link: https://doi.org/g9rx8m
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.04.11.647869
   title: Loss of CARM1 alters the developmental programming of Glioma stem-like cells
     and creates a druggable NGFR/NTRK dependency
@@ -24,32 +71,73 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.ijrobp.2025.03.047
-  title: 'Requirements and study design for the next proton FLASH clinical trials:
-    an international multidisciplinary Delphi consensus'
+- id: doi:10.2340/1651-226x.2025.40680
+  title: Pre-treatment tumour PET metrics and clinical outcomes of anal cancer in
+    patients living with and without HIV
   authors:
-  - Yvonne LB Klaver
-  - Mischa S Hoogeman
-  - Q Richard Lu
-  - Jeffrey D Bradley
-  - J Isabelle Choi
-  - Matthew J Ferris
+  - Michael Pennock
+  - N. Patrik Brodin
+  - Christian Velten
+  - Megi Gjini
+  - Nitin Ohri
+  - Chandan Guha
+  - Shalom Kalnicki
+  - Wolfgang A. Tome
+  - Madhur K. Garg
+  - Rafi Kabarriti
+  publisher: Acta Oncologica
+  date: '2025-04-24'
+  link: https://doi.org/g9rx8n
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.04.24.648993
+  title: TIGIT expression dictates the immunosuppressive reprogramming of myeloid
+    cells in glioblastoma
+  authors:
+  - Mohammad Asad
+  - Julio Inocencio
+  - Stefan Mitrasinovic
+  - Minori Aoki
+  - Celina Crisman
+  - Patrick Lasala
+  - Emad Eskandar
+  - Chandan Guha
+  - XingXing Zang
+  - Ian F. Parney
+  - Benjamin T. Himes
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-04-25'
+  link: https://doi.org/g9rx8p
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijrobp.2025.03.047
+  title: 'Requirements and Study Design for the Next Proton FLASH Clinical Trials:
+    an International Multidisciplinary Delphi Consensus'
+  authors:
+  - Yvonne L.B. Klaver
+  - Mischa S. Hoogeman
+  - Q. Richard Lu
+  - Jeffrey D. Bradley
+  - J. Isabelle Choi
+  - Matthew J. Ferris
   - Cai Grau
   - Chandan Guha
   - Haibo Lin
   - Liyong Lin
-  - Anthony E Mascia
-  - Astrid M Moerman
-  - Per R Poulsen
-  - Lewis Z Shi
+  - Anthony E. Mascia
+  - Astrid M. Moerman
+  - Per R. Poulsen
+  - Lewis Z. Shi
   - "Brita Singers S\xF8rensen"
   - Sibo Tian
   - Marie-Catherine Vozenin
-  - Christopher D Willey
+  - Christopher D. Willey
   - Sumin Zhou
-  - Richard A Amos
+  - Richard A. Amos
   - Maria Hawkins
-  - Charles B Simone
+  - Charles B. Simone
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2025-03-01'
   link: https://doi.org/g9gf68
@@ -128,6 +216,51 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.radonc.2025.110744
+  title: FLASH proton reirradiation, with or without hypofractionation, reduces chronic
+    toxicity in the normal murine intestine, skin, and bone
+  authors:
+  - Ioannis I. Verginadis
+  - Anastasia Velalopoulou
+  - Michele M. Kim
+  - Kyle Kim
+  - Ioannis Paraskevaidis
+  - Brett Bell
+  - Seyyedeh Azar Oliaei Motlagh
+  - Antoneta Karaj
+  - Esha Banerjee
+  - Giovanni Finesso
+  - Charles-Antoine Assenmacher
+  - Enrico Radaelli
+  - Jiawei Lu
+  - Yuewei Lin
+  - Mary E. Putt
+  - Eric S. Diffenderfer
+  - Chandan Guha
+  - Ling Qin
+  - James M. Metz
+  - Amit Maity
+  - Keith A. Cengel
+  - Constantinos Koumenis
+  - Theresa M. Busch
+  publisher: Radiotherapy and Oncology
+  date: '2025-04-01'
+  link: https://doi.org/g9rx8q
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.hoc.2024.12.003
+  title: Radiation-Induced Tissue Regeneration
+  authors:
+  - Mansoor M. Ahmed
+  - Beata Malachowska
+  - Chandan Guha
+  publisher: Hematology/Oncology Clinics of North America
+  date: '2025-04-01'
+  link: https://doi.org/g9rx8r
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1001/jamaoncol.2024.5403
   title: Stereotactic Body Radiotherapy vs Sorafenib Alone in Hepatocellular Carcinoma
   authors:
@@ -156,7 +289,7 @@
   - Christopher H. Crane
   publisher: JAMA Oncology
   date: '2025-02-01'
-  link: https://doi.org/10.1001/jamaoncol.2024.5403
+  link: https://doi.org/g82jg3
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -173,7 +306,7 @@
   - Chandan Guha
   publisher: JCI Insight
   date: '2024-11-08'
-  link: https://doi.org/10.1172/jci.insight.181330
+  link: https://doi.org/g8rgsv
   orcid: 0000-0002-1906-2186
   plugin: sources.py
   file: sources.yaml
@@ -202,7 +335,7 @@
   - Thomas J. Ow
   publisher: Oral Oncology
   date: '2024-12-01'
-  link: https://doi.org/10.1016/j.oraloncology.2024.107069
+  link: https://doi.org/g8n7sb
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -225,7 +358,7 @@
   - Susanta K. Hui
   publisher: Frontiers in Oncology
   date: '2024-10-10'
-  link: https://doi.org/10.3389/fonc.2024.1414488
+  link: https://doi.org/g8n7sc
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -256,7 +389,7 @@
   - Chandan Guha
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2025-02-01'
-  link: https://doi.org/10.1016/j.ijrobp.2024.09.006
+  link: https://doi.org/g3c98g
   orcid: 0000-0002-1906-2186
   plugin: sources.py
   file: sources.yaml
@@ -290,7 +423,7 @@
   - Theresa M. Busch
   publisher: Cold Spring Harbor Laboratory
   date: '2024-07-11'
-  link: https://doi.org/10.1101/2024.07.08.602528
+  link: https://doi.org/gt5kc4
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -302,7 +435,7 @@
   - Chandan Guha
   publisher: Seminars in Radiation Oncology
   date: '2024-07-01'
-  link: https://doi.org/10.1016/j.semradonc.2024.05.005
+  link: https://doi.org/gt5kc5
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -321,7 +454,7 @@
   - W. Raunik
   publisher: Radiotherapy and Oncology
   date: '2024-10-01'
-  link: https://doi.org/10.1016/j.radonc.2024.110442
+  link: https://doi.org/gt5kc6
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -340,7 +473,7 @@
   - Chandan Guha
   publisher: Seminars in Radiation Oncology
   date: '2024-07-01'
-  link: https://doi.org/10.1016/j.semradonc.2024.05.002
+  link: https://doi.org/gt5kc7
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -363,7 +496,7 @@
   - Minglei Kang
   publisher: Radiotherapy and Oncology
   date: '2024-09-01'
-  link: https://doi.org/10.1016/j.radonc.2024.110404
+  link: https://doi.org/gt3twh
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -395,7 +528,7 @@
   - Timothy C. Wang
   publisher: Cell
   date: '2024-06-01'
-  link: https://doi.org/10.1016/j.cell.2024.05.004
+  link: https://doi.org/gt5kc8
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -417,7 +550,7 @@
   - Chandan Guha
   publisher: Stem Cell Research &amp; Therapy
   date: '2024-04-29'
-  link: https://doi.org/10.1186/s13287-024-03734-z
+  link: https://doi.org/gtsqzd
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -465,7 +598,7 @@
   - Laura A. Dawson
   publisher: Practical Radiation Oncology
   date: '2024-03-01'
-  link: https://doi.org/10.1016/j.prro.2023.08.016
+  link: https://doi.org/gtkh5f
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -491,7 +624,7 @@
   - Balazs Halmos
   publisher: Journal of Clinical Oncology
   date: '2024-02-10'
-  link: https://doi.org/10.1200/jco.23.00627
+  link: https://doi.org/gtkh5h
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -511,7 +644,7 @@
   - Lucas Resende Salgado
   publisher: BJUI Compass
   date: '2024-02-08'
-  link: https://doi.org/10.1002/bco2.323
+  link: https://doi.org/gtkh5j
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -537,7 +670,7 @@
   - Chandan Guha
   publisher: The Laryngoscope
   date: '2024-01-30'
-  link: https://doi.org/10.1002/lary.31236
+  link: https://doi.org/gtkh5k
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -550,7 +683,7 @@
   - Zahra Shafaee
   publisher: Journal of Clinical Oncology
   date: '2024-01-20'
-  link: https://doi.org/10.1200/jco.2024.42.3_suppl.14
+  link: https://doi.org/gtkh5m
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -569,7 +702,7 @@
   - Ulrich Steidl
   publisher: Cold Spring Harbor Laboratory
   date: '2023-10-29'
-  link: https://doi.org/10.1101/2023.10.28.564559
+  link: https://doi.org/gtkh5p
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -590,7 +723,7 @@
   - Timothy C. Wang
   publisher: Cellular and Molecular Gastroenterology and Hepatology
   date: '2024-01-01'
-  link: https://doi.org/10.1016/j.jcmgh.2023.10.007
+  link: https://doi.org/gtkh5n
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -610,7 +743,7 @@
   - Sanchita P. Ghosh
   publisher: Scientific Reports
   date: '2023-09-14'
-  link: https://doi.org/10.1038/s41598-023-42443-0
+  link: https://doi.org/gtkh5q
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -622,7 +755,7 @@
   - Chandan Guha
   publisher: Biomedicines
   date: '2023-08-10'
-  link: https://doi.org/10.3390/biomedicines11082245
+  link: https://doi.org/gtkh5r
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -651,7 +784,7 @@
   - Haibo Lin
   publisher: Medical Physics
   date: '2023-03-29'
-  link: https://doi.org/10.1002/mp.16364
+  link: https://doi.org/gtrd78
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -663,7 +796,7 @@
   - Simone Sidoli
   publisher: Cancer and Metastasis Reviews
   date: '2023-06-01'
-  link: https://doi.org/10.1007/s10555-023-10114-1
+  link: https://doi.org/gtkh5s
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -715,7 +848,7 @@
   - Silvia C. Formenti
   publisher: OncoImmunology
   date: '2023-06-21'
-  link: https://doi.org/10.1080/2162402x.2023.2222560
+  link: https://doi.org/gsd4t8
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -737,7 +870,7 @@
   - Thomas J. Ow
   publisher: Cancers
   date: '2023-03-28'
-  link: https://doi.org/10.3390/cancers15072005
+  link: https://doi.org/gtkh5t
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -762,7 +895,7 @@
   - Radia Tamarat
   publisher: Scientific Reports
   date: '2023-02-04'
-  link: https://doi.org/10.1038/s41598-022-21726-y
+  link: https://doi.org/gtkh5v
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -789,7 +922,7 @@
   - Thomas J. Ow
   publisher: Journal of Medical Virology
   date: '2023-01-10'
-  link: https://doi.org/10.1002/jmv.28388
+  link: https://doi.org/gtkh5w
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -812,7 +945,7 @@
   - Jayanta Roy-Chowdhury
   publisher: Hepatology Communications
   date: '2023-02-27'
-  link: https://doi.org/10.1097/hc9.0000000000000070
+  link: https://doi.org/gtkh5x
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -827,7 +960,7 @@
   - Bilikere S Dwarakanath
   publisher: Cancer Management and Research
   date: '2023-01-01'
-  link: https://doi.org/10.2147/cmar.s385968
+  link: https://doi.org/gtkh5z
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -844,7 +977,7 @@
   - Chandan Guha
   publisher: Cells
   date: '2022-10-24'
-  link: https://doi.org/10.3390/cells11213354
+  link: https://doi.org/grhqfm
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -867,7 +1000,7 @@
   - Susanta K. Hui
   publisher: Frontiers in Oncology
   date: '2022-09-06'
-  link: https://doi.org/10.3389/fonc.2022.969429
+  link: https://doi.org/gtkh52
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -898,7 +1031,7 @@
   - Chandan Guha
   publisher: Cancer Research
   date: '2022-08-03'
-  link: https://doi.org/10.1158/0008-5472.can-22-0656
+  link: https://doi.org/gtkh53
   orcid: 0000-0002-1906-2186
   plugin: sources.py
   file: sources.yaml
@@ -924,7 +1057,7 @@
   - Radia Tamarat
   publisher: Research Square Platform LLC
   date: '2022-06-17'
-  link: https://doi.org/10.21203/rs.3.rs-1733631/v1
+  link: https://doi.org/gtkh54
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -948,7 +1081,7 @@
   - Rafi Kabarriti
   publisher: JCO Clinical Cancer Informatics
   date: '2022-06-01'
-  link: https://doi.org/10.1200/cci.22.00024
+  link: https://doi.org/gtkh55
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -974,7 +1107,7 @@
   - Lopa Mishra
   publisher: Genes &amp; Cancer
   date: '2022-06-06'
-  link: https://doi.org/10.18632/genesandcancer.220
+  link: https://doi.org/gtkh56
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -994,7 +1127,7 @@
   - Sanchita P. Ghosh
   publisher: Scientific Reports
   date: '2022-03-03'
-  link: https://doi.org/10.1038/s41598-022-07426-7
+  link: https://doi.org/gtkh57
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1015,7 +1148,7 @@
   - Rafi Kabarriti
   publisher: Physics and Imaging in Radiation Oncology
   date: '2022-01-01'
-  link: https://doi.org/10.1016/j.phro.2022.02.005
+  link: https://doi.org/gtkh58
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1043,7 +1176,7 @@
   - David Shibata
   publisher: PLOS ONE
   date: '2021-12-09'
-  link: https://doi.org/10.1371/journal.pone.0260857
+  link: https://doi.org/gtkh59
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1065,7 +1198,7 @@
   - Susanta K Hui
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2022-03-01'
-  link: https://doi.org/10.1016/j.ijrobp.2021.10.146
+  link: https://doi.org/grsbqf
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1084,7 +1217,7 @@
   - N. Patrik Brodin
   publisher: Cureus
   date: '2021-08-25'
-  link: https://doi.org/10.7759/cureus.17432
+  link: https://doi.org/gtkh6b
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1098,7 +1231,7 @@
   - Chandan Guha
   publisher: Frontiers in Pharmacology
   date: '2021-05-18'
-  link: https://doi.org/10.3389/fphar.2021.662437
+  link: https://doi.org/gp4v5f
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1122,7 +1255,7 @@
   - Mansoor M Ahmed
   publisher: Journal for ImmunoTherapy of Cancer
   date: '2021-04-01'
-  link: https://doi.org/10.1136/jitc-2020-002038
+  link: https://doi.org/grp6xd
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1139,7 +1272,7 @@
   - B. S. Dwarakanath
   publisher: Frontiers in Cell and Developmental Biology
   date: '2021-04-22'
-  link: https://doi.org/10.3389/fcell.2021.650772
+  link: https://doi.org/gmh9q4
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1157,7 +1290,7 @@
   - Paul S. Frenette
   publisher: Scientific Reports
   date: '2021-03-22'
-  link: https://doi.org/10.1038/s41598-021-86067-8
+  link: https://doi.org/gtkh6c
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1172,7 +1305,7 @@
   - C. Norman Coleman
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2021-08-01'
-  link: https://doi.org/10.1016/j.ijrobp.2021.02.043
+  link: https://doi.org/gjpw4z
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1191,7 +1324,7 @@
   - Jiade J. Lu
   publisher: Journal of Cancer
   date: '2021-01-01'
-  link: https://doi.org/10.7150/jca.46316
+  link: https://doi.org/ghzmnk
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1214,7 +1347,7 @@
   - Chandan Guha
   publisher: Radiation Research
   date: '2020-10-16'
-  link: https://doi.org/10.1667/rade-20-00066.1
+  link: https://doi.org/gmbbdq
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1238,7 +1371,7 @@
   - Rafi Kabarriti
   publisher: JAMA Network Open
   date: '2020-11-05'
-  link: https://doi.org/10.1001/jamanetworkopen.2020.23942
+  link: https://doi.org/gtkh6d
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1272,7 +1405,7 @@
   - Kathryn D. Held
   publisher: Radiation Research
   date: '2020-10-12'
-  link: https://doi.org/10.1667/rade-20-00211.1
+  link: https://doi.org/gtkh6f
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1289,7 +1422,7 @@
   - Chandan Guha
   publisher: Practical Radiation Oncology
   date: '2021-03-01'
-  link: https://doi.org/10.1016/j.prro.2020.09.010
+  link: https://doi.org/gtkh6g
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1306,7 +1439,7 @@
   - Andrew D. Racine
   publisher: JAMA Network Open
   date: '2020-09-25'
-  link: https://doi.org/10.1001/jamanetworkopen.2020.19795
+  link: https://doi.org/gk6x44
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1322,7 +1455,7 @@
   - Laura A. Dawson
   publisher: eBioMedicine
   date: '2020-09-01'
-  link: https://doi.org/10.1016/j.ebiom.2020.102973
+  link: https://doi.org/gmj7n7
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1340,7 +1473,7 @@
   - "Alexandra S\xE9mont"
   publisher: Stem Cell Research &amp; Therapy
   date: '2020-08-27'
-  link: https://doi.org/10.1186/s13287-020-01887-1
+  link: https://doi.org/gp4v5b
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1358,7 +1491,7 @@
   - Nitin Ohri
   publisher: Advances in Radiation Oncology
   date: '2020-07-01'
-  link: https://doi.org/10.1016/j.adro.2020.06.020
+  link: https://doi.org/gtkh6h
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1378,7 +1511,7 @@
   - Steven C. Almo
   publisher: PLOS ONE
   date: '2020-06-04'
-  link: https://doi.org/10.1371/journal.pone.0233578
+  link: https://doi.org/gtkh6j
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1403,7 +1536,7 @@
   - Amit Verma
   publisher: Leukemia &amp; Lymphoma
   date: '2020-06-24'
-  link: https://doi.org/10.1080/10428194.2020.1775213
+  link: https://doi.org/gtkh6k
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1421,7 +1554,7 @@
   - Xiaodong Wu
   publisher: Radiation Oncology
   date: '2020-05-07'
-  link: https://doi.org/10.1186/s13014-020-01515-5
+  link: https://doi.org/gtkh6m
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1440,7 +1573,7 @@
   - Nitin Ohri
   publisher: Advances in Radiation Oncology
   date: '2020-07-01'
-  link: https://doi.org/10.1016/j.adro.2020.04.028
+  link: https://doi.org/gtkh6n
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1462,7 +1595,7 @@
   - Paul S. Frenette
   publisher: Developmental Cell
   date: '2020-06-01'
-  link: https://doi.org/10.1016/j.devcel.2020.04.012
+  link: https://doi.org/gtkh6p
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1481,7 +1614,7 @@
   - Joseph O. Deasy
   publisher: Seminars in Radiation Oncology
   date: '2020-04-01'
-  link: https://doi.org/10.1016/j.semradonc.2019.12.003
+  link: https://doi.org/gkxz95
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1491,7 +1624,7 @@
   - Chandan Guha
   publisher: Seminars in Radiation Oncology
   date: '2020-04-01'
-  link: https://doi.org/10.1016/j.semradonc.2020.01.001
+  link: https://doi.org/gtkh6q
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1536,7 +1669,7 @@
   - Charles L. Limoli
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2020-07-01'
-  link: https://doi.org/10.1016/j.ijrobp.2020.03.028
+  link: https://doi.org/gnvvsq
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1552,9 +1685,9 @@
   - Madhur Garg
   - Chandan Guha
   - XIAODONG Wu
-  publisher: Research Square Platform LLC
+  publisher: Springer Science and Business Media LLC
   date: '2020-03-17'
-  link: https://doi.org/10.21203/rs.2.23301/v3
+  link: https://doi.org/gtkh6r
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1573,7 +1706,7 @@
   - Ashish Ranjan
   publisher: Theranostics
   date: '2020-01-01'
-  link: https://doi.org/10.7150/thno.42243
+  link: https://doi.org/gqm6xv
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1618,7 +1751,7 @@
   - Mansoor Ahmed
   publisher: Cancer Research
   date: '2019-11-15'
-  link: https://doi.org/10.1158/0008-5472.can-19-2958
+  link: https://doi.org/gtkh6s
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1635,7 +1768,7 @@
   - Ashish Ranjan
   publisher: International Journal of Hyperthermia
   date: '2019-11-29'
-  link: https://doi.org/10.1080/02656736.2019.1663280
+  link: https://doi.org/gtkh6t
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1654,7 +1787,7 @@
   - Chandan Guha
   publisher: Cancers
   date: '2019-11-15'
-  link: https://doi.org/10.3390/cancers11111796
+  link: https://doi.org/gtkh6v
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1667,7 +1800,7 @@
   - Chandan Guha
   publisher: Clinical Cancer Research
   date: '2020-02-14'
-  link: https://doi.org/10.1158/1078-0432.ccr-18-3518
+  link: https://doi.org/gtkh6w
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1684,7 +1817,7 @@
   - Wojciech Fendler
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2020-02-01'
-  link: https://doi.org/10.1016/j.ijrobp.2019.10.028
+  link: https://doi.org/grh32x
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1705,7 +1838,7 @@
   - Rafi Kabarriti
   publisher: EClinicalMedicine
   date: '2019-11-01'
-  link: https://doi.org/10.1016/j.eclinm.2019.09.009
+  link: https://doi.org/gtkh6x
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1720,7 +1853,7 @@
   - Chandan Guha
   publisher: Scientific Reports
   date: '2019-10-29'
-  link: https://doi.org/10.1038/s41598-019-51332-4
+  link: https://doi.org/gq9wdk
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1735,7 +1868,7 @@
   - Mary K. Estes
   publisher: American Journal of Physiology-Gastrointestinal and Liver Physiology
   date: '2019-12-01'
-  link: https://doi.org/10.1152/ajpgi.00346.2018
+  link: https://doi.org/gtkh6z
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1779,7 +1912,7 @@
   - Mansoor M. Ahmed
   publisher: Cancer Research
   date: '2019-09-01'
-  link: https://doi.org/10.1158/0008-5472.can-19-0803
+  link: https://doi.org/gmhvpw
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1798,7 +1931,7 @@
   - Rafi Kabarriti
   publisher: Hepatology International
   date: '2019-08-01'
-  link: https://doi.org/10.1007/s12072-019-09965-0
+  link: https://doi.org/gtkh62
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1815,7 +1948,7 @@
   - Madhur Garg
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2019-11-01'
-  link: https://doi.org/10.1016/j.ijrobp.2019.07.055
+  link: https://doi.org/gkcqf7
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1834,7 +1967,7 @@
   - Madhur K. Garg
   publisher: Acta Oncologica
   date: '2019-07-08'
-  link: https://doi.org/10.1080/0284186x.2019.1634834
+  link: https://doi.org/gtkh63
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1854,7 +1987,7 @@
   - Rafi Kabarriti
   publisher: Journal of Gastrointestinal Oncology
   date: '2019-06-01'
-  link: https://doi.org/10.21037/jgo.2019.01.30
+  link: https://doi.org/gm3rfh
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1874,7 +2007,7 @@
   - Paul S. Frenette
   publisher: Stem Cell Reports
   date: '2019-06-01'
-  link: https://doi.org/10.1016/j.stemcr.2019.04.019
+  link: https://doi.org/gtkh64
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1897,7 +2030,7 @@
   - Theodore L. DeWeese
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2021-05-01'
-  link: https://doi.org/10.1016/j.ijrobp.2019.02.046
+  link: https://doi.org/gfw59t
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1925,7 +2058,7 @@
   - Evripidis Gavathiotis
   publisher: Oncotarget
   date: '2019-01-11'
-  link: https://doi.org/10.18632/oncotarget.26563
+  link: https://doi.org/gtkh65
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1943,7 +2076,7 @@
   - Madhur K Garg
   publisher: Cureus
   date: '2019-01-08'
-  link: https://doi.org/10.7759/cureus.3856
+  link: https://doi.org/gtkh66
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1965,7 +2098,7 @@
   - Chandan Guha
   publisher: Journal of Hepatology
   date: '2019-06-01'
-  link: https://doi.org/10.1016/j.jhep.2019.01.010
+  link: https://doi.org/gtkh67
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1981,7 +2114,7 @@
   - Madhur K. Garg
   publisher: Head &amp; Neck
   date: '2018-12-16'
-  link: https://doi.org/10.1002/hed.25476
+  link: https://doi.org/gtkh68
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2001,7 +2134,7 @@
   - "Wolfgang A. Tom\xE9"
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2019-07-01'
-  link: https://doi.org/10.1016/j.ijrobp.2018.11.039
+  link: https://doi.org/ggm8bn
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2032,7 +2165,7 @@
   - Timothy C. Wang
   publisher: Gastroenterology
   date: '2019-03-01'
-  link: https://doi.org/10.1053/j.gastro.2018.11.024
+  link: https://doi.org/gfj3k8
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2048,7 +2181,7 @@
   - Chandan Guha
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2019-03-01'
-  link: https://doi.org/10.1016/j.ijrobp.2018.11.016
+  link: https://doi.org/gtkh69
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2068,7 +2201,7 @@
   - Chandan Guha
   publisher: Canadian Journal of Gastroenterology and Hepatology
   date: '2018-11-07'
-  link: https://doi.org/10.1155/2018/5681979
+  link: https://doi.org/gtkh7b
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2086,7 +2219,7 @@
   - Madhur K. Garg
   publisher: Oral Oncology
   date: '2018-11-01'
-  link: https://doi.org/10.1016/j.oraloncology.2018.06.009
+  link: https://doi.org/gfnp4w
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2106,7 +2239,7 @@
   - Timothy C. Wang
   publisher: Cancer Gene Therapy
   date: '2018-07-25'
-  link: https://doi.org/10.1038/s41417-018-0036-z
+  link: https://doi.org/gtkh7c
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2120,7 +2253,7 @@
   - Chandan Guha
   publisher: Journal of Clinical Oncology
   date: '2018-08-20'
-  link: https://doi.org/10.1200/jco.2018.78.0122
+  link: https://doi.org/gtkh7d
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2145,7 +2278,7 @@
   - Adam P. Dicker
   publisher: Cancer
   date: '2017-10-20'
-  link: https://doi.org/10.1002/cncr.31058
+  link: https://doi.org/gcwkr8
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2161,7 +2294,7 @@
   - "Wolfgang A. Tom\xE9"
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2018-02-01'
-  link: https://doi.org/10.1016/j.ijrobp.2017.09.041
+  link: https://doi.org/gcwdks
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2178,7 +2311,7 @@
   - Anna Velcich
   publisher: Oncotarget
   date: '2017-04-06'
-  link: https://doi.org/10.18632/oncotarget.16886
+  link: https://doi.org/f94j8g
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2195,7 +2328,7 @@
   - Dipanjan Chowdhury
   publisher: Science Translational Medicine
   date: '2017-03-01'
-  link: https://doi.org/10.1126/scitranslmed.aal2408
+  link: https://doi.org/f9tdzr
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2215,7 +2348,7 @@
   - Steven C. Almo
   publisher: EBioMedicine
   date: '2017-03-01'
-  link: https://doi.org/10.1016/j.ebiom.2017.02.004
+  link: https://doi.org/gtkh7f
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2230,7 +2363,7 @@
   - "Wolfgang A. Tom\xE9"
   publisher: Dose-Response
   date: '2017-01-04'
-  link: https://doi.org/10.1177/1559325816685798
+  link: https://doi.org/gcdwm8
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2246,7 +2379,7 @@
   - Jayanta Roy-Chowdhury
   publisher: Methods in Molecular Biology
   date: '2016-11-10'
-  link: https://doi.org/10.1007/978-1-4939-6506-9_9
+  link: https://doi.org/gtkh7g
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2266,7 +2399,7 @@
   - Madhur Garg
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2017-04-01'
-  link: https://doi.org/10.1016/j.ijrobp.2016.12.030
+  link: https://doi.org/f98cbh
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2311,7 +2444,7 @@
   - Ira J. Fox
   publisher: Journal of Hepatology
   date: '2017-05-01'
-  link: https://doi.org/10.1016/j.jhep.2016.12.017
+  link: https://doi.org/f94jg5
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2334,7 +2467,7 @@
   - Hany Elsaleh
   publisher: Pancreas
   date: '2016-11-01'
-  link: https://doi.org/10.1097/mpa.0000000000000710
+  link: https://doi.org/f89kks
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2364,7 +2497,7 @@
   - Anthony M. Magliocco
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2017-03-01'
-  link: https://doi.org/10.1016/j.ijrobp.2016.11.021
+  link: https://doi.org/f9q4rx
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2390,7 +2523,7 @@
   - Jeffrey W. Pollard
   publisher: Nature Communications
   date: '2016-10-13'
-  link: https://doi.org/10.1038/ncomms13096
+  link: https://doi.org/f87sx5
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2402,7 +2535,7 @@
   - Chandan Guha
   publisher: Current Pathobiology Reports
   date: '2016-09-07'
-  link: https://doi.org/10.1007/s40139-016-0114-6
+  link: https://doi.org/gtkh7h
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2415,7 +2548,7 @@
   - Jayanta Roy-Chowdhury
   publisher: Hepatology International
   date: '2016-08-17'
-  link: https://doi.org/10.1007/s12072-016-9757-y
+  link: https://doi.org/gtkh7j
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2436,7 +2569,7 @@
   - Chandan Guha
   publisher: Journal of the National Cancer Institute
   date: '2016-07-04'
-  link: https://doi.org/10.1093/jnci/djw133
+  link: https://doi.org/gtkh7k
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2458,7 +2591,7 @@
   - Jayanta Roy-Chowdhury
   publisher: Cell Transplantation
   date: '2016-12-01'
-  link: https://doi.org/10.3727/096368916x692014
+  link: https://doi.org/f9gmkr
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2479,7 +2612,7 @@
   - Emily I. Chen
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2016-11-01'
-  link: https://doi.org/10.1016/j.ijrobp.2016.06.008
+  link: https://doi.org/f87r7v
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2525,7 +2658,7 @@
   - Amit Verma
   publisher: Cancer Research
   date: '2016-08-14'
-  link: https://doi.org/10.1158/0008-5472.can-15-3062
+  link: https://doi.org/f822j3
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2538,7 +2671,7 @@
   - Chandan Guha
   publisher: Seminars in Radiation Oncology
   date: '2016-10-01'
-  link: https://doi.org/10.1016/j.semradonc.2016.06.004
+  link: https://doi.org/f84q96
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2563,7 +2696,7 @@
   - "E.\_Premkumar Reddy"
   publisher: Cell
   date: '2016-04-01'
-  link: https://doi.org/10.1016/j.cell.2016.03.045
+  link: https://doi.org/f8j8p4
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2580,7 +2713,7 @@
   - "Wolfgang A. Tom\xE9"
   publisher: Medical Physics
   date: '2016-02-08'
-  link: https://doi.org/10.1118/1.4941361
+  link: https://doi.org/f8h3vj
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2595,7 +2728,7 @@
   - "Wolfgang A. Tom\xE9"
   publisher: Health Physics
   date: '2016-02-01'
-  link: https://doi.org/10.1097/hp.0000000000000462
+  link: https://doi.org/gtkh7m
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2614,7 +2747,7 @@
   - Suren Stolik Isakina
   publisher: Photomedicine and Laser Surgery
   date: '2016-03-01'
-  link: https://doi.org/10.1089/pho.2015.4030
+  link: https://doi.org/f8d4bn
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2637,7 +2770,7 @@
   - Louis B. Harrison
   publisher: European Archives of Oto-Rhino-Laryngology
   date: '2016-02-16'
-  link: https://doi.org/10.1007/s00405-016-3926-4
+  link: https://doi.org/f85brq
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2660,7 +2793,7 @@
   - James W. Hodge
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2016-05-01'
-  link: https://doi.org/10.1016/j.ijrobp.2016.02.022
+  link: https://doi.org/gm445m
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -3709,7 +3842,7 @@
   - Shalom Kalnicki
   publisher: Brachytherapy
   date: '2016-03-01'
-  link: https://doi.org/10.1016/j.brachy.2015.11.004
+  link: https://doi.org/gtkh7n
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -3727,7 +3860,7 @@
   - Chandan Guha
   publisher: The Journal of Immunology
   date: '2016-02-01'
-  link: https://doi.org/10.4049/jimmunol.1500541
+  link: https://doi.org/f779xk
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -3742,7 +3875,7 @@
   - Madhur Garg
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2016-06-01'
-  link: https://doi.org/10.1016/j.ijrobp.2016.01.043
+  link: https://doi.org/f8njsh
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -3755,7 +3888,7 @@
   - "Wolfgang A. Tom\xE9"
   publisher: Health Physics
   date: '2015-11-01'
-  link: https://doi.org/10.1097/hp.0000000000000323
+  link: https://doi.org/f7tkqq
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -3779,7 +3912,7 @@
   - James L. Abbruzzese
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2016-03-01'
-  link: https://doi.org/10.1016/j.ijrobp.2015.10.062
+  link: https://doi.org/f8b72t
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -3796,7 +3929,7 @@
   - Chandan Guha
   publisher: The British Journal of Radiology
   date: '2016-01-01'
-  link: https://doi.org/10.1259/bjr.20150762
+  link: https://doi.org/gtkh7p
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -3811,7 +3944,7 @@
   - Craig A. Branch
   publisher: NMR in Biomedicine
   date: '2015-10-09'
-  link: https://doi.org/10.1002/nbm.3391
+  link: https://doi.org/f747t4
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -3828,7 +3961,7 @@
   - Chandan Guha
   publisher: Scientific Reports
   date: '2015-09-24'
-  link: https://doi.org/10.1038/srep14384
+  link: https://doi.org/f7r9b9
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -3853,7 +3986,7 @@
   - Terence M. Williams
   publisher: Clinical Cancer Research
   date: '2015-12-14'
-  link: https://doi.org/10.1158/1078-0432.ccr-15-0789
+  link: https://doi.org/f75x5c
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -3870,7 +4003,7 @@
   - Jacqueline P. Williams
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2015-07-01'
-  link: https://doi.org/10.1016/j.ijrobp.2015.02.042
+  link: https://doi.org/gtkh7q
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -3899,7 +4032,7 @@
   - Namita Roy-Chowdhury
   publisher: Stem Cell Reports
   date: '2015-07-01'
-  link: https://doi.org/10.1016/j.stemcr.2015.04.017
+  link: https://doi.org/f3pw3s
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -3917,7 +4050,7 @@
   - Chandan Guha
   publisher: PLOS ONE
   date: '2015-06-05'
-  link: https://doi.org/10.1371/journal.pone.0124795
+  link: https://doi.org/f7qc4n
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -3939,7 +4072,7 @@
   - Dipanjan Chowdhury
   publisher: Science Translational Medicine
   date: '2015-05-13'
-  link: https://doi.org/10.1126/scitranslmed.aaa6593
+  link: https://doi.org/f7mhf3
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -3955,7 +4088,7 @@
   - William H. Fleming
   publisher: Radiation Research
   date: '2015-03-01'
-  link: https://doi.org/10.1667/rr13900.1
+  link: https://doi.org/f65xgf
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -3975,7 +4108,7 @@
   - Aaron Golden
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2015-02-01'
-  link: https://doi.org/10.1016/j.ijrobp.2014.10.023
+  link: https://doi.org/gmkgtz
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -3989,7 +4122,7 @@
   - Chandan Guha
   publisher: Journal of Therapeutic Ultrasound
   date: '2015-06-30'
-  link: https://doi.org/10.1186/2050-5736-3-s1-o63
+  link: https://doi.org/gtkh7r
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4005,7 +4138,7 @@
   - Chandan Guha
   publisher: Journal of Therapeutic Ultrasound
   date: '2015-06-30'
-  link: https://doi.org/10.1186/2050-5736-3-s1-p71
+  link: https://doi.org/gtkh7s
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4022,7 +4155,7 @@
   - Madhur Garg
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2015-01-01'
-  link: https://doi.org/10.1016/j.ijrobp.2014.09.030
+  link: https://doi.org/f6tgqm
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4035,7 +4168,7 @@
   - "Wolfgang A. Tom\xE9"
   publisher: Technology in Cancer Research &amp; Treatment
   date: '2014-01-01'
-  link: https://doi.org/10.7785/tcrt.2012.500407
+  link: https://doi.org/f7cmpx
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4047,7 +4180,7 @@
   - "Wolfgang A. Tom\xE9"
   publisher: Technology in Cancer Research &amp; Treatment
   date: '2014-11-05'
-  link: https://doi.org/10.1177/1533034614556192
+  link: https://doi.org/f7n3c7
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4065,7 +4198,7 @@
   - Chandan Guha
   publisher: Lung Cancer
   date: '2015-01-01'
-  link: https://doi.org/10.1016/j.lungcan.2014.10.016
+  link: https://doi.org/f2w35g
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4085,7 +4218,7 @@
   - "Wolfgang A. Tom\xE9"
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2014-11-01'
-  link: https://doi.org/10.1016/j.ijrobp.2014.07.016
+  link: https://doi.org/gtkh7t
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4104,7 +4237,7 @@
   - Chandan Guha
   publisher: Radiation Research
   date: '2014-07-03'
-  link: https://doi.org/10.1667/rr13617.1
+  link: https://doi.org/f6f8nz
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4119,7 +4252,7 @@
   - Chandan Guha
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2014-07-01'
-  link: https://doi.org/10.1016/j.ijrobp.2014.02.017
+  link: https://doi.org/f59d7t
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4130,7 +4263,7 @@
   - Chandan Guha
   publisher: Radiation Research
   date: '2014-08-01'
-  link: https://doi.org/10.1667/rr13667.1
+  link: https://doi.org/f6gqf5
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4143,7 +4276,7 @@
   - Elizabeth Jaffee
   publisher: Radiation Research
   date: '2014-08-01'
-  link: https://doi.org/10.1667/rr13849.1
+  link: https://doi.org/gtkh7v
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4159,7 +4292,7 @@
   - Haitao Lu
   publisher: Mass Spectrometry Reviews
   date: '2014-06-02'
-  link: https://doi.org/10.1002/mas.21439
+  link: https://doi.org/f8gxqd
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4178,7 +4311,7 @@
   - Chandan Guha
   publisher: Radiation Research
   date: '2014-08-01'
-  link: https://doi.org/10.1667/rr13594.1
+  link: https://doi.org/f6f8n6
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4195,7 +4328,7 @@
   - Chandan Guha
   publisher: Oncoscience
   date: '2014-06-03'
-  link: https://doi.org/10.18632/oncoscience.48
+  link: https://doi.org/gtkh7w
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4206,7 +4339,7 @@
   - Chandan Guha
   publisher: Hepatology International
   date: '2014-05-08'
-  link: https://doi.org/10.1007/s12072-014-9532-x
+  link: https://doi.org/gtkh7x
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4226,7 +4359,7 @@
   - Chandan Guha
   publisher: Cancer Biotherapy and Radiopharmaceuticals
   date: '2014-05-01'
-  link: https://doi.org/10.1089/cbr.2013.1578
+  link: https://doi.org/f53xgs
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4239,7 +4372,7 @@
   - Jayanta Roy-Chowdhury
   publisher: Current Pathobiology Reports
   date: '2014-01-11'
-  link: https://doi.org/10.1007/s40139-013-0039-2
+  link: https://doi.org/gp9nw6
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4254,7 +4387,7 @@
   - Chandan Guha
   publisher: Liver International
   date: '2014-03-15'
-  link: https://doi.org/10.1111/liv.12507
+  link: https://doi.org/gtkh7z
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4275,7 +4408,7 @@
   - Madhur K. Garg
   publisher: Practical Radiation Oncology
   date: '2014-11-01'
-  link: https://doi.org/10.1016/j.prro.2014.01.002
+  link: https://doi.org/gtkh72
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4293,7 +4426,7 @@
   - Chandan Guha
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2014-04-01'
-  link: https://doi.org/10.1016/j.ijrobp.2013.12.051
+  link: https://doi.org/f5v87c
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4314,7 +4447,7 @@
   - Charles L. Limoli
   publisher: Antioxidants &amp; Redox Signaling
   date: '2014-07-10'
-  link: https://doi.org/10.1089/ars.2013.5652
+  link: https://doi.org/f57fkq
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4347,7 +4480,7 @@
   - Ira J. Fox
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2014-02-01'
-  link: https://doi.org/10.1016/j.ijrobp.2013.10.037
+  link: https://doi.org/f5p433
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4363,7 +4496,7 @@
   - C. Norman Coleman
   publisher: Cancer Immunology Research
   date: '2013-11-01'
-  link: https://doi.org/10.1158/2326-6066.cir-13-0141
+  link: https://doi.org/gh75ww
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4381,7 +4514,7 @@
   - Chandan Guha
   publisher: Journal of Contemporary Brachytherapy
   date: '2013-01-01'
-  link: https://doi.org/10.5114/jcb.2013.38875
+  link: https://doi.org/gtkh73
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4394,7 +4527,7 @@
   - Chandan Guha
   publisher: PLoS ONE
   date: '2013-10-18'
-  link: https://doi.org/10.1371/journal.pone.0076472
+  link: https://doi.org/gtkh74
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4413,7 +4546,7 @@
   - Chandan Guha
   publisher: Clinical Cancer Research
   date: '2013-11-14'
-  link: https://doi.org/10.1158/1078-0432.ccr-13-1116
+  link: https://doi.org/gtkh75
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4431,7 +4564,7 @@
   - James W. Hodge
   publisher: PLoS ONE
   date: '2013-07-24'
-  link: https://doi.org/10.1371/journal.pone.0070417
+  link: https://doi.org/ghpcq4
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4444,7 +4577,7 @@
   - Jack Lenz
   publisher: Frontiers in Oncology
   date: '2013-01-01'
-  link: https://doi.org/10.3389/fonc.2013.00180
+  link: https://doi.org/gtkh76
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4461,7 +4594,7 @@
   - William H. Fleming
   publisher: Stem Cell Research
   date: '2013-11-01'
-  link: https://doi.org/10.1016/j.scr.2013.07.001
+  link: https://doi.org/gtkh77
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4480,7 +4613,7 @@
   - Susumu Eguchi
   publisher: Journal of Surgical Research
   date: '2013-12-01'
-  link: https://doi.org/10.1016/j.jss.2013.06.016
+  link: https://doi.org/f5h74g
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4499,7 +4632,7 @@
   - Marjan Boerma
   publisher: International Journal of Radiation Biology
   date: '2013-04-16'
-  link: https://doi.org/10.3109/09553002.2013.782110
+  link: https://doi.org/gtkh78
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4530,7 +4663,7 @@
   - Christine H. Chung
   publisher: 'JNCI: Journal of the National Cancer Institute'
   date: '2013-03-15'
-  link: https://doi.org/10.1093/jnci/djt055
+  link: https://doi.org/f4x58g
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4547,7 +4680,7 @@
   - Chandan Guha
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2013-06-01'
-  link: https://doi.org/10.1016/j.ijrobp.2013.02.008
+  link: https://doi.org/f4zfs5
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4571,7 +4704,7 @@
   - Tej K. Pandita
   publisher: Mutagenesis
   date: '2013-02-05'
-  link: https://doi.org/10.1093/mutage/ges080
+  link: https://doi.org/f4s9d2
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4593,7 +4726,7 @@
   - Chandan Guha
   publisher: PLoS ONE
   date: '2012-10-16'
-  link: https://doi.org/10.1371/journal.pone.0046775
+  link: https://doi.org/gtkh79
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4611,7 +4744,7 @@
   - Chandan Guha
   publisher: Practical Radiation Oncology
   date: '2013-07-01'
-  link: https://doi.org/10.1016/j.prro.2012.07.006
+  link: https://doi.org/gtkh8b
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4624,7 +4757,7 @@
   - Jack Lenz
   publisher: Current Biology
   date: '2012-06-01'
-  link: https://doi.org/10.1016/j.cub.2012.04.049
+  link: https://doi.org/f32mb9
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4641,7 +4774,7 @@
   - Chandan Guha
   publisher: PLoS ONE
   date: '2012-05-30'
-  link: https://doi.org/10.1371/journal.pone.0038111
+  link: https://doi.org/gm4r39
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4661,7 +4794,7 @@
   - Chandan Guha
   publisher: Cancer Immunology, Immunotherapy
   date: '2012-05-27'
-  link: https://doi.org/10.1007/s00262-012-1257-x
+  link: https://doi.org/f4fmwm
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4682,7 +4815,7 @@
   - Adam J. Friedman
   publisher: 'Nanomedicine: Nanotechnology, Biology and Medicine'
   date: '2012-11-01'
-  link: https://doi.org/10.1016/j.nano.2012.02.014
+  link: https://doi.org/gbb6kh
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4700,7 +4833,7 @@
   - Shalom Kalnicki
   publisher: Journal of Contemporary Brachytherapy
   date: '2012-01-01'
-  link: https://doi.org/10.5114/jcb.2012.27951
+  link: https://doi.org/gtkh8c
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4731,7 +4864,7 @@
   - Anil Dhawan
   publisher: Cell Transplantation
   date: '2012-01-01'
-  link: https://doi.org/10.3727/096368911x566208
+  link: https://doi.org/d3xhg6
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4748,7 +4881,7 @@
   - Chandan Guha
   publisher: PLoS ONE
   date: '2012-01-04'
-  link: https://doi.org/10.1371/journal.pone.0029357
+  link: https://doi.org/fxqx6q
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4759,7 +4892,7 @@
   - Brian D. Kavanagh
   publisher: Seminars in Radiation Oncology
   date: '2011-10-01'
-  link: https://doi.org/10.1016/j.semradonc.2011.05.003
+  link: https://doi.org/fwx26f
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4775,7 +4908,7 @@
   - Chandan Guha
   publisher: PLoS ONE
   date: '2011-09-15'
-  link: https://doi.org/10.1371/journal.pone.0024072
+  link: https://doi.org/ds2775
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4796,7 +4929,7 @@
   - Chandan Guha
   publisher: Brachytherapy
   date: '2012-11-01'
-  link: https://doi.org/10.1016/j.brachy.2011.07.004
+  link: https://doi.org/fjx5pp
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4818,7 +4951,7 @@
   - Jayanta Roy-Chowdhury
   publisher: Journal of Clinical Investigation
   date: '2011-05-02'
-  link: https://doi.org/10.1172/jci45260
+  link: https://doi.org/fgqvg8
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4840,7 +4973,7 @@
   - Shalom Kalnicki
   publisher: Medical Physics
   date: '2011-02-14'
-  link: https://doi.org/10.1118/1.3549764
+  link: https://doi.org/brtz67
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4860,7 +4993,7 @@
   - Vern L. Schramm
   publisher: Journal of Biological Chemistry
   date: '2011-02-01'
-  link: https://doi.org/10.1074/jbc.m110.198374
+  link: https://doi.org/dbjg38
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4876,7 +5009,7 @@
   - E. Anders Kolb
   publisher: Cancer
   date: '2010-11-08'
-  link: https://doi.org/10.1002/cncr.25741
+  link: https://doi.org/bt7xxm
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4899,7 +5032,7 @@
   - Ira J. Fox
   publisher: Journal of Hepatology
   date: '2010-10-01'
-  link: https://doi.org/10.1016/j.jhep.2010.05.010
+  link: https://doi.org/b83cxs
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4918,7 +5051,7 @@
   - Shalom Kalnicki
   publisher: Radiation Oncology
   date: '2010-06-03'
-  link: https://doi.org/10.1186/1748-717x-5-48
+  link: https://doi.org/dzv4ct
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4937,7 +5070,7 @@
   - Chandan Guha
   publisher: PLoS ONE
   date: '2009-11-24'
-  link: https://doi.org/10.1371/journal.pone.0008014
+  link: https://doi.org/fpk4ng
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4958,7 +5091,7 @@
   - Jayanta Roy-Chowdhury
   publisher: Hepatology
   date: '2009-09-01'
-  link: https://doi.org/10.1002/hep.23060
+  link: https://doi.org/bchcd3
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4982,7 +5115,7 @@
   - Chandan Guha
   publisher: Hepatology
   date: '2009-01-01'
-  link: https://doi.org/10.1002/hep.22573
+  link: https://doi.org/crnq5z
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4998,7 +5131,7 @@
   - Shalom Kalnicki
   publisher: Medical Dosimetry
   date: '2009-12-01'
-  link: https://doi.org/10.1016/j.meddos.2008.11.001
+  link: https://doi.org/b4nddt
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5018,7 +5151,7 @@
   - Shalom Kalnicki
   publisher: Radiotherapy and Oncology
   date: '2008-12-01'
-  link: https://doi.org/10.1016/j.radonc.2008.07.025
+  link: https://doi.org/cfjg7p
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5045,7 +5178,7 @@
   - Chandan Guha
   publisher: Cancer Letters
   date: '2008-11-01'
-  link: https://doi.org/10.1016/j.canlet.2008.05.026
+  link: https://doi.org/dphrkr
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5063,7 +5196,7 @@
   - Namita Roy-Chowdhury
   publisher: Transplantation
   date: '2008-05-15'
-  link: https://doi.org/10.1097/tp.0b013e31816de49e
+  link: https://doi.org/cg2jt9
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5080,7 +5213,7 @@
   - Namita Roy-Chowdhury
   publisher: Journal of Hepatology
   date: '2008-07-01'
-  link: https://doi.org/10.1016/j.jhep.2008.02.020
+  link: https://doi.org/brv7s5
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5092,7 +5225,7 @@
   - L.A. Dawson
   publisher: Critical Reviews in Oncology/Hematology
   date: '2008-08-01'
-  link: https://doi.org/10.1016/j.critrevonc.2008.01.005
+  link: https://doi.org/ds8z7t
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5103,7 +5236,7 @@
   - Chandan Guha
   publisher: The Cancer Journal
   date: '2008-03-01'
-  link: https://doi.org/10.1097/ppo.0b013e31816a0e80
+  link: https://doi.org/d629pz
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5117,7 +5250,7 @@
   - Shalom Kalnicki
   publisher: Seminars in Nuclear Medicine
   date: '2008-03-01'
-  link: https://doi.org/10.1053/j.semnuclmed.2007.12.001
+  link: https://doi.org/fg3qxg
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5133,7 +5266,7 @@
   - Mariana D. Dabeva
   publisher: Hepatology
   date: '2008-02-01'
-  link: https://doi.org/10.1002/hep.22047
+  link: https://doi.org/dfsdwc
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5151,7 +5284,7 @@
   - R. H. Furneaux
   publisher: Nucleic Acids Symposium Series
   date: '2008-09-01'
-  link: https://doi.org/10.1093/nass/nrn038
+  link: https://doi.org/d47n57
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5169,7 +5302,7 @@
   - Chandan Guha
   publisher: Cancer Research
   date: '2007-08-15'
-  link: https://doi.org/10.1158/0008-5472.can-07-0203
+  link: https://doi.org/fwgjth
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5185,7 +5318,7 @@
   - Vern L. Schramm
   publisher: Journal of Biological Chemistry
   date: '2007-07-01'
-  link: https://doi.org/10.1074/jbc.m702287200
+  link: https://doi.org/cfdtmv
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5202,7 +5335,7 @@
   - Marshall S. Horwitz
   publisher: Hepatology
   date: '2007-03-01'
-  link: https://doi.org/10.1002/hep.21525
+  link: https://doi.org/bqnnwd
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5222,7 +5355,7 @@
   - Chandan Guha
   publisher: Hepatology
   date: '2006-11-01'
-  link: https://doi.org/10.1002/hep.21382
+  link: https://doi.org/dwsf5b
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5242,7 +5375,7 @@
   - Bhadrasain Vikram
   publisher: Oncology
   date: '2006-01-01'
-  link: https://doi.org/10.1159/000096288
+  link: https://doi.org/bq7q7n
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5259,7 +5392,7 @@
   - Namita Roy-Chowdhury
   publisher: Biochemical Journal
   date: '2005-12-06'
-  link: https://doi.org/10.1042/bj20050381
+  link: https://doi.org/fpbrfv
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5277,7 +5410,7 @@
   - Jayanta Roy-Chowdhury
   publisher: American Journal of Nephrology
   date: '2005-01-01'
-  link: https://doi.org/10.1159/000085408
+  link: https://doi.org/bdx6s8
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5291,7 +5424,7 @@
   - Jayanta Roy Chowdhury
   publisher: Lab Animal
   date: '2005-02-01'
-  link: https://doi.org/10.1038/laban0205-39
+  link: https://doi.org/bcfxwh
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5306,7 +5439,7 @@
   - Takashi Kanematsu
   publisher: Surgery Today
   date: '2005-08-24'
-  link: https://doi.org/10.1007/s00595-005-3024-5
+  link: https://doi.org/dnxk2n
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5319,7 +5452,7 @@
   - Jayanta Roy-Chowdhury
   publisher: Lab Animal
   date: '2004-07-01'
-  link: https://doi.org/10.1038/laban0704-37
+  link: https://doi.org/bxqhtz
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5338,7 +5471,7 @@
   - Mariana D. Dabeva
   publisher: STEM CELLS
   date: '2004-11-01'
-  link: https://doi.org/10.1634/stemcells.22-6-1049
+  link: https://doi.org/cndwt7
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5363,7 +5496,7 @@
   - Nader Hanna
   publisher: Journal of Clinical Oncology
   date: '2004-02-15'
-  link: https://doi.org/10.1200/jco.2004.01.227
+  link: https://doi.org/cd9q4p
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5386,7 +5519,7 @@
   - Philipp E Scherer
   publisher: Oncogene
   date: '2003-09-25'
-  link: https://doi.org/10.1038/sj.onc.1206737
+  link: https://doi.org/dfmr53
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5406,7 +5539,7 @@
   - B. Vikram
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2003-09-01'
-  link: https://doi.org/10.1016/s0360-3016(03)00531-5
+  link: https://doi.org/bj9xtx
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5421,7 +5554,7 @@
   - Jayanta Roy-Chowdhury
   publisher: BioDrugs
   date: '2003-01-01'
-  link: https://doi.org/10.2165/00063030-200317020-00001
+  link: https://doi.org/dmxqzm
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5439,7 +5572,7 @@
   - Bhadrasain Vikram
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2002-12-01'
-  link: https://doi.org/10.1016/s0360-3016(02)03051-1
+  link: https://doi.org/fkx23h
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5449,7 +5582,7 @@
   - Balamurali K. Ambati
   publisher: Archives of Ophthalmology
   date: '2002-08-01'
-  link: https://doi.org/10.1001/archopht.120.8.1063
+  link: https://doi.org/gtkh8d
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5468,7 +5601,7 @@
   - Jayanta Roy-Chowdhury
   publisher: Hepatology
   date: '2002-08-01'
-  link: https://doi.org/10.1053/jhep.2002.34516
+  link: https://doi.org/bzd2pz
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5479,7 +5612,7 @@
   - Jayanta Roy Chowdhury
   publisher: Journal of Hepatology
   date: '2002-03-01'
-  link: https://doi.org/10.1016/s0168-8278(02)00027-2
+  link: https://doi.org/cdn5gg
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
