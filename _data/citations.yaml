@@ -308,9 +308,8 @@
   date: '2024-11-08'
   link: https://doi.org/g8rgsv
   orcid: 0000-0002-1906-2186
-  plugin: sources.py
-  file: sources.yaml
-  image: https://df6sxcketz7bb.cloudfront.net/volumes/9/21/9-21-cover.jpg
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.oraloncology.2024.107069
   title: Comprehensive functional evaluation of head and neck squamous cell carcinoma
     with BH3-profiling demonstrates apoptotic competency and therapeutic efficacy
@@ -5616,3 +5615,7 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.3389/facou.2025.1616297
+  image: null
+  plugin: sources.py
+  file: sources.yaml
