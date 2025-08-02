@@ -5615,7 +5615,12 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3389/facou.2025.1616297
+- id: http:https://www.frontiersin.org/journals/acoustics/articles/10.3389/facou.2025.1616297/abstract
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: http:https://www.frontiersin.org/journals/acoustics/articles/10.3389/facou.2025.1616297/abstract
   image: null
   plugin: sources.py
   file: sources.yaml
