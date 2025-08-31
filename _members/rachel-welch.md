@@ -1,6 +1,6 @@
 ---
 name: Rachel Welch, B.S.
-image: images/rachel-welch.jpeg
+image: images/rachel-welch.png
 role: mstp 
 group: 
 aliases: Rachel Welch
