@@ -1,5 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41586-025-09462-5
+  title: Haematopoietic stem cell number is not solely defined by niche availability
+  authors:
+  - Shoichiro Takeishi
+  - Tony Marchand
+  - Wade R. Koba
+  - Daniel K. Borger
+  - Chunliang Xu
+  - Chandan Guha
+  - Aviv Bergman
+  - Paul S. Frenette
+  - Kira Gritsman
+  - Ulrich Steidl
+  publisher: Nature
+  date: '2025-08-27'
+  link: https://doi.org/g9zzkf
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1080/2162402x.2025.2507856
   title: 'Updates on radiotherapy-immunotherapy combinations: Proceedings of 8th Annual
     ImmunoRad Conference'
@@ -261,6 +280,102 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.prro.2025.01.002
+  title: 'Erratum to: Defining Minimum Treatment Parameters of Ablative Radiation
+    Therapy in Patients With Hepatocellular Carcinoma: An Expert Consensus. Yanagihara
+    TK, Tepper JE, Moon AM, et al. Pract Radiat Oncol. 2024 Mar-Apr;14(2):134-145'
+  authors:
+  - Ted K. Yanagihara
+  - Joel E. Tepper
+  - Andrew M. Moon
+  - Aisling Barry
+  - Meritxell Molla
+  - Jinsil Seong
+  - Ferran Torres
+  - Smith Apisarnthanarax
+  - Michael Buckstein
+  - Higinia Cardenes
+  - Daniel T. Chang
+  - Mary Feng
+  - Chandan Guha
+  - Christopher L. Hallemeier
+  - Maria A. Hawkins
+  - Morten Hoyer
+  - Hiromitsu Iwata
+  - Salma K. Jabbour
+  - Lisa Kachnic
+  - Jordan Kharofa
+  - Tae Hyun Kim
+  - Alexander Kirichenko
+  - Eugene J. Koay
+  - Hirokazu Makishima
+  - Joel Mases
+  - Jeffrey J. Meyer
+  - Pablo Munoz-Schuffenegger
+  - Dawn Owen
+  - Hee Chul Park
+  - Jordi Saez
+  - Nina N. Sanford
+  - Marta Scorsetti
+  - Grace L. Smith
+  - Jennifer Y. Wo
+  - Sang Min Yoon
+  - Theodore S. Lawrence
+  - Maria Reig
+  - Laura A. Dawson
+  publisher: Practical Radiation Oncology
+  date: '2025-03-01'
+  link: https://doi.org/g9zzkg
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cld.2025.06.001
+  title: Liver-Directed Molecular Therapies
+  authors:
+  - Patrik Asp
+  - Beata Malachowska
+  - Chandan Guha
+  - Jayanta Roy-Chowdhury
+  publisher: Clinics in Liver Disease
+  date: '2025-08-01'
+  link: https://doi.org/g9zzkh
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-105011119367
+  title: Loss of CARM1 Alters the Developmental Programming of Glioma Stem-Like Cells
+    and Creates a Druggable NGFR/NTRK Dependency
+  publisher: Ssrn
+  date: '2025-08-31'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-105011119367&partnerID=MN8TOARS
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijrobp.2025.06.3881
+  title: Prospective Phase 2 Clinical Trial of Carbon Ion Radiation Therapy Combined
+    With Chemotherapy for Locally Advanced Pancreatic Carcinoma
+  authors:
+  - Guangyuan Zhang
+  - Xin Cai
+  - Hong Cao
+  - Zhan Yu
+  - Weiwei Wang
+  - Ying Xing
+  - Jingfang Zhao
+  - Qing Zhang
+  - Bo Zhang
+  - Fei Liang
+  - Mansoor M. Ahmed
+  - Xiaodong Wu
+  - Chandan Guha
+  - Guo-Liang Jiang
+  - Zheng Wang
+  publisher: International Journal of Radiation Oncology*Biology*Physics
+  date: '2025-07-01'
+  link: https://doi.org/g9zzkj
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1001/jamaoncol.2024.5403
   title: Stereotactic Body Radiotherapy vs Sorafenib Alone in Hepatocellular Carcinoma
   authors:
@@ -476,29 +591,6 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.radonc.2024.110404
-  title: Validation and reproducibility of in vivo dosimetry for pencil beam scanned
-    FLASH proton treatment in mice
-  authors:
-  - Alex Bookbinder
-  - Balaji Selvaraj
-  - Xingyi Zhao
-  - Yunjie Yang
-  - Brett I. Bell
-  - Michael Pennock
-  - Pingfang Tsai
-  - "Wolfgang A. Tom\xE9"
-  - J. Isabelle Choi
-  - Haibo Lin
-  - Charles B. Simone
-  - Chandan Guha
-  - Minglei Kang
-  publisher: Radiotherapy and Oncology
-  date: '2024-09-01'
-  link: https://doi.org/gt3twh
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.cell.2024.05.004
   title: Isthmus progenitor cells contribute to homeostatic cellular turnover and
     support regeneration following intestinal injury
@@ -686,6 +778,124 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/B978-0-443-26710-9.00003-1
+  title: Bilirubin metabolism and its disorders
+  authors:
+  - Namita Roy-Chowdhury
+  - Patrik Asp
+  - Chandan Guha
+  - Jayanta Roy-Chowdhury
+  publisher: Hepatology
+  date: '2025-01-01'
+  link: https://doi.org/g9zzkk
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/bco2.316
+  title: Combining theranostic/particle therapy with immunotherapy for the treatment
+    of GU malignancies
+  authors:
+  - Karin A. Skalina
+  - "Beata Ma\u0142achowska"
+  - Kunal K. Sindhu
+  - Marcher Thompson
+  - Anthony D. Nehlsen
+  - Lucas Resende Salgado
+  - Zachary Dovey
+  - Shaakir Hasan
+  - Chandan Guha
+  - Justin Tang
+  publisher: BJUI Compass
+  date: '2023-12-13'
+  link: https://doi.org/g9zzkm
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.celrep.2024.114390
+  title: Insulin and leptin oscillations license food-entrained browning and metabolic
+    flexibility
+  authors:
+  - Pamela Mattar
+  - Andressa Reginato
+  - Christian Lavados
+  - Debajyoti Das
+  - Manu Kalyani
+  - Nuria Martinez-Lopez
+  - Mridul Sharma
+  - Grethe Skovbjerg
+  - Jacob Lercke Skytte
+  - Urmas Roostalu
+  - Rajasekaran Subbarayan
+  - Elodie Picarda
+  - Xingxing Zang
+  - Jinghang Zhang
+  - Chandan Guha
+  - Gary Schwartz
+  - Prashant Rajbhandari
+  - Rajat Singh
+  publisher: Cell Reports
+  date: '2024-07-01'
+  link: https://doi.org/g9zzkn
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-031-67743-4_2
+  title: Radio-Immunology of Ablative Radiation Therapy
+  authors:
+  - Mansoor M. Ahmed
+  - Beata Malachowska
+  - Chandan Guha
+  publisher: Stereotactic Radiosurgery and Stereotactic Body Radiation Therapy
+  date: '2024-01-01'
+  link: https://doi.org/g9zzkp
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-3946910/v1
+  title: Thrombopoietin mimetic stimulates bone marrow vascular and stromal niches
+    to mitigate acute radiation syndrome
+  authors:
+  - Justin Vercellino
+  - "Beata Ma\u0142achowska"
+  - Shilpa Kulkarni
+  - Brett I. Bell
+  - Shahin Shajahan
+  - Kosaku Shinoda
+  - Gary Eichenbaum
+  - Amit K. Verma
+  - Sanchita P. Ghosh
+  - Weng-Lang Yang
+  - Paul S. Frenette
+  - Chandan Guha
+  publisher: Springer Science and Business Media LLC
+  date: '2024-02-19'
+  link: https://doi.org/gtkh5g
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.radonc.2024.110404
+  title: Validation and reproducibility of in vivo dosimetry for pencil beam scanned
+    FLASH proton treatment in mice
+  authors:
+  - Alex Bookbinder
+  - Balaji Selvaraj
+  - Xingyi Zhao
+  - Yunjie Yang
+  - Brett I. Bell
+  - Michael Pennock
+  - Pingfang Tsai
+  - "Wolfgang A. Tom\xE9"
+  - J. Isabelle Choi
+  - Haibo Lin
+  - Charles B. Simone
+  - Chandan Guha
+  - Minglei Kang
+  publisher: Radiotherapy and Oncology
+  date: '2024-09-01'
+  link: https://doi.org/gt3twh
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2023.10.28.564559
   title: Haematopoietic stem cell numbers are not solely determined by niche availability
   authors:
@@ -758,6 +968,53 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.3390/cancers15072005
+  title: CDK4/6 Inhibition Induces Senescence and Enhances Radiation Response by Disabling
+    DNA Damage Repair in Oral Cavity Squamous Cell Carcinoma
+  authors:
+  - Nitisha Shrivastava
+  - Claudia Gutierrez Chavez
+  - Daniel Li
+  - Vikas Mehta
+  - Carlos Thomas
+  - Cory D. Fulcher
+  - Nicole Kawachi
+  - Danielle M. Bottalico
+  - Michael B. Prystowsky
+  - Indranil Basu
+  - Chandan Guha
+  - Thomas J. Ow
+  publisher: Cancers
+  date: '2023-03-28'
+  link: https://doi.org/gtkh5t
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-022-21726-y
+  title: Circulating microvesicles correlate with radiation proctitis complication
+    after radiotherapy
+  authors:
+  - Alexandre Ribault
+  - Mohamed Amine Benadjaoud
+  - Claire Squiban
+  - Laurent Arnaud
+  - Coralie Judicone
+  - "Aur\xE9lie S. Leroyer"
+  - Alexandra Rousseau
+  - Christelle Huet
+  - Chandan Guha
+  - Marc Benderitter
+  - Romaric Lacroix
+  - Stephane Flamant
+  - Emily I. Chen
+  - Jean-Marc Simon
+  - Radia Tamarat
+  publisher: Scientific Reports
+  date: '2023-02-04'
+  link: https://doi.org/gtkh5v
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/mp.16364
   title: Commissioning a 250 MeV research beamline for proton FLASH radiotherapy preclinical
     experiments
@@ -787,6 +1044,117 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.2147/CMAR.S385968
+  title: Enhanced Glycolysis Confers Resistance Against Photon but Not Carbon Ion
+    Irradiation in Human Glioma Cell Lines
+  authors:
+  - Mohit Vashishta
+  - Vivek Kumar
+  - Chandan Guha
+  - Xiaodong Wu
+  - Bilikere S Dwarakanath
+  publisher: Cancer Management and Research
+  date: '2023-01-01'
+  link: https://doi.org/gtkh5z
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/jmv.28388
+  title: Establishment of a diverse head and neck squamous cancer cell bank using
+    conditional reprogramming culture methods
+  authors:
+  - Daniel Li
+  - Carlos Thomas
+  - Nitisha Shrivastava
+  - Adam Gersten
+  - Nicholas Gadsden
+  - Nicolas Schlecht
+  - Nicole Kawachi
+  - Bradley A. Schiff
+  - Richard V. Smith
+  - Gregory Rosenblatt
+  - Stelby Augustine
+  - Evripidis Gavathiotis
+  - Robert Burk
+  - Michael B. Prystowsky
+  - Chandan Guha
+  - Vikas Mehta
+  - Thomas J. Ow
+  publisher: Journal of Medical Virology
+  date: '2023-01-10'
+  link: https://doi.org/gtkh5w
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.02.28.530500
+  title: Immature myeloid cells are indispensable for intestinal regeneration post
+    irradiation injury
+  authors:
+  - Zhengyu Jiang
+  - Quin T. Waterbury
+  - Na Fu
+  - Woosook Kim
+  - Ermanno Malagola
+  - Chandan Guha
+  - Carrie J. Shawber
+  - Kelley S. Yan
+  - Timothy C. Wang
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-03-01'
+  link: https://doi.org/g9zzkq
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ctro.2023.100605
+  title: "Novel unconventional radiotherapy techniques: Current status and future\
+    \ perspectives \u2013 Report from the 2nd international radiation oncology online\
+    \ seminar"
+  authors:
+  - S. Tubin
+  - M.C. Vozenin
+  - Y. Prezado
+  - M. Durante
+  - K.M. Prise
+  - P.C. Lara
+  - C. Greco
+  - M. Massaccesi
+  - C. Guha
+  - X. Wu
+  - M.M. Mohiuddin
+  - A. Vestergaard
+  - N. Bassler
+  - S. Gupta
+  - M. Stock
+  - R. Timmerman
+  publisher: Clinical and Translational Radiation Oncology
+  date: '2023-05-01'
+  link: https://doi.org/g9zzkr
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/HC9.0000000000000070
+  title: "Resolution of hepatic fibrosis after ZFN-mediated gene editing in the PiZ\
+    \ mouse model of human \u03B11-antitrypsin deficiency"
+  authors:
+  - Yanfeng Li
+  - Chandan Guha
+  - Patrik Asp
+  - Xia Wang
+  - Tatyana L. Tchaikovskya
+  - Kenneth Kim
+  - Matthew Mendel
+  - Gregory J. Cost
+  - David H. Perlmutter
+  - Namita Roy-Chowdhury
+  - Ira J. Fox
+  - Anthony Conway
+  - Jayanta Roy-Chowdhury
+  publisher: Hepatology Communications
+  date: '2023-02-27'
+  link: https://doi.org/gtkh5x
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s10555-023-10114-1
   title: The role of histone H3 lysine demethylases in glioblastoma
   authors:
@@ -799,7 +1167,7 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1080/2162402x.2023.2222560
+- id: doi:10.1080/2162402X.2023.2222560
   title: "Updates on radiotherapy-immunotherapy combinations: Proceedings of 6\n \
     \           <sup>th</sup>\n            annual ImmunoRad conference"
   authors:
@@ -851,115 +1219,24 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3390/cancers15072005
-  title: CDK4/6 Inhibition Induces Senescence and Enhances Radiation Response by Disabling
-    DNA Damage Repair in Oral Cavity Squamous Cell Carcinoma
+- id: doi:10.1016/j.phro.2022.02.005
+  title: A positron emission tomography radiomic signature for distant metastases
+    risk in oropharyngeal cancer patients treated with definitive chemoradiotherapy
   authors:
-  - Nitisha Shrivastava
-  - Claudia Gutierrez Chavez
-  - Daniel Li
-  - Vikas Mehta
-  - Carlos Thomas
-  - Cory D. Fulcher
-  - Nicole Kawachi
-  - Danielle M. Bottalico
-  - Michael B. Prystowsky
-  - Indranil Basu
+  - N. Patrik Brodin
+  - Christian Velten
+  - Jonathan Lubin
+  - Jeremy Eichler
+  - Shaoyu Zhu
+  - Sneha Saha
   - Chandan Guha
-  - Thomas J. Ow
-  publisher: Cancers
-  date: '2023-03-28'
-  link: https://doi.org/gtkh5t
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/s41598-022-21726-y
-  title: Circulating microvesicles correlate with radiation proctitis complication
-    after radiotherapy
-  authors:
-  - Alexandre Ribault
-  - Mohamed Amine Benadjaoud
-  - Claire Squiban
-  - Laurent Arnaud
-  - Coralie Judicone
-  - "Aur\xE9lie S. Leroyer"
-  - Alexandra Rousseau
-  - Christelle Huet
-  - Chandan Guha
-  - Marc Benderitter
-  - Romaric Lacroix
-  - Stephane Flamant
-  - Emily I. Chen
-  - Jean-Marc Simon
-  - Radia Tamarat
-  publisher: Scientific Reports
-  date: '2023-02-04'
-  link: https://doi.org/gtkh5v
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1002/jmv.28388
-  title: Establishment of a diverse head and neck squamous cancer cell bank using
-    conditional reprogramming culture methods
-  authors:
-  - Daniel Li
-  - Carlos Thomas
-  - Nitisha Shrivastava
-  - Adam Gersten
-  - Nicholas Gadsden
-  - Nicolas Schlecht
-  - Nicole Kawachi
-  - Bradley A. Schiff
-  - Richard V. Smith
-  - Gregory Rosenblatt
-  - Stelby Augustine
-  - Evripidis Gavathiotis
-  - Robert Burk
-  - Michael B. Prystowsky
-  - Chandan Guha
-  - Vikas Mehta
-  - Thomas J. Ow
-  publisher: Journal of Medical Virology
-  date: '2023-01-10'
-  link: https://doi.org/gtkh5w
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1097/hc9.0000000000000070
-  title: "Resolution of hepatic fibrosis after ZFN-mediated gene editing in the PiZ\
-    \ mouse model of human \u03B11-antitrypsin deficiency"
-  authors:
-  - Yanfeng Li
-  - Chandan Guha
-  - Patrik Asp
-  - Xia Wang
-  - Tatyana L. Tchaikovskya
-  - Kenneth Kim
-  - Matthew Mendel
-  - Gregory J. Cost
-  - David H. Perlmutter
-  - Namita Roy-Chowdhury
-  - Ira J. Fox
-  - Anthony Conway
-  - Jayanta Roy-Chowdhury
-  publisher: Hepatology Communications
-  date: '2023-02-27'
-  link: https://doi.org/gtkh5x
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.2147/cmar.s385968
-  title: Enhanced Glycolysis Confers Resistance Against Photon but Not Carbon Ion
-    Irradiation in Human Glioma Cell Lines
-  authors:
-  - Mohit Vashishta
-  - Vivek Kumar
-  - Chandan Guha
-  - Xiaodong Wu
-  - Bilikere S Dwarakanath
-  publisher: Cancer Management and Research
-  date: '2023-01-01'
-  link: https://doi.org/gtkh5z
+  - Shalom Kalnicki
+  - "Wolfgang A. Tom\xE9"
+  - Madhur K. Garg
+  - Rafi Kabarriti
+  publisher: Physics and Imaging in Radiation Oncology
+  date: '2022-01-01'
+  link: https://doi.org/gtkh58
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -977,6 +1254,31 @@
   publisher: Cells
   date: '2022-10-24'
   link: https://doi.org/grhqfm
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-1733631/v1
+  title: Circulating microvesicles correlate with radiation proctitis complication
+    after radiotherapy
+  authors:
+  - Alexandre Ribault
+  - Mohamed Amine Benadjaoud
+  - Claire Squiban
+  - Laurent Arnaud
+  - Coralie Judicone
+  - "Aur\xE9lie S. Leroyer"
+  - Alexandra Rousseau
+  - Christelle Huet
+  - Chandan Guha
+  - Marc Benderitter
+  - Romaric Lacroix
+  - Stephane FLAMANT
+  - Emily I. Chen
+  - Jean-Marc Simon
+  - Radia Tamarat
+  publisher: Research Square Platform LLC
+  date: '2022-06-17'
+  link: https://doi.org/gtkh54
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1003,7 +1305,143 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1158/0008-5472.can-22-0656
+- id: doi:10.1200/CCI.22.00024
+  title: "Improving Adjuvant Liver-Directed Treatment Recommendations for Unresectable\
+    \ Hepatocellular Carcinoma: An Artificial Intelligence\u2013Based Decision-Making\
+    \ Tool"
+  authors:
+  - Allen Mo
+  - Christian Velten
+  - Julie M. Jiang
+  - Justin Tang
+  - Nitin Ohri
+  - Shalom Kalnicki
+  - Parsa Mirhaji
+  - Kei Nemoto
+  - Boudewijn Aasman
+  - Madhur Garg
+  - Chandan Guha
+  - N. Patrik Brodin
+  - Rafi Kabarriti
+  publisher: JCO Clinical Cancer Informatics
+  date: '2022-06-01'
+  link: https://doi.org/gtkh55
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.02.18.480594
+  title: "Increased Relative Biological Effectiveness of Orthovoltage X-rays Compared\
+    \ to \u03B3-rays in Preclinical Irradiation"
+  authors:
+  - Brett I. Bell
+  - Justin Vercellino
+  - N. Patrik Brodin
+  - Christian Velten
+  - Lalitha Sarad Yamini Nanduri
+  - Kathryn E. Tanaka
+  - Yanan Fang
+  - Yanhua Wang
+  - Rodney Macedo
+  - Jeb English
+  - Michelle M. Schumacher
+  - Phaneendra K. Duddempudi
+  - Patrik Asp
+  - Wade Koba
+  - Shahin Shajahan
+  - Laibin Liu
+  - "Wolfgang Tom\xE9"
+  - Weng-Lang Yang
+  - Richard Kolesnick
+  - Chandan Guha
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-02-20'
+  link: https://doi.org/g9zzks
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-67727-5_58
+  title: Inherited Disorders of Bilirubin Metabolism
+  authors:
+  - Namita Roy-Chowdhury
+  - Chandan Guha
+  - Jayanta Roy-Chowdhury
+  publisher: Physician's Guide to the Diagnosis, Treatment, and Follow-Up of Inherited
+    Metabolic Diseases
+  date: '2022-01-01'
+  link: https://doi.org/g9zzkt
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.04.26.489611
+  title: Isthmus progenitor cells contribute to homeostatic cellular turnover and
+    support regeneration following intestinal injury
+  authors:
+  - E. Malagola
+  - A. Vasciaveo
+  - Y. Ochiai
+  - W. Kim
+  - M. Middelhoff
+  - "H. Nienh\xFCser"
+  - L. Deng
+  - B. Belin
+  - J. LaBella
+  - LB. Zamechek
+  - M.H. Wong
+  - L. Li
+  - C. Guha
+  - CW. Cheng
+  - KS. Yan
+  - A. Califano
+  - T.C. Wang
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-04-28'
+  link: https://doi.org/g9zzkv
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijrobp.2021.10.146
+  title: Longitudinal Preclinical Imaging Characterizes Extracellular Drug Accumulation
+    After Radiation Therapy in the Healthy and Leukemic Bone Marrow Vascular Microenvironment
+  authors:
+  - Jamison Brooks
+  - Darren Zuro
+  - Joo Y. Song
+  - Srideshikan Sargur Madabushi
+  - James F. Sanchez
+  - Chandan Guha
+  - Marcin Kortylewski
+  - Bihong T. Chen
+  - Kalpna Gupta
+  - Guy Storme
+  - Jerry Froelich
+  - Susanta K Hui
+  publisher: International Journal of Radiation Oncology*Biology*Physics
+  date: '2022-03-01'
+  link: https://doi.org/grsbqf
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-022-07426-7
+  title: Mitigation of total body irradiation-induced mortality and hematopoietic
+    injury of mice by a thrombopoietin mimetic (JNJ-26366821)
+  authors:
+  - Vidya P. Kumar
+  - Gregory P. Holmes-Hampton
+  - Shukla Biswas
+  - Sasha Stone
+  - Neel Kamal Sharma
+  - Bernadette Hritzo
+  - Mary Guilfoyle
+  - Gary Eichenbaum
+  - Chandan Guha
+  - Sanchita P. Ghosh
+  publisher: Scientific Reports
+  date: '2022-03-03'
+  link: https://doi.org/gtkh57
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.CAN-22-0656
   title: "Orthovoltage X-Rays Exhibit Increased Efficacy Compared with \u03B3-Rays\
     \ in Preclinical Irradiation"
   authors:
@@ -1032,55 +1470,35 @@
   date: '2022-08-03'
   link: https://doi.org/gtkh53
   orcid: 0000-0002-1906-2186
-  plugin: sources.py
-  file: sources.yaml
-  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/issue/82/15/2/m_canres_82_15_cover.png?Expires=1712534177&Signature=PPO2tJ7xS4xzDMN4lnC1-5wrEpG01J1wW5X09DsMiNwZYs5mOngadVtVtyplcxKi~QasUlD0JGVoCnFtHqR2DZZD9zcZL49ZgjJutI7hE0HWm2wYjhi~QF93SUm9UKbirJx4ZYQumV2eY5ZpIzbkgmVAXhNHUZ~bmRXxBp4QZFQ4tA19REePGRRuiNKpGTUYwdZ71DG8f5NThQksSwR9IPLnNS64tjycIjMQVK6X5doQV0Fv9SfAhatXHm-XITHj-KB9jvEQwgYou22pXZPqo3hr7V1tSKc4w9VH0G3ESycQoKYXguwx~7hafBIX4RyL7h-VxAaXkpKrL-WRsi6Wtg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-- id: doi:10.21203/rs.3.rs-1733631/v1
-  title: Circulating microvesicles correlate with radiation proctitis complication
-    after radiotherapy
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/9781119600527.ch74
+  title: Radiation injury in the gastrointestinal tract
   authors:
-  - Alexandre Ribault
-  - Mohamed Amine Benadjaoud
-  - Claire Squiban
-  - Laurent Arnaud
-  - Coralie Judicone
-  - "Aur\xE9lie S. Leroyer"
-  - Alexandra Rousseau
-  - Christelle Huet
+  - Lalitha S. Y. Nanduri
+  - Nicole C. Panarelli
   - Chandan Guha
-  - Marc Benderitter
-  - Romaric Lacroix
-  - Stephane FLAMANT
-  - Emily I. Chen
-  - Jean-Marc Simon
-  - Radia Tamarat
-  publisher: Research Square Platform LLC
-  date: '2022-06-17'
-  link: https://doi.org/gtkh54
+  publisher: Yamada's Atlas of Gastroenterology
+  date: '2022-02-25'
+  link: https://doi.org/g9zzkw
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1200/cci.22.00024
-  title: "Improving Adjuvant Liver-Directed Treatment Recommendations for Unresectable\
-    \ Hepatocellular Carcinoma: An Artificial Intelligence\u2013Based Decision-Making\
-    \ Tool"
+- id: doi:10.1007/s12094-021-02675-w
+  title: 'Stereotactic radiosurgery with immunotherapy is associated with improved
+    overall survival in patients with metastatic melanoma or non-small cell lung cancer:
+    a National Cancer Database analysis'
   authors:
-  - Allen Mo
-  - Christian Velten
-  - Julie M. Jiang
-  - Justin Tang
-  - Nitin Ohri
-  - Shalom Kalnicki
-  - Parsa Mirhaji
-  - Kei Nemoto
-  - Boudewijn Aasman
-  - Madhur Garg
-  - Chandan Guha
-  - N. Patrik Brodin
-  - Rafi Kabarriti
-  publisher: JCO Clinical Cancer Informatics
-  date: '2022-06-01'
-  link: https://doi.org/gtkh55
+  - J. M. Jiang
+  - R. Kabarriti
+  - N. P. Brodin
+  - N. Ohri
+  - C. Guha
+  - S. Kalnicki
+  - M. Garg
+  publisher: Clinical and Translational Oncology
+  date: '2021-07-08'
+  link: https://doi.org/g9zzkx
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1110,44 +1528,65 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/s41598-022-07426-7
-  title: Mitigation of total body irradiation-induced mortality and hematopoietic
-    injury of mice by a thrombopoietin mimetic (JNJ-26366821)
+- id: doi:10.7759/cureus.17432
+  title: Using Statistical Measures and Density Maps Generated From Chest Computed
+    Tomography Scans to Identify and Monitor COVID-19 Cases in Radiation Oncology
+    Rapidly
   authors:
-  - Vidya P. Kumar
-  - Gregory P. Holmes-Hampton
-  - Shukla Biswas
-  - Sasha Stone
-  - Neel Kamal Sharma
-  - Bernadette Hritzo
-  - Mary Guilfoyle
-  - Gary Eichenbaum
+  - "Marie-H\xE9l\xE8ne Tom\xE9"
+  - Megi Gjini
+  - Shaoyu Zhu
+  - Rafi Kabarriti
   - Chandan Guha
-  - Sanchita P. Ghosh
-  publisher: Scientific Reports
-  date: '2022-03-03'
-  link: https://doi.org/gtkh57
+  - Madhur K Garg
+  - "Wolfgang A Tom\xE9"
+  - N. Patrik Brodin
+  publisher: Cureus
+  date: '2021-08-25'
+  link: https://doi.org/gtkh6b
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.phro.2022.02.005
-  title: A positron emission tomography radiomic signature for distant metastases
-    risk in oropharyngeal cancer patients treated with definitive chemoradiotherapy
+- id: doi:10.7150/JCA.46316
+  title: Carbon ion triggered immunogenic necroptosis of nasopharyngeal carcinoma
+    cells involving necroptotic inhibitor BCL-x
   authors:
-  - N. Patrik Brodin
-  - Christian Velten
-  - Jonathan Lubin
-  - Jeremy Eichler
-  - Shaoyu Zhu
-  - Sneha Saha
+  - Cihang Bao
+  - Yun Sun
+  - Bilikere Dwarakanath
+  - Yuanli Dong
+  - Yangle Huang
+  - Xiaodong Wu
   - Chandan Guha
-  - Shalom Kalnicki
-  - "Wolfgang A. Tom\xE9"
-  - Madhur K. Garg
-  - Rafi Kabarriti
-  publisher: Physics and Imaging in Radiation Oncology
-  date: '2022-01-01'
-  link: https://doi.org/gtkh58
+  - Lin Kong
+  - Jiade J. Lu
+  publisher: Journal of Cancer
+  date: '2021-01-01'
+  link: https://doi.org/ghzmnk
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3233/BLC-219501
+  title: 'Outcomes of Trimodal Therapy for cT2-3 Urothelial Carcinoma in a Racially
+    Diverse Population: A Single Institution Experience in the Bronx'
+  authors: []
+  publisher: Bladder Cancer
+  date: '2021-02-09'
+  link: https://doi.org/g9zzkz
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fphar.2021.662437
+  title: Extracellular Vesicles for the Treatment of Radiation Injuries
+  authors:
+  - Lalitha Sarad Yamini Nanduri
+  - Phaneendra K. Duddempudi
+  - Weng-Lang Yang
+  - Radia Tamarat
+  - Chandan Guha
+  publisher: Frontiers in Pharmacology
+  date: '2021-05-18'
+  link: https://doi.org/gp4v5f
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1179,58 +1618,41 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.ijrobp.2021.10.146
-  title: Longitudinal Preclinical Imaging Characterizes Extracellular Drug Accumulation
-    After Radiation Therapy in the Healthy and Leukemic Bone Marrow Vascular Microenvironment
+- id: doi:10.1016/j.ijrobp.2019.02.046
+  title: 'Immunomodulatory Effects of Stereotactic Body Radiation Therapy: Preclinical
+    Insights and Clinical Opportunities'
   authors:
-  - Jamison Brooks
-  - Darren Zuro
-  - Joo Y. Song
-  - Srideshikan Sargur Madabushi
-  - James F. Sanchez
+  - Ariel E. Marciscano
+  - Adriana Haimovitz-Friedman
+  - Percy Lee
+  - Phuoc T. Tran
+  - "Wolfgang A. Tom\xE9"
   - Chandan Guha
-  - Marcin Kortylewski
-  - Bihong T. Chen
-  - Kalpna Gupta
-  - Guy Storme
-  - Jerry Froelich
-  - Susanta K Hui
+  - Feng-Ming (Spring) Kong
+  - Arjun Sahgal
+  - Issam El Naqa
+  - Andreas Rimner
+  - Lawrence B. Marks
+  - Silvia C. Formenti
+  - Theodore L. DeWeese
   publisher: International Journal of Radiation Oncology*Biology*Physics
-  date: '2022-03-01'
-  link: https://doi.org/grsbqf
+  date: '2021-05-01'
+  link: https://doi.org/gfw59t
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.7759/cureus.17432
-  title: Using Statistical Measures and Density Maps Generated From Chest Computed
-    Tomography Scans to Identify and Monitor COVID-19 Cases in Radiation Oncology
-    Rapidly
+- id: doi:10.1016/j.ijrobp.2021.02.043
+  title: 'Normal Tissue Injury Induced by Photon and Proton Therapies: Gaps and Opportunities'
   authors:
-  - "Marie-H\xE9l\xE8ne Tom\xE9"
-  - Megi Gjini
-  - Shaoyu Zhu
-  - Rafi Kabarriti
+  - Pataje G. Prasanna
+  - Kamila Rawojc
   - Chandan Guha
-  - Madhur K Garg
-  - "Wolfgang A Tom\xE9"
-  - N. Patrik Brodin
-  publisher: Cureus
-  date: '2021-08-25'
-  link: https://doi.org/gtkh6b
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.3389/fphar.2021.662437
-  title: Extracellular Vesicles for the Treatment of Radiation Injuries
-  authors:
-  - Lalitha Sarad Yamini Nanduri
-  - Phaneendra K. Duddempudi
-  - Weng-Lang Yang
-  - Radia Tamarat
-  - Chandan Guha
-  publisher: Frontiers in Pharmacology
-  date: '2021-05-18'
-  link: https://doi.org/gp4v5f
+  - Jeffrey C. Buchsbaum
+  - Justyna U. Miszczyk
+  - C. Norman Coleman
+  publisher: International Journal of Radiation Oncology*Biology*Physics
+  date: '2021-08-01'
+  link: https://doi.org/gjpw4z
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1255,6 +1677,30 @@
   publisher: Journal for ImmunoTherapy of Cancer
   date: '2021-04-01'
   link: https://doi.org/grp6xd
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-981-16-1815-4_2
+  title: Radiobiology of the Liver
+  authors:
+  - Rafi Kabarriti
+  - Chandan Guha
+  publisher: Radiotherapy of Liver Cancer
+  date: '2021-01-01'
+  link: https://doi.org/g9zzk2
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.clon.2021.08.015
+  title: Repurposing Radiation Therapy for Immuno-oncology
+  authors:
+  - J. Tang
+  - B. Malachowska
+  - X. Wu
+  - C. Guha
+  publisher: Clinical Oncology
+  date: '2021-11-01'
+  link: https://doi.org/grmhb8
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1293,60 +1739,38 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.ijrobp.2021.02.043
-  title: 'Normal Tissue Injury Induced by Photon and Proton Therapies: Gaps and Opportunities'
+- id: doi:10.1016/j.prro.2020.09.010
+  title: Who Benefits the Most From Adjuvant Durvalumab After Chemoradiotherapy for
+    Non-small Cell Lung Cancer? An Exploratory Analysis
   authors:
-  - Pataje G. Prasanna
-  - Kamila Rawojc
+  - Nitin Ohri
+  - Balazs Halmos
+  - William R. Bodner
+  - Haiying Cheng
+  - Madhur K. Garg
+  - Rasim Gucalp
   - Chandan Guha
-  - Jeffrey C. Buchsbaum
-  - Justyna U. Miszczyk
-  - C. Norman Coleman
-  publisher: International Journal of Radiation Oncology*Biology*Physics
-  date: '2021-08-01'
-  link: https://doi.org/gjpw4z
+  publisher: Practical Radiation Oncology
+  date: '2021-03-01'
+  link: https://doi.org/gtkh6g
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.7150/jca.46316
-  title: Carbon ion triggered immunogenic necroptosis of nasopharyngeal carcinoma
-    cells involving necroptotic inhibitor BCL-x
+- id: doi:10.21203/rs.2.23301/v3
+  title: Evaluating Dosimetric Constraints for Carbon Ion Radiotherapy in the Treatment
+    of Locally Advanced Pancreatic Cancer
   authors:
-  - Cihang Bao
-  - Yun Sun
-  - Bilikere Dwarakanath
-  - Yuanli Dong
-  - Yangle Huang
-  - Xiaodong Wu
+  - Lien-Chun Lin
+  - Guo-Liang Jiang
+  - Nitin Ohri
+  - Zheng Wang
+  - Jiade Lu
+  - Madhur Garg
   - Chandan Guha
-  - Lin Kong
-  - Jiade J. Lu
-  publisher: Journal of Cancer
-  date: '2021-01-01'
-  link: https://doi.org/ghzmnk
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1667/rade-20-00066.1
-  title: The Technical and Clinical Implementation of LATTICE Radiation Therapy (LRT)
-  authors:
-  - Xiaodong Wu
-  - Naipy C. Perez
-  - Yi Zheng
-  - Xiaobo Li
-  - Liuqing Jiang
-  - Beatriz E. Amendola
-  - Benhua Xu
-  - Nina A. Mayr
-  - Jiade J. Lu
-  - Georges F. Hatoum
-  - Hualin Zhang
-  - Sha X. Chang
-  - Robert J. Griffin
-  - Chandan Guha
-  publisher: Radiation Research
-  date: '2020-10-16'
-  link: https://doi.org/gmbbdq
+  - XIAODONG Wu
+  publisher: Springer Science and Business Media LLC
+  date: '2020-03-17'
+  link: https://doi.org/gtkh6r
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1374,57 +1798,6 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1667/rade-20-00211.1
-  title: 'Low-Dose Radiation Therapy (LDRT) for COVID-19: Benefits or Risks?'
-  authors:
-  - Pataje G. Prasanna
-  - Gayle E. Woloschak
-  - Andrea L. DiCarlo
-  - Jeffrey C. Buchsbaum
-  - "D\xF6rthe Schaue"
-  - Arnab Chakravarti
-  - Francis A. Cucinotta
-  - Silvia C. Formenti
-  - Chandan Guha
-  - Dale J. Hu
-  - Mohammad K. Khan
-  - David G. Kirsch
-  - Sunil Krishnan
-  - Wolfgang W. Leitner
-  - Brian Marples
-  - William McBride
-  - Minesh P. Mehta
-  - Shahin Rafii
-  - Elad Sharon
-  - Julie M. Sullivan
-  - Ralph R. Weichselbaum
-  - Mansoor M. Ahmed
-  - Bhadrasain Vikram
-  - C. Norman Coleman
-  - Kathryn D. Held
-  publisher: Radiation Research
-  date: '2020-10-12'
-  link: https://doi.org/gtkh6f
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.prro.2020.09.010
-  title: Who Benefits the Most From Adjuvant Durvalumab After Chemoradiotherapy for
-    Non-small Cell Lung Cancer? An Exploratory Analysis
-  authors:
-  - Nitin Ohri
-  - Balazs Halmos
-  - William R. Bodner
-  - Haiying Cheng
-  - Madhur K. Garg
-  - Rasim Gucalp
-  - Chandan Guha
-  publisher: Practical Radiation Oncology
-  date: '2021-03-01'
-  link: https://doi.org/gtkh6g
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1001/jamanetworkopen.2020.19795
   title: Association of Race and Ethnicity With Comorbidities and Survival Among Patients
     With COVID-19 at an Urban Medical Center in New York
@@ -1442,100 +1815,20 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.ebiom.2020.102973
-  title: Plasma metabolomic profiles in liver cancer patients following stereotactic
-    body radiotherapy
+- id: doi:10.1016/j.ijrobp.2019.10.028
+  title: 'Circulating microRNAs as Biomarkers of Radiation Exposure: A Systematic
+    Review and Meta-Analysis'
   authors:
-  - Sylvia S.W. Ng
-  - Gun Ho Jang
-  - Irwin J. Kurland
-  - Yunping Qiu
+  - "Beata Ma\u0142achowska"
+  - "Bart\u0142omiej Tomasik"
+  - Konrad Stawiski
+  - Shilpa Kulkarni
   - Chandan Guha
-  - Laura A. Dawson
-  publisher: eBioMedicine
-  date: '2020-09-01'
-  link: https://doi.org/gmj7n7
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13287-020-01887-1
-  title: Extracellular vesicles derived from mesenchymal stromal cells mitigate intestinal
-    toxicity in a mouse model of acute radiation syndrome
-  authors:
-  - Alison Accarie
-  - "Bruno l\u2019Homme"
-  - Mohamed Amine Benadjaoud
-  - Sai Kiang Lim
-  - Chandan Guha
-  - Marc Benderitter
-  - Radia Tamarat
-  - "Alexandra S\xE9mont"
-  publisher: Stem Cell Research &amp; Therapy
-  date: '2020-08-27'
-  link: https://doi.org/gp4v5b
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.adro.2020.06.020
-  title: "Reply to Chowdhary et\_al"
-  authors:
-  - Rafi Kabarriti
-  - N. Patrik Brodin
-  - Maxim I. Maron
-  - "Wolfgang A. Tom\xE9"
-  - Balazs Halmos
-  - Chandan Guha
-  - Shalom Kalnicki
-  - Madhur K. Garg
-  - Nitin Ohri
-  publisher: Advances in Radiation Oncology
-  date: '2020-07-01'
-  link: https://doi.org/gtkh6h
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pone.0233578
-  title: Mechanistic dissection of the PD-L1:B7-1 co-inhibitory immune complex
-  authors:
-  - Sarah C. Garrett-Thomson
-  - Aldo Massimi
-  - Elena V. Fedorov
-  - Jeffrey B. Bonanno
-  - Lisa Scandiuzzi
-  - Brandan Hillerich
-  - Ronald D. Seidel
-  - James D. Love
-  - Scott J. Garforth
-  - Chandan Guha
-  - Steven C. Almo
-  publisher: PLOS ONE
-  date: '2020-06-04'
-  link: https://doi.org/gtkh6j
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1080/10428194.2020.1775213
-  title: The thrombopoietin mimetic JNJ-26366821 increases megakaryopoiesis without
-    affecting malignant myeloid proliferation
-  authors:
-  - Diego Adrianzen-Herrera
-  - Gaurav Choudhary
-  - Shanisha Gordon-Mitchell
-  - Nandini Ramachandra
-  - Tushar Bhagat
-  - Hui Zhang
-  - Srinivas Aluri
-  - Aditi Shastri
-  - Ulrich Steidl
-  - Britta Will
-  - Weng-Lang Yang
-  - Michelle Mahler
-  - Gary Eichenbaum
-  - Chandan Guha
-  - Amit Verma
-  publisher: Leukemia &amp; Lymphoma
-  date: '2020-06-24'
-  link: https://doi.org/gtkh6k
+  - Dipanjan Chowdhury
+  - Wojciech Fendler
+  publisher: International Journal of Radiation Oncology*Biology*Physics
+  date: '2020-02-01'
+  link: https://doi.org/grh32x
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1576,6 +1869,196 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1186/s13287-020-01887-1
+  title: Extracellular vesicles derived from mesenchymal stromal cells mitigate intestinal
+    toxicity in a mouse model of acute radiation syndrome
+  authors:
+  - Alison Accarie
+  - "Bruno l\u2019Homme"
+  - Mohamed Amine Benadjaoud
+  - Sai Kiang Lim
+  - Chandan Guha
+  - Marc Benderitter
+  - Radia Tamarat
+  - "Alexandra S\xE9mont"
+  publisher: Stem Cell Research &amp; Therapy
+  date: '2020-08-27'
+  link: https://doi.org/gp4v5b
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/9781119436812.ch73
+  title: "Liver\u2010Directed Gene Therapy"
+  authors:
+  - Patrik Asp
+  - Chandan Guha
+  - Namita Roy Chowdhury
+  - Jayanta Roy Chowdhury
+  publisher: The Liver
+  date: '2020-01-24'
+  link: https://doi.org/g9zzk3
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1667/RADE-20-00211.1
+  title: 'Low-Dose Radiation Therapy (LDRT) for COVID-19: Benefits or Risks?'
+  authors:
+  - Pataje G. Prasanna
+  - Gayle E. Woloschak
+  - Andrea L. DiCarlo
+  - Jeffrey C. Buchsbaum
+  - "D\xF6rthe Schaue"
+  - Arnab Chakravarti
+  - Francis A. Cucinotta
+  - Silvia C. Formenti
+  - Chandan Guha
+  - Dale J. Hu
+  - Mohammad K. Khan
+  - David G. Kirsch
+  - Sunil Krishnan
+  - Wolfgang W. Leitner
+  - Brian Marples
+  - William McBride
+  - Minesh P. Mehta
+  - Shahin Rafii
+  - Elad Sharon
+  - Julie M. Sullivan
+  - Ralph R. Weichselbaum
+  - Mansoor M. Ahmed
+  - Bhadrasain Vikram
+  - C. Norman Coleman
+  - Kathryn D. Held
+  publisher: Radiation Research
+  date: '2020-10-12'
+  link: https://doi.org/gtkh6f
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.semradonc.2019.12.003
+  title: 'Lymphocyte-Sparing Radiotherapy: The Rationale for Protecting Lymphocyte-rich
+    Organs When Combining Radiotherapy With Immunotherapy'
+  authors:
+  - Philippe Lambin
+  - Relinde I.Y. Lieverse
+  - Franziska Eckert
+  - "Dami\xEBnne Marcus"
+  - Cary Oberije
+  - Alexander M.A. van der Wiel
+  - Chandan Guha
+  - Ludwig J. Dubois
+  - Joseph O. Deasy
+  publisher: Seminars in Radiation Oncology
+  date: '2020-04-01'
+  link: https://doi.org/gkxz95
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0233578
+  title: Mechanistic dissection of the PD-L1:B7-1 co-inhibitory immune complex
+  authors:
+  - Sarah C. Garrett-Thomson
+  - Aldo Massimi
+  - Elena V. Fedorov
+  - Jeffrey B. Bonanno
+  - Lisa Scandiuzzi
+  - Brandan Hillerich
+  - Ronald D. Seidel
+  - James D. Love
+  - Scott J. Garforth
+  - Chandan Guha
+  - Steven C. Almo
+  publisher: PLOS ONE
+  date: '2020-06-04'
+  link: https://doi.org/gtkh6j
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7150/thno.42243
+  title: Novel calreticulin-nanoparticle in combination with focused ultrasound induces
+    immunogenic cell death in melanoma to enhance antitumor immunity
+  authors:
+  - Sri Nandhini Sethuraman
+  - Mohit Pratap Singh
+  - Girish Patil
+  - Shitao Li
+  - Steven Fiering
+  - P. Jack Hoopes
+  - Chandan Guha
+  - Jerry Malayer
+  - Ashish Ranjan
+  publisher: Theranostics
+  date: '2020-01-01'
+  link: https://doi.org/gqm6xv
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3233/BLC-200332
+  title: 'Outcomes of Trimodal Therapy for cT2-3 Urothelial Carcinoma in a Racially
+    Diverse Population: A Single Institution Experience in the Bronx'
+  authors:
+  - Josh Gottlieb
+  - Evan Kovac
+  - Ahmed Aboumohamed
+  - Mark Schoenberg
+  - Benjamin Gartrell
+  - William Bodner
+  - Chandan Guha
+  - Keyur Mehta
+  - Madhur Garg
+  - Alexander Sankin
+  publisher: Bladder Cancer
+  date: '2020-09-09'
+  link: https://doi.org/g9zzk4
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ebiom.2020.102973
+  title: Plasma metabolomic profiles in liver cancer patients following stereotactic
+    body radiotherapy
+  authors:
+  - Sylvia S.W. Ng
+  - Gun Ho Jang
+  - Irwin J. Kurland
+  - Yunping Qiu
+  - Chandan Guha
+  - Laura A. Dawson
+  publisher: eBioMedicine
+  date: '2020-09-01'
+  link: https://doi.org/gmj7n7
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.CCR-18-3518
+  title: Postablation Modulation after Single High-Dose Radiation Therapy Improves
+    Tumor Control via Enhanced Immunomodulation
+  authors:
+  - Talicia Savage
+  - Sanjay Pandey
+  - Chandan Guha
+  publisher: Clinical Cancer Research
+  date: '2020-02-14'
+  link: https://doi.org/gtkh6w
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.adro.2020.06.020
+  title: "Reply to Chowdhary et\_al"
+  authors:
+  - Rafi Kabarriti
+  - N. Patrik Brodin
+  - Maxim I. Maron
+  - "Wolfgang A. Tom\xE9"
+  - Balazs Halmos
+  - Chandan Guha
+  - Shalom Kalnicki
+  - Madhur K. Garg
+  - Nitin Ohri
+  publisher: Advances in Radiation Oncology
+  date: '2020-07-01'
+  link: https://doi.org/gtkh6h
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.devcel.2020.04.012
   title: Snai2 Maintains Bone Marrow Niche Cells by Repressing Osteopontin Expression
   authors:
@@ -1598,22 +2081,51 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.semradonc.2019.12.003
-  title: 'Lymphocyte-Sparing Radiotherapy: The Rationale for Protecting Lymphocyte-rich
-    Organs When Combining Radiotherapy With Immunotherapy'
+- id: doi:10.1667/RADE-20-00066.1
+  title: The Technical and Clinical Implementation of LATTICE Radiation Therapy (LRT)
   authors:
-  - Philippe Lambin
-  - Relinde I.Y. Lieverse
-  - Franziska Eckert
-  - "Dami\xEBnne Marcus"
-  - Cary Oberije
-  - Alexander M.A. van der Wiel
+  - Xiaodong Wu
+  - Naipy C. Perez
+  - Yi Zheng
+  - Xiaobo Li
+  - Liuqing Jiang
+  - Beatriz E. Amendola
+  - Benhua Xu
+  - Nina A. Mayr
+  - Jiade J. Lu
+  - Georges F. Hatoum
+  - Hualin Zhang
+  - Sha X. Chang
+  - Robert J. Griffin
   - Chandan Guha
-  - Ludwig J. Dubois
-  - Joseph O. Deasy
-  publisher: Seminars in Radiation Oncology
-  date: '2020-04-01'
-  link: https://doi.org/gkxz95
+  publisher: Radiation Research
+  date: '2020-10-16'
+  link: https://doi.org/gmbbdq
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/10428194.2020.1775213
+  title: The thrombopoietin mimetic JNJ-26366821 increases megakaryopoiesis without
+    affecting malignant myeloid proliferation
+  authors:
+  - Diego Adrianzen-Herrera
+  - Gaurav Choudhary
+  - Shanisha Gordon-Mitchell
+  - Nandini Ramachandra
+  - Tushar Bhagat
+  - Hui Zhang
+  - Srinivas Aluri
+  - Aditi Shastri
+  - Ulrich Steidl
+  - Britta Will
+  - Weng-Lang Yang
+  - Michelle Mahler
+  - Gary Eichenbaum
+  - Chandan Guha
+  - Amit Verma
+  publisher: Leukemia &amp; Lymphoma
+  date: '2020-06-24'
+  link: https://doi.org/gtkh6k
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1672,44 +2184,136 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.21203/rs.2.23301/v3
-  title: Evaluating Dosimetric Constraints for Carbon Ion Radiotherapy in the Treatment
-    of Locally Advanced Pancreatic Cancer
+- id: doi:10.7759/cureus.3856
+  title: Origin of Locoregional Recurrences After Definitive Intensity-modulated Radiation
+    Therapy (IMRT) for Laryngeal Cancer Determined Based on Follow-up PET/CT Imaging
   authors:
-  - Lien-Chun Lin
-  - Guo-Liang Jiang
+  - Rafi Kabarriti
+  - N. Patrik Brodin
+  - Sadia Ahmed
+  - Ivan Vogelius
+  - Chandan Guha
+  - Shalom Kalnicki
+  - "Wolfgang A Tom\xE9"
+  - Madhur K Garg
+  publisher: Cureus
+  date: '2019-01-08'
+  link: https://doi.org/gtkh66
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijrobp.2018.11.039
+  title: "A Quantitative Clinical Decision\u2013Support Strategy Identifying Which\
+    \ Patients With Oropharyngeal Head and Neck Cancer May Benefit the Most From Proton\
+    \ Radiation Therapy"
+  authors:
+  - N. Patrik Brodin
+  - Rafi Kabarriti
+  - Mark Pankuch
+  - Clyde B. Schechter
+  - Vinai Gondi
+  - Shalom Kalnicki
+  - Chandan Guha
+  - Madhur K. Garg
+  - "Wolfgang A. Tom\xE9"
+  publisher: International Journal of Radiation Oncology*Biology*Physics
+  date: '2019-07-01'
+  link: https://doi.org/ggm8bn
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12072-019-09965-0
+  title: "Association between neutrophil\u2013lymphocyte ratio, socioeconomic status,\
+    \ and ethnic minority with treatment outcome in hepatocellular carcinoma"
+  authors:
+  - Yifei Zhang
+  - N. Patrik Brodin
   - Nitin Ohri
-  - Zheng Wang
-  - Jiade Lu
+  - Santiago Thibaud
+  - Andreas Kaubisch
+  - Milan Kinkhabwala
   - Madhur Garg
   - Chandan Guha
-  - XIAODONG Wu
-  publisher: Springer Science and Business Media LLC
-  date: '2020-03-17'
-  link: https://doi.org/gtkh6r
+  - Rafi Kabarriti
+  publisher: Hepatology International
+  date: '2019-08-01'
+  link: https://doi.org/gtkh62
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.7150/thno.42243
-  title: Novel calreticulin-nanoparticle in combination with focused ultrasound induces
-    immunogenic cell death in melanoma to enhance antitumor immunity
+- id: doi:10.1053/j.gastro.2018.11.024
+  title: BHLHA15-Positive Secretory Precursor Cells Can Give Rise to Tumors in Intestine
+    and Colon in Mice
   authors:
-  - Sri Nandhini Sethuraman
-  - Mohit Pratap Singh
-  - Girish Patil
-  - Shitao Li
-  - Steven Fiering
-  - P. Jack Hoopes
+  - Yoku Hayakawa
+  - Mayo Tsuboi
+  - Samuel Asfaha
+  - Hiroto Kinoshita
+  - Ryota Niikura
+  - Mitsuru Konishi
+  - Masahiro Hata
+  - Yukiko Oya
+  - Woosook Kim
+  - Moritz Middelhoff
+  - Yohko Hikiba
+  - Naoko Higashijima
+  - Sozaburo Ihara
+  - Tetsuo Ushiku
+  - Masashi Fukayama
+  - Yagnesh Tailor
+  - Yoshihiro Hirata
   - Chandan Guha
-  - Jerry Malayer
-  - Ashish Ranjan
-  publisher: Theranostics
-  date: '2020-01-01'
-  link: https://doi.org/gqm6xv
+  - Kelley S. Yan
+  - Kazuhiko Koike
+  - Timothy C. Wang
+  publisher: Gastroenterology
+  date: '2019-03-01'
+  link: https://doi.org/gfj3k8
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1158/0008-5472.can-19-2958
+- id: doi:10.21037/jgo.2019.01.30
+  title: Centers with more therapeutic modalities are associated with improved outcomes
+    for patients with hepatocellular carcinoma
+  authors:
+  - Julie M. Jiang
+  - Nitin Ohri
+  - Justin Tang
+  - Renee Moadel
+  - Jacob Cynamon
+  - Andreas Kaubisch
+  - Milan Kinkhabwala
+  - Madhur K. Garg
+  - Chandan Guha
+  - Rafi Kabarriti
+  publisher: Journal of Gastrointestinal Oncology
+  date: '2019-06-01'
+  link: https://doi.org/gm3rfh
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.eclinm.2019.09.009
+  title: Comparing outcomes following total neoadjuvant therapy and following neoadjuvant
+    chemoradiation therapy in patients with locally advanced rectal cancer
+  authors:
+  - Shaoyu Zhu
+  - N. Patrik Brodin
+  - Keara English
+  - Nitin Ohri
+  - Jennifer W. Chuy
+  - Lakshmi N. Rajdev
+  - Rahul Narang
+  - Shalom Kalnicki
+  - Chandan Guha
+  - Madhur K. Garg
+  - Rafi Kabarriti
+  publisher: EClinicalMedicine
+  date: '2019-11-01'
+  link: https://doi.org/gtkh6x
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.CAN-19-2958
   title: 'Correction: Recent Developments and Therapeutic Strategies against Hepatocellular
     Carcinoma'
   authors:
@@ -1754,6 +2358,58 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.ijrobp.2019.07.055
+  title: 'Daily Step Counts: A New Prognostic Factor in Locally Advanced Non-Small
+    Cell Lung Cancer?'
+  authors:
+  - Nitin Ohri
+  - Balazs Halmos
+  - William R. Bodner
+  - Haiying Cheng
+  - Chandan Guha
+  - Shalom Kalnicki
+  - Madhur Garg
+  publisher: International Journal of Radiation Oncology*Biology*Physics
+  date: '2019-11-01'
+  link: https://doi.org/gkcqf7
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijrobp.2018.11.016
+  title: 'Hepatocyte Transplantation: Quo Vadis?'
+  authors:
+  - Mark Barahman
+  - Patrik Asp
+  - Namita Roy-Chowdhury
+  - Milan Kinkhabwala
+  - Jayanta Roy-Chowdhury
+  - Rafi Kabarriti
+  - Chandan Guha
+  publisher: International Journal of Radiation Oncology*Biology*Physics
+  date: '2019-03-01'
+  link: https://doi.org/gtkh69
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/0284186X.2019.1634834
+  title: Human papillomavirus, radiation dose and survival of patients with anal cancer
+  authors:
+  - Rafi Kabarriti
+  - N. Patrik Brodin
+  - Nitin Ohri
+  - Rahul Narang
+  - Renee Huang
+  - Jennifer W. Chuy
+  - Lakshmi N. Rajdev
+  - Shalom Kalnicki
+  - Chandan Guha
+  - Madhur K. Garg
+  publisher: Acta Oncologica
+  date: '2019-07-08'
+  link: https://doi.org/gtkh63
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1080/02656736.2019.1663280
   title: In-situ vaccination using focused ultrasound heating and anti-CD-40 agonistic
     antibody enhances T-cell mediated local and abscopal effects in murine melanoma
@@ -1768,6 +2424,41 @@
   publisher: International Journal of Hyperthermia
   date: '2019-11-29'
   link: https://doi.org/gtkh6t
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-019-51332-4
+  title: Low Intensity Focused Ultrasound (LOFU)-mediated Acoustic Immune Priming
+    and Ablative Radiation Therapy for in situ Tumor Vaccines
+  authors:
+  - Karin A. Skalina
+  - Saurabh Singh
+  - Claudia Gutierrez Chavez
+  - Fernando Macian
+  - Chandan Guha
+  publisher: Scientific Reports
+  date: '2019-10-29'
+  link: https://doi.org/gq9wdk
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.stemcr.2019.04.019
+  title: Nestin+NG2+ Cells Form a Reserve Stem Cell Population in the Mouse Prostate
+  authors:
+  - Maher Hanoun
+  - "Anna Arnal-Estap\xE9"
+  - Maria Maryanovich
+  - Ali H. Zahalka
+  - Sarah K. Bergren
+  - Chee W. Chua
+  - Avigdor Leftin
+  - Patrik N. Brodin
+  - Michael M. Shen
+  - Chandan Guha
+  - Paul S. Frenette
+  publisher: Stem Cell Reports
+  date: '2019-06-01'
+  link: https://doi.org/gtkh64
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1790,88 +2481,84 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1158/1078-0432.ccr-18-3518
-  title: Postablation Modulation after Single High-Dose Radiation Therapy Improves
-    Tumor Control via Enhanced Immunomodulation
+- id: doi:10.18632/oncotarget.26563
+  title: Optimal targeting of BCL-family proteins in head and neck squamous cell carcinoma
+    requires inhibition of both BCL-xL and MCL-1
+  authors:
+  - Thomas J. Ow
+  - Cory D. Fulcher
+  - Carlos Thomas
+  - "Pilib \xD3 Broin"
+  - "Andrea L\xF3pez"
+  - Denis E. Reyna
+  - Richard V. Smith
+  - Catherine Sarta
+  - Michael B. Prystowsky
+  - Nicolas F. Schlecht
+  - Bradley A. Schiff
+  - Gregory Rosenblatt
+  - Thomas J. Belbin
+  - Thomas M. Harris
+  - Geoffrey C. Childs
+  - Nicole Kawachi
+  - Chandan Guha
+  - Evripidis Gavathiotis
+  publisher: Oncotarget
+  date: '2019-01-11'
+  link: https://doi.org/gtkh65
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hed.25476
+  title: Radiation therapy for patients with newly diagnosed metastatic head and neck
+    squamous cell carcinoma
+  authors:
+  - Rafi Kabarriti
+  - Sujith Baliga
+  - Nitin Ohri
+  - Chandan Guha
+  - Shalom Kalnicki
+  - Madhur K. Garg
+  publisher: Head &amp; Neck
+  date: '2018-12-16'
+  link: https://doi.org/gtkh68
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jhep.2019.01.010
+  title: Radiation-primed hepatocyte transplantation in murine monogeneic dyslipidemia
+    normalizes cholesterol and prevents atherosclerosis
+  authors:
+  - Mark Barahman
+  - Wei Zhang
+  - Hillary Yaffe Harris
+  - Anita Aiyer
+  - Rafi Kabarriti
+  - Milan Kinkhabwala
+  - Namita Roy-Chowdhury
+  - Amanda P. Beck
+  - Thomas S. Scanlan
+  - Jayanta Roy-Chowdhury
+  - Patrik Asp
+  - Chandan Guha
+  publisher: Journal of Hepatology
+  date: '2019-06-01'
+  link: https://doi.org/gtkh67
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-16924-4_2
+  title: Radio-Immunology of Ablative Radiation
   authors:
   - Talicia Savage
-  - Sanjay Pandey
   - Chandan Guha
-  publisher: Clinical Cancer Research
-  date: '2020-02-14'
-  link: https://doi.org/gtkh6w
+  publisher: Stereotactic Radiosurgery and Stereotactic Body Radiation Therapy
+  date: '2019-01-01'
+  link: https://doi.org/ggc8r9
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.ijrobp.2019.10.028
-  title: 'Circulating microRNAs as Biomarkers of Radiation Exposure: A Systematic
-    Review and Meta-Analysis'
-  authors:
-  - "Beata Ma\u0142achowska"
-  - "Bart\u0142omiej Tomasik"
-  - Konrad Stawiski
-  - Shilpa Kulkarni
-  - Chandan Guha
-  - Dipanjan Chowdhury
-  - Wojciech Fendler
-  publisher: International Journal of Radiation Oncology*Biology*Physics
-  date: '2020-02-01'
-  link: https://doi.org/grh32x
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.eclinm.2019.09.009
-  title: Comparing outcomes following total neoadjuvant therapy and following neoadjuvant
-    chemoradiation therapy in patients with locally advanced rectal cancer
-  authors:
-  - Shaoyu Zhu
-  - N. Patrik Brodin
-  - Keara English
-  - Nitin Ohri
-  - Jennifer W. Chuy
-  - Lakshmi N. Rajdev
-  - Rahul Narang
-  - Shalom Kalnicki
-  - Chandan Guha
-  - Madhur K. Garg
-  - Rafi Kabarriti
-  publisher: EClinicalMedicine
-  date: '2019-11-01'
-  link: https://doi.org/gtkh6x
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/s41598-019-51332-4
-  title: Low Intensity Focused Ultrasound (LOFU)-mediated Acoustic Immune Priming
-    and Ablative Radiation Therapy for in situ Tumor Vaccines
-  authors:
-  - Karin A. Skalina
-  - Saurabh Singh
-  - Claudia Gutierrez Chavez
-  - Fernando Macian
-  - Chandan Guha
-  publisher: Scientific Reports
-  date: '2019-10-29'
-  link: https://doi.org/gq9wdk
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1152/ajpgi.00346.2018
-  title: Use of organoids to study regenerative responses to intestinal damage
-  authors:
-  - Sarah E. Blutt
-  - Ophir D. Klein
-  - Mark Donowitz
-  - Noah Shroyer
-  - Chandan Guha
-  - Mary K. Estes
-  publisher: American Journal of Physiology-Gastrointestinal and Liver Physiology
-  date: '2019-12-01'
-  link: https://doi.org/gtkh6z
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1158/0008-5472.can-19-0803
+- id: doi:10.1158/0008-5472.CAN-19-0803
   title: Recent Developments and Therapeutic Strategies against Hepatocellular Carcinoma
   authors:
   - Mark Yarchoan
@@ -1915,313 +2602,6 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/s12072-019-09965-0
-  title: "Association between neutrophil\u2013lymphocyte ratio, socioeconomic status,\
-    \ and ethnic minority with treatment outcome in hepatocellular carcinoma"
-  authors:
-  - Yifei Zhang
-  - N. Patrik Brodin
-  - Nitin Ohri
-  - Santiago Thibaud
-  - Andreas Kaubisch
-  - Milan Kinkhabwala
-  - Madhur Garg
-  - Chandan Guha
-  - Rafi Kabarriti
-  publisher: Hepatology International
-  date: '2019-08-01'
-  link: https://doi.org/gtkh62
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.ijrobp.2019.07.055
-  title: 'Daily Step Counts: A New Prognostic Factor in Locally Advanced Non-Small
-    Cell Lung Cancer?'
-  authors:
-  - Nitin Ohri
-  - Balazs Halmos
-  - William R. Bodner
-  - Haiying Cheng
-  - Chandan Guha
-  - Shalom Kalnicki
-  - Madhur Garg
-  publisher: International Journal of Radiation Oncology*Biology*Physics
-  date: '2019-11-01'
-  link: https://doi.org/gkcqf7
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1080/0284186x.2019.1634834
-  title: Human papillomavirus, radiation dose and survival of patients with anal cancer
-  authors:
-  - Rafi Kabarriti
-  - N. Patrik Brodin
-  - Nitin Ohri
-  - Rahul Narang
-  - Renee Huang
-  - Jennifer W. Chuy
-  - Lakshmi N. Rajdev
-  - Shalom Kalnicki
-  - Chandan Guha
-  - Madhur K. Garg
-  publisher: Acta Oncologica
-  date: '2019-07-08'
-  link: https://doi.org/gtkh63
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.21037/jgo.2019.01.30
-  title: Centers with more therapeutic modalities are associated with improved outcomes
-    for patients with hepatocellular carcinoma
-  authors:
-  - Julie M. Jiang
-  - Nitin Ohri
-  - Justin Tang
-  - Renee Moadel
-  - Jacob Cynamon
-  - Andreas Kaubisch
-  - Milan Kinkhabwala
-  - Madhur K. Garg
-  - Chandan Guha
-  - Rafi Kabarriti
-  publisher: Journal of Gastrointestinal Oncology
-  date: '2019-06-01'
-  link: https://doi.org/gm3rfh
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.stemcr.2019.04.019
-  title: Nestin+NG2+ Cells Form a Reserve Stem Cell Population in the Mouse Prostate
-  authors:
-  - Maher Hanoun
-  - "Anna Arnal-Estap\xE9"
-  - Maria Maryanovich
-  - Ali H. Zahalka
-  - Sarah K. Bergren
-  - Chee W. Chua
-  - Avigdor Leftin
-  - Patrik N. Brodin
-  - Michael M. Shen
-  - Chandan Guha
-  - Paul S. Frenette
-  publisher: Stem Cell Reports
-  date: '2019-06-01'
-  link: https://doi.org/gtkh64
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.ijrobp.2019.02.046
-  title: 'Immunomodulatory Effects of Stereotactic Body Radiation Therapy: Preclinical
-    Insights and Clinical Opportunities'
-  authors:
-  - Ariel E. Marciscano
-  - Adriana Haimovitz-Friedman
-  - Percy Lee
-  - Phuoc T. Tran
-  - "Wolfgang A. Tom\xE9"
-  - Chandan Guha
-  - Feng-Ming (Spring) Kong
-  - Arjun Sahgal
-  - Issam El Naqa
-  - Andreas Rimner
-  - Lawrence B. Marks
-  - Silvia C. Formenti
-  - Theodore L. DeWeese
-  publisher: International Journal of Radiation Oncology*Biology*Physics
-  date: '2021-05-01'
-  link: https://doi.org/gfw59t
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.18632/oncotarget.26563
-  title: Optimal targeting of BCL-family proteins in head and neck squamous cell carcinoma
-    requires inhibition of both BCL-xL and MCL-1
-  authors:
-  - Thomas J. Ow
-  - Cory D. Fulcher
-  - Carlos Thomas
-  - "Pilib \xD3 Broin"
-  - "Andrea L\xF3pez"
-  - Denis E. Reyna
-  - Richard V. Smith
-  - Catherine Sarta
-  - Michael B. Prystowsky
-  - Nicolas F. Schlecht
-  - Bradley A. Schiff
-  - Gregory Rosenblatt
-  - Thomas J. Belbin
-  - Thomas M. Harris
-  - Geoffrey C. Childs
-  - Nicole Kawachi
-  - Chandan Guha
-  - Evripidis Gavathiotis
-  publisher: Oncotarget
-  date: '2019-01-11'
-  link: https://doi.org/gtkh65
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.7759/cureus.3856
-  title: Origin of Locoregional Recurrences After Definitive Intensity-modulated Radiation
-    Therapy (IMRT) for Laryngeal Cancer Determined Based on Follow-up PET/CT Imaging
-  authors:
-  - Rafi Kabarriti
-  - N. Patrik Brodin
-  - Sadia Ahmed
-  - Ivan Vogelius
-  - Chandan Guha
-  - Shalom Kalnicki
-  - "Wolfgang A Tom\xE9"
-  - Madhur K Garg
-  publisher: Cureus
-  date: '2019-01-08'
-  link: https://doi.org/gtkh66
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.jhep.2019.01.010
-  title: Radiation-primed hepatocyte transplantation in murine monogeneic dyslipidemia
-    normalizes cholesterol and prevents atherosclerosis
-  authors:
-  - Mark Barahman
-  - Wei Zhang
-  - Hillary Yaffe Harris
-  - Anita Aiyer
-  - Rafi Kabarriti
-  - Milan Kinkhabwala
-  - Namita Roy-Chowdhury
-  - Amanda P. Beck
-  - Thomas S. Scanlan
-  - Jayanta Roy-Chowdhury
-  - Patrik Asp
-  - Chandan Guha
-  publisher: Journal of Hepatology
-  date: '2019-06-01'
-  link: https://doi.org/gtkh67
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1002/hed.25476
-  title: Radiation therapy for patients with newly diagnosed metastatic head and neck
-    squamous cell carcinoma
-  authors:
-  - Rafi Kabarriti
-  - Sujith Baliga
-  - Nitin Ohri
-  - Chandan Guha
-  - Shalom Kalnicki
-  - Madhur K. Garg
-  publisher: Head &amp; Neck
-  date: '2018-12-16'
-  link: https://doi.org/gtkh68
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.ijrobp.2018.11.039
-  title: "A Quantitative Clinical Decision\u2013Support Strategy Identifying Which\
-    \ Patients With Oropharyngeal Head and Neck Cancer May Benefit the Most From Proton\
-    \ Radiation Therapy"
-  authors:
-  - N. Patrik Brodin
-  - Rafi Kabarriti
-  - Mark Pankuch
-  - Clyde B. Schechter
-  - Vinai Gondi
-  - Shalom Kalnicki
-  - Chandan Guha
-  - Madhur K. Garg
-  - "Wolfgang A. Tom\xE9"
-  publisher: International Journal of Radiation Oncology*Biology*Physics
-  date: '2019-07-01'
-  link: https://doi.org/ggm8bn
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1053/j.gastro.2018.11.024
-  title: BHLHA15-Positive Secretory Precursor Cells Can Give Rise to Tumors in Intestine
-    and Colon in Mice
-  authors:
-  - Yoku Hayakawa
-  - Mayo Tsuboi
-  - Samuel Asfaha
-  - Hiroto Kinoshita
-  - Ryota Niikura
-  - Mitsuru Konishi
-  - Masahiro Hata
-  - Yukiko Oya
-  - Woosook Kim
-  - Moritz Middelhoff
-  - Yohko Hikiba
-  - Naoko Higashijima
-  - Sozaburo Ihara
-  - Tetsuo Ushiku
-  - Masashi Fukayama
-  - Yagnesh Tailor
-  - Yoshihiro Hirata
-  - Chandan Guha
-  - Kelley S. Yan
-  - Kazuhiko Koike
-  - Timothy C. Wang
-  publisher: Gastroenterology
-  date: '2019-03-01'
-  link: https://doi.org/gfj3k8
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.ijrobp.2018.11.016
-  title: 'Hepatocyte Transplantation: Quo Vadis?'
-  authors:
-  - Mark Barahman
-  - Patrik Asp
-  - Namita Roy-Chowdhury
-  - Milan Kinkhabwala
-  - Jayanta Roy-Chowdhury
-  - Rafi Kabarriti
-  - Chandan Guha
-  publisher: International Journal of Radiation Oncology*Biology*Physics
-  date: '2019-03-01'
-  link: https://doi.org/gtkh69
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1155/2018/5681979
-  title: Model for End-Stage Liver Disease and Sodium Velocity Predicts Overall Survival
-    in Nonmetastatic Hepatocellular Carcinoma Patients
-  authors:
-  - Justin Y. Tang
-  - Nitin Ohri
-  - Rafi Kabarriti
-  - Santiago Aparo
-  - Jennifer Chuy
-  - Sanjay Goel
-  - Jonathan M. Schwartz
-  - Milan Kinkhabwala
-  - Andreas Kaubisch
-  - Chandan Guha
-  publisher: Canadian Journal of Gastroenterology and Hepatology
-  date: '2018-11-07'
-  link: https://doi.org/gtkh7b
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.oraloncology.2018.06.009
-  title: Utilization of Transoral Robotic Surgery (TORS) in patients with Oropharyngeal
-    Squamous Cell Carcinoma and its impact on survival and use of chemotherapy
-  authors:
-  - Sujith Baliga
-  - Rafi Kabarriti
-  - Julie Jiang
-  - Vikas Mehta
-  - Chandan Guha
-  - Shalom Kalnicki
-  - Richard V. Smith
-  - Madhur K. Garg
-  publisher: Oral Oncology
-  date: '2018-11-01'
-  link: https://doi.org/gfnp4w
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1038/s41417-018-0036-z
   title: Therapeutic potential of adenovirus-mediated TFF2-CTP-Flag peptide for treatment
     of colorectal cancer
@@ -2242,17 +2622,18 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1200/jco.2018.78.0122
-  title: 'Radiofrequency Ablation Versus Stereotactic Body Radiotherapy for Hepatocellular
-    Carcinoma: Caution When Interpreting Observational Data'
+- id: doi:10.1152/AJPGI.00346.2018
+  title: Use of organoids to study regenerative responses to intestinal damage
   authors:
-  - Nitin Ohri
-  - Rafi Kabarriti
-  - Andreas Kaubisch
+  - Sarah E. Blutt
+  - Ophir D. Klein
+  - Mark Donowitz
+  - Noah Shroyer
   - Chandan Guha
-  publisher: Journal of Clinical Oncology
-  date: '2018-08-20'
-  link: https://doi.org/gtkh7d
+  - Mary K. Estes
+  publisher: American Journal of Physiology-Gastrointestinal and Liver Physiology
+  date: '2019-12-01'
+  link: https://doi.org/gtkh6z
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2281,6 +2662,40 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1155/2018/5681979
+  title: Model for End-Stage Liver Disease and Sodium Velocity Predicts Overall Survival
+    in Nonmetastatic Hepatocellular Carcinoma Patients
+  authors:
+  - Justin Y. Tang
+  - Nitin Ohri
+  - Rafi Kabarriti
+  - Santiago Aparo
+  - Jennifer Chuy
+  - Sanjay Goel
+  - Jonathan M. Schwartz
+  - Milan Kinkhabwala
+  - Andreas Kaubisch
+  - Chandan Guha
+  publisher: Canadian Journal of Gastroenterology and Hepatology
+  date: '2018-11-07'
+  link: https://doi.org/gtkh7b
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1200/JCO.2018.78.0122
+  title: 'Radiofrequency Ablation Versus Stereotactic Body Radiotherapy for Hepatocellular
+    Carcinoma: Caution When Interpreting Observational Data'
+  authors:
+  - Nitin Ohri
+  - Rafi Kabarriti
+  - Andreas Kaubisch
+  - Chandan Guha
+  publisher: Journal of Clinical Oncology
+  date: '2018-08-20'
+  link: https://doi.org/gtkh7d
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.ijrobp.2017.09.041
   title: Systematic Review of Normal Tissue Complication Models Relevant to Standard
     Fractionation Radiation Therapy of the Head and Neck Region Published After the
@@ -2297,57 +2712,21 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.18632/oncotarget.16886
-  title: MUC2 mucin deficiency alters inflammatory and metabolic pathways in the mouse
-    intestinal mucosa
+- id: doi:10.1016/j.oraloncology.2018.06.009
+  title: Utilization of Transoral Robotic Surgery (TORS) in patients with Oropharyngeal
+    Squamous Cell Carcinoma and its impact on survival and use of chemotherapy
   authors:
-  - Selamawit Tadesse
-  - Georgia Corner
-  - Elena Dhima
-  - Michele Houston
+  - Sujith Baliga
+  - Rafi Kabarriti
+  - Julie Jiang
+  - Vikas Mehta
   - Chandan Guha
-  - Leonard Augenlicht
-  - Anna Velcich
-  publisher: Oncotarget
-  date: '2017-04-06'
-  link: https://doi.org/f94j8g
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1126/scitranslmed.aal2408
-  title: Evolutionarily conserved serum microRNAs predict radiation-induced fatality
-    in nonhuman primates
-  authors:
-  - Wojciech Fendler
-  - Beata Malachowska
-  - Khyati Meghani
-  - Panagiotis A. Konstantinopoulos
-  - Chandan Guha
-  - Vijay K. Singh
-  - Dipanjan Chowdhury
-  publisher: Science Translational Medicine
-  date: '2017-03-01'
-  link: https://doi.org/f9tdzr
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.ebiom.2017.02.004
-  title: 'Structure-guided development of a high-affinity human Programmed Cell Death-1:
-    Implications for tumor immunotherapy'
-  authors:
-  - "Eszter L\xE1z\xE1r-Moln\xE1r"
-  - Lisa Scandiuzzi
-  - Indranil Basu
-  - Thomas Quinn
-  - Eliezer Sylvestre
-  - Edith Palmieri
-  - Udupi A. Ramagopal
-  - Stanley G. Nathenson
-  - Chandan Guha
-  - Steven C. Almo
-  publisher: EBioMedicine
-  date: '2017-03-01'
-  link: https://doi.org/gtkh7f
+  - Shalom Kalnicki
+  - Richard V. Smith
+  - Madhur K. Garg
+  publisher: Oral Oncology
+  date: '2018-11-01'
+  link: https://doi.org/gfnp4w
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2363,22 +2742,6 @@
   publisher: Dose-Response
   date: '2017-01-04'
   link: https://doi.org/gcdwm8
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/978-1-4939-6506-9_9
-  title: "Gunn Rats as a Surrogate Model for Evaluation of Hepatocyte Transplantation-Based\
-    \ Therapies of Crigler\u2013Najjar Syndrome Type 1"
-  authors:
-  - Zsuzsanna Polgar
-  - Yanfeng Li
-  - Xia Li Wang
-  - Chandan Guha
-  - Namita Roy-Chowdhury
-  - Jayanta Roy-Chowdhury
-  publisher: Methods in Molecular Biology
-  date: '2016-11-10'
-  link: https://doi.org/gtkh7g
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2399,6 +2762,52 @@
   publisher: International Journal of Radiation Oncology*Biology*Physics
   date: '2017-04-01'
   link: https://doi.org/f98cbh
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/scitranslmed.aal2408
+  title: Evolutionarily conserved serum microRNAs predict radiation-induced fatality
+    in nonhuman primates
+  authors:
+  - Wojciech Fendler
+  - Beata Malachowska
+  - Khyati Meghani
+  - Panagiotis A. Konstantinopoulos
+  - Chandan Guha
+  - Vijay K. Singh
+  - Dipanjan Chowdhury
+  publisher: Science Translational Medicine
+  date: '2017-03-01'
+  link: https://doi.org/f9tdzr
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-1-4939-6506-9_9
+  title: "Gunn Rats as a Surrogate Model for Evaluation of Hepatocyte Transplantation-Based\
+    \ Therapies of Crigler\u2013Najjar Syndrome Type 1"
+  authors:
+  - Zsuzsanna Polgar
+  - Yanfeng Li
+  - Xia Li Wang
+  - Chandan Guha
+  - Namita Roy-Chowdhury
+  - Jayanta Roy-Chowdhury
+  publisher: Methods in Molecular Biology
+  date: '2016-11-10'
+  link: https://doi.org/gtkh7g
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12072-016-9757-y
+  title: Hepatocyte-like cells derived from induced pluripotent stem cells
+  authors:
+  - Namita Roy-Chowdhury
+  - Xia Wang
+  - Chandan Guha
+  - Jayanta Roy-Chowdhury
+  publisher: Hepatology International
+  date: '2016-08-17'
+  link: https://doi.org/gtkh7j
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2447,26 +2856,58 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1097/mpa.0000000000000710
-  title: Precision Medicine and Pancreatic Cancer
+- id: doi:10.18632/oncotarget.16886
+  title: MUC2 mucin deficiency alters inflammatory and metabolic pathways in the mouse
+    intestinal mucosa
   authors:
-  - James J. Farrell
-  - Jennifer Moughan
-  - Jonathan L. Wong
-  - William F. Regine
-  - Paul Schaefer
-  - Al B. Benson
-  - John S. Macdonald
-  - Xiyong Liu
-  - Yun Yen
-  - Raymond Lai
-  - Zhong Zheng
-  - Gerold Bepler
+  - Selamawit Tadesse
+  - Georgia Corner
+  - Elena Dhima
+  - Michele Houston
   - Chandan Guha
-  - Hany Elsaleh
-  publisher: Pancreas
-  date: '2016-11-01'
-  link: https://doi.org/f89kks
+  - Leonard Augenlicht
+  - Anna Velcich
+  publisher: Oncotarget
+  date: '2017-04-06'
+  link: https://doi.org/f94j8g
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/cgt.2016.70
+  title: Preclinical evaluation of radiation and systemic, RGD-targeted, adeno-associated
+    virus phage-TNF gene therapy in a mouse model of spontaneously metastatic melanoma
+  authors:
+  - T J Quinn
+  - N Healy
+  - A Sara
+  - E Maggi
+  - C S Claros
+  - R Kabarriti
+  - L Scandiuzzi
+  - L Liu
+  - J Gorecka
+  - A Adem
+  - I Basu
+  - Z Yuan
+  - C Guha
+  publisher: Cancer Gene Therapy
+  date: '2016-12-09'
+  link: https://doi.org/f9f882
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1742-6596/777/1/012025
+  title: SBRT for recurrent head and neck cancer
+  authors:
+  - M Garg
+  - R Kabarriti
+  - S Baliga
+  - C Guha
+  - W Tome
+  - S Kalnicki
+  publisher: 'Journal of Physics: Conference Series'
+  date: '2017-01-01'
+  link: https://doi.org/g69txn
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -2500,299 +2941,34 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/ncomms13096
-  title: Macrophage-derived extracellular vesicle-packaged WNTs rescue intestinal
-    stem cells and enhance survival after radiation injury
+- id: doi:10.1016/j.ebiom.2017.02.004
+  title: 'Structure-guided development of a high-affinity human Programmed Cell Death-1:
+    Implications for tumor immunotherapy'
   authors:
-  - Subhrajit Saha
-  - Evelyn Aranda
-  - Yoku Hayakawa
-  - Payel Bhanja
-  - Safinur Atay
-  - N Patrik Brodin
-  - Jiufeng Li
-  - Samuel Asfaha
-  - Laibin Liu
-  - Yagnesh Tailor
-  - Jinghang Zhang
-  - Andrew K. Godwin
-  - Wolfgang A. Tome
-  - Timothy C. Wang
-  - Chandan Guha
-  - Jeffrey W. Pollard
-  publisher: Nature Communications
-  date: '2016-10-13'
-  link: https://doi.org/f87sx5
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/s40139-016-0114-6
-  title: Stromal Progenitor Cells in Mitigation of Non-hematopoietic Radiation Injuries
-  authors:
-  - Shilpa Kulkarni
-  - Timothy C. Wang
-  - Chandan Guha
-  publisher: Current Pathobiology Reports
-  date: '2016-09-07'
-  link: https://doi.org/gtkh7h
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/s12072-016-9757-y
-  title: Hepatocyte-like cells derived from induced pluripotent stem cells
-  authors:
-  - Namita Roy-Chowdhury
-  - Xia Wang
-  - Chandan Guha
-  - Jayanta Roy-Chowdhury
-  publisher: Hepatology International
-  date: '2016-08-17'
-  link: https://doi.org/gtkh7j
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/jnci/djw133
-  title: 'Radiotherapy for Hepatocellular Carcinoma: New Indications and Directions
-    for Future Study'
-  authors:
-  - Nitin Ohri
-  - Laura A. Dawson
-  - Sunil Krishnan
-  - Jinsil Seong
-  - Jason C. Cheng
-  - Shiv K. Sarin
-  - Milan Kinkhabwala
-  - Mansoor M. Ahmed
-  - Bhadrasain Vikram
-  - C. Norman Coleman
-  - Chandan Guha
-  publisher: Journal of the National Cancer Institute
-  date: '2016-07-04'
-  link: https://doi.org/gtkh7k
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.3727/096368916x692014
-  title: Human Urinary Epithelial Cells as a Source of Engraftable Hepatocyte-Like
-    Cells Using Stem Cell Technology
-  authors:
-  - Vanessa Sauer
-  - Tatyana Tchaikovskaya
-  - Xia Wang
-  - Yanfeng Li
-  - Wei Zhang
-  - Krisztina Tar
-  - Zsuzsanna Polgar
-  - Jianqiang Ding
-  - Chandan Guha
-  - Ira J. Fox
-  - Namita Roy-Chowdhury
-  - Jayanta Roy-Chowdhury
-  publisher: Cell Transplantation
-  date: '2016-12-01'
-  link: https://doi.org/f9gmkr
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.ijrobp.2016.06.008
-  title: Identifying Urinary and Serum Exosome Biomarkers for Radiation Exposure Using
-    a Data Dependent Acquisition and SWATH-MS Combined Workflow
-  authors:
-  - Shilpa Kulkarni
-  - Antonius Koller
-  - Kartik M. Mani
-  - Ruofeng Wen
-  - Alan Alfieri
-  - Subhrajit Saha
-  - Jian Wang
-  - Purvi Patel
-  - Nuno Bandeira
-  - Chandan Guha
-  - Emily I. Chen
-  publisher: International Journal of Radiation Oncology*Biology*Physics
-  date: '2016-11-01'
-  link: https://doi.org/f87r7v
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1158/0008-5472.can-15-3062
-  title: 'Pexmetinib: A Novel Dual Inhibitor of Tie2 and p38 MAPK with Efficacy in
-    Preclinical Models of Myelodysplastic Syndromes and Acute Myeloid Leukemia'
-  authors:
-  - Lohith Bachegowda
-  - Kerry Morrone
-  - Shannon L. Winski
-  - Ioannis Mantzaris
-  - Matthias Bartenstein
-  - Nandini Ramachandra
-  - Orsi Giricz
-  - Vineeth Sukrithan
-  - George Nwankwo
-  - Samira Shahnaz
-  - Tushar D. Bhagat
-  - Sanchari Bhattacharyya
-  - Amer Assal
-  - Aditi Shastri
-  - Shanisha Gordon-Mitchell
-  - Andrea Pellagatti
-  - Jacqueline Boultwood
-  - Carolina Schinke
-  - Yiting Yu
-  - Chandan Guha
-  - James Rizzi
-  - Jennifer Garrus
-  - Suzy Brown
-  - Lance Wollenberg
-  - Grant Hogeland
-  - Dale Wright
-  - Mark Munson
-  - Mareli Rodriguez
-  - Stefan Gross
-  - David Chantry
-  - Yiyu Zou
-  - Leonidas C. Platanias
-  - Laurence E. Burgess
-  - Kith Pradhan
-  - Ulrich Steidl
-  - Amit Verma
-  publisher: Cancer Research
-  date: '2016-08-14'
-  link: https://doi.org/f822j3
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.semradonc.2016.06.004
-  title: Targeted Therapy for Hepatocellular Carcinoma
-  authors:
-  - Nitin Ohri
-  - Andreas Kaubisch
-  - Madhur Garg
-  - Chandan Guha
-  publisher: Seminars in Radiation Oncology
-  date: '2016-10-01'
-  link: https://doi.org/f84q96
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.cell.2016.03.045
-  title: A Small Molecule RAS-Mimetic Disrupts RAS Association with Effector Proteins
-    to Block Signaling
-  authors:
-  - "Sai\_Krishna Athuluri-Divakar"
-  - "Rodrigo Vasquez-Del\_Carpio"
-  - Kaushik Dutta
-  - "Stacey\_J. Baker"
-  - "Stephen\_C. Cosenza"
+  - "Eszter L\xE1z\xE1r-Moln\xE1r"
+  - Lisa Scandiuzzi
   - Indranil Basu
-  - "Yogesh\_K. Gupta"
-  - "M.V.\_Ramana Reddy"
-  - Lynn Ueno
-  - "Jonathan\_R. Hart"
-  - "Peter\_K. Vogt"
-  - David Mulholland
+  - Thomas Quinn
+  - Eliezer Sylvestre
+  - Edith Palmieri
+  - Udupi A. Ramagopal
+  - Stanley G. Nathenson
   - Chandan Guha
-  - "Aneel\_K. Aggarwal"
-  - "E.\_Premkumar Reddy"
-  publisher: Cell
-  date: '2016-04-01'
-  link: https://doi.org/f8j8p4
+  - Steven C. Almo
+  publisher: EBioMedicine
+  date: '2017-03-01'
+  link: https://doi.org/gtkh7f
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1118/1.4941361
-  title: "A simple method for determining the coagulation threshold temperature of\
-    \ transparent tissue\u2010mimicking thermal therapy gel phantoms: Validated by\
-    \ magnetic resonance imaging thermometry"
+- id: doi:10.1002/9781118868126.ch3
+  title: The Immunobiology of Tumor Ablation
   authors:
-  - N. Patrik Brodin
-  - Ari Partanen
-  - Patrik Asp
-  - Craig A. Branch
+  - Rafi Kabarriti
   - Chandan Guha
-  - "Wolfgang A. Tom\xE9"
-  publisher: Medical Physics
-  date: '2016-02-08'
-  link: https://doi.org/f8h3vj
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1097/hp.0000000000000462
-  title: Dosimetry Formalism and Implementation of a Homogenous Irradiation Protocol
-    to Improve the Accuracy of Small Animal Whole-Body Irradiation Using a 137Cs Irradiator
-  authors:
-  - N. Patrik Brodin
-  - Yong Chen
-  - Ravindra Yaparpalvi
-  - Chandan Guha
-  - "Wolfgang A. Tom\xE9"
-  publisher: Health Physics
-  date: '2016-02-01'
-  link: https://doi.org/gtkh7m
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1089/pho.2015.4030
-  title: <i>In Vitro</i> Photoirradiation System for Simultaneous Irradiation with
-    Different Light Doses at a Fixed Temperature
-  authors:
-  - "Luis F. Hern\xE1ndez Quintanar"
-  - "Fulgencio Y. L\xF3pez Silva"
-  - Diego A. Fabila Bustos
-  - Joel Serrano Navarro
-  - "Jos\xE9 M. de La Rosa V\xE1zquez"
-  - Patrik N. Brodin
-  - Chandan Guha
-  - "Wolfgang A. Tom\xE9"
-  - Suren Stolik Isakina
-  publisher: Photomedicine and Laser Surgery
-  date: '2016-03-01'
-  link: https://doi.org/f8d4bn
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/s00405-016-3926-4
-  title: Management algorithm for HIV-associated parotid lymphoepithelial cysts
-  authors:
-  - Waleed F. Mourad
-  - Shyamal Patel
-  - Rebekah Young
-  - Azita S. Khorsandi
-  - Catherine Concert
-  - Rania A. Shourbaji
-  - Katherine Ciarrocca
-  - Richard L. Bakst
-  - Daniel Shasha
-  - Chandan Guha
-  - Madhur K. Garg
-  - Kenneth S. Hu
-  - Shalom Kalnicki
-  - Louis B. Harrison
-  publisher: European Archives of Oto-Rhino-Laryngology
-  date: '2016-02-16'
-  link: https://doi.org/f85brq
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.ijrobp.2016.02.022
-  title: "Tumor Cells Surviving Exposure to Proton or Photon Radiation Share a Common\
-    \ Immunogenic Modulation Signature, Rendering Them More Sensitive to T Cell\u2013\
-    Mediated Killing"
-  authors:
-  - Sofia R. Gameiro
-  - Anthony S. Malamas
-  - Michael B. Bernstein
-  - Kwong Y. Tsang
-  - April Vassantachart
-  - Narayan Sahoo
-  - Ramesh Tailor
-  - Rajesh Pidikiti
-  - Chandan P. Guha
-  - Stephen M. Hahn
-  - Sunil Krishnan
-  - James W. Hodge
-  publisher: International Journal of Radiation Oncology*Biology*Physics
-  date: '2016-05-01'
-  link: https://doi.org/gm445m
+  publisher: Management of Urologic Cancer
+  date: '2017-06-09'
+  link: https://doi.org/g9zzk5
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -3826,6 +4002,64 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.cell.2016.03.045
+  title: A Small Molecule RAS-Mimetic Disrupts RAS Association with Effector Proteins
+    to Block Signaling
+  authors:
+  - "Sai\_Krishna Athuluri-Divakar"
+  - "Rodrigo Vasquez-Del\_Carpio"
+  - Kaushik Dutta
+  - "Stacey\_J. Baker"
+  - "Stephen\_C. Cosenza"
+  - Indranil Basu
+  - "Yogesh\_K. Gupta"
+  - "M.V.\_Ramana Reddy"
+  - Lynn Ueno
+  - "Jonathan\_R. Hart"
+  - "Peter\_K. Vogt"
+  - David Mulholland
+  - Chandan Guha
+  - "Aneel\_K. Aggarwal"
+  - "E.\_Premkumar Reddy"
+  publisher: Cell
+  date: '2016-04-01'
+  link: https://doi.org/f8j8p4
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1118/1.4941361
+  title: "A simple method for determining the coagulation threshold temperature of\
+    \ transparent tissue\u2010mimicking thermal therapy gel phantoms: Validated by\
+    \ magnetic resonance imaging thermometry"
+  authors:
+  - N. Patrik Brodin
+  - Ari Partanen
+  - Patrik Asp
+  - Craig A. Branch
+  - Chandan Guha
+  - "Wolfgang A. Tom\xE9"
+  publisher: Medical Physics
+  date: '2016-02-08'
+  link: https://doi.org/f8h3vj
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/mas.21439
+  title: "Advanced mass spectrometry\u2010based multi\u2010omics technologies for\
+    \ exploring the pathogenesis of hepatocellular carcinoma"
+  authors:
+  - Wenna Nie
+  - Leyu Yan
+  - Yie H. Lee
+  - Chandan Guha
+  - Irwin J. Kurland
+  - Haitao Lu
+  publisher: Mass Spectrometry Reviews
+  date: '2014-06-02'
+  link: https://doi.org/f8gxqd
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.brachy.2015.11.004
   title: Do changes in interfraction organ at risk volume and cylinder insertion geometry
     impact delivered dose in high-dose-rate vaginal cuff brachytherapy?
@@ -3842,6 +4076,100 @@
   publisher: Brachytherapy
   date: '2016-03-01'
   link: https://doi.org/gtkh7n
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/hp.0000000000000462
+  title: Dosimetry Formalism and Implementation of a Homogenous Irradiation Protocol
+    to Improve the Accuracy of Small Animal Whole-Body Irradiation Using a 137Cs Irradiator
+  authors:
+  - N. Patrik Brodin
+  - Yong Chen
+  - Ravindra Yaparpalvi
+  - Chandan Guha
+  - "Wolfgang A. Tom\xE9"
+  publisher: Health Physics
+  date: '2016-02-01'
+  link: https://doi.org/gtkh7m
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1259/bjr.20150762
+  title: 'Hippocampal-dependent neurocognitive impairment following cranial irradiation
+    observed in pre-clinical models: current knowledge and possible future directions'
+  authors:
+  - "Wolfgang A Tom\xE9"
+  - "\u015E\xF6len G\xF6khan"
+  - Maria E Gulinello
+  - N Patrik Brodin
+  - John Heard
+  - Mark F Mehler
+  - Chandan Guha
+  publisher: The British Journal of Radiology
+  date: '2016-01-01'
+  link: https://doi.org/gtkh7p
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3727/096368916X692014
+  title: Human Urinary Epithelial Cells as a Source of Engraftable Hepatocyte-Like
+    Cells Using Stem Cell Technology
+  authors:
+  - Vanessa Sauer
+  - Tatyana Tchaikovskaya
+  - Xia Wang
+  - Yanfeng Li
+  - Wei Zhang
+  - Krisztina Tar
+  - Zsuzsanna Polgar
+  - Jianqiang Ding
+  - Chandan Guha
+  - Ira J. Fox
+  - Namita Roy-Chowdhury
+  - Jayanta Roy-Chowdhury
+  publisher: Cell Transplantation
+  date: '2016-12-01'
+  link: https://doi.org/f9gmkr
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijrobp.2016.06.008
+  title: Identifying Urinary and Serum Exosome Biomarkers for Radiation Exposure Using
+    a Data Dependent Acquisition and SWATH-MS Combined Workflow
+  authors:
+  - Shilpa Kulkarni
+  - Antonius Koller
+  - Kartik M. Mani
+  - Ruofeng Wen
+  - Alan Alfieri
+  - Subhrajit Saha
+  - Jian Wang
+  - Purvi Patel
+  - Nuno Bandeira
+  - Chandan Guha
+  - Emily I. Chen
+  publisher: International Journal of Radiation Oncology*Biology*Physics
+  date: '2016-11-01'
+  link: https://doi.org/f87r7v
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1089/pho.2015.4030
+  title: <i>In Vitro</i> Photoirradiation System for Simultaneous Irradiation with
+    Different Light Doses at a Fixed Temperature
+  authors:
+  - "Luis F. Hern\xE1ndez Quintanar"
+  - "Fulgencio Y. L\xF3pez Silva"
+  - Diego A. Fabila Bustos
+  - Joel Serrano Navarro
+  - "Jos\xE9 M. de La Rosa V\xE1zquez"
+  - Patrik N. Brodin
+  - Chandan Guha
+  - "Wolfgang A. Tom\xE9"
+  - Suren Stolik Isakina
+  publisher: Photomedicine and Laser Surgery
+  date: '2016-03-01'
+  link: https://doi.org/f8d4bn
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -3863,31 +4191,121 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.ijrobp.2016.01.043
-  title: Radiation Therapy Noncompliance and Clinical Outcomes in an Urban Academic
-    Cancer Center
+- id: doi:10.1038/ncomms13096
+  title: Macrophage-derived extracellular vesicle-packaged WNTs rescue intestinal
+    stem cells and enhance survival after radiation injury
   authors:
-  - Nitin Ohri
-  - Bruce D. Rapkin
+  - Subhrajit Saha
+  - Evelyn Aranda
+  - Yoku Hayakawa
+  - Payel Bhanja
+  - Safinur Atay
+  - N Patrik Brodin
+  - Jiufeng Li
+  - Samuel Asfaha
+  - Laibin Liu
+  - Yagnesh Tailor
+  - Jinghang Zhang
+  - Andrew K. Godwin
+  - Wolfgang A. Tome
+  - Timothy C. Wang
   - Chandan Guha
-  - Shalom Kalnicki
-  - Madhur Garg
-  publisher: International Journal of Radiation Oncology*Biology*Physics
-  date: '2016-06-01'
-  link: https://doi.org/f8njsh
+  - Jeffrey W. Pollard
+  publisher: Nature Communications
+  date: '2016-10-13'
+  link: https://doi.org/f87sx5
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1097/hp.0000000000000323
-  title: Proposal for a Simple and Efficient Monthly Quality Management Program Assessing
-    the Consistency of Robotic Image-Guided Small Animal Radiation Systems
+- id: doi:10.1007/s00405-016-3926-4
+  title: Management algorithm for HIV-associated parotid lymphoepithelial cysts
   authors:
-  - N. Patrik Brodin
+  - Waleed F. Mourad
+  - Shyamal Patel
+  - Rebekah Young
+  - Azita S. Khorsandi
+  - Catherine Concert
+  - Rania A. Shourbaji
+  - Katherine Ciarrocca
+  - Richard L. Bakst
+  - Daniel Shasha
   - Chandan Guha
-  - "Wolfgang A. Tom\xE9"
-  publisher: Health Physics
-  date: '2015-11-01'
-  link: https://doi.org/f7tkqq
+  - Madhur K. Garg
+  - Kenneth S. Hu
+  - Shalom Kalnicki
+  - Louis B. Harrison
+  publisher: European Archives of Oto-Rhino-Laryngology
+  date: '2016-02-16'
+  link: https://doi.org/f85brq
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.CAN-15-3062
+  title: 'Pexmetinib: A Novel Dual Inhibitor of Tie2 and p38 MAPK with Efficacy in
+    Preclinical Models of Myelodysplastic Syndromes and Acute Myeloid Leukemia'
+  authors:
+  - Lohith Bachegowda
+  - Kerry Morrone
+  - Shannon L. Winski
+  - Ioannis Mantzaris
+  - Matthias Bartenstein
+  - Nandini Ramachandra
+  - Orsi Giricz
+  - Vineeth Sukrithan
+  - George Nwankwo
+  - Samira Shahnaz
+  - Tushar D. Bhagat
+  - Sanchari Bhattacharyya
+  - Amer Assal
+  - Aditi Shastri
+  - Shanisha Gordon-Mitchell
+  - Andrea Pellagatti
+  - Jacqueline Boultwood
+  - Carolina Schinke
+  - Yiting Yu
+  - Chandan Guha
+  - James Rizzi
+  - Jennifer Garrus
+  - Suzy Brown
+  - Lance Wollenberg
+  - Grant Hogeland
+  - Dale Wright
+  - Mark Munson
+  - Mareli Rodriguez
+  - Stefan Gross
+  - David Chantry
+  - Yiyu Zou
+  - Leonidas C. Platanias
+  - Laurence E. Burgess
+  - Kith Pradhan
+  - Ulrich Steidl
+  - Amit Verma
+  publisher: Cancer Research
+  date: '2016-08-14'
+  link: https://doi.org/f822j3
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/MPA.0000000000000710
+  title: Precision Medicine and Pancreatic Cancer
+  authors:
+  - James J. Farrell
+  - Jennifer Moughan
+  - Jonathan L. Wong
+  - William F. Regine
+  - Paul Schaefer
+  - Al B. Benson
+  - John S. Macdonald
+  - Xiyong Liu
+  - Yun Yen
+  - Raymond Lai
+  - Zhong Zheng
+  - Gerold Bepler
+  - Chandan Guha
+  - Hany Elsaleh
+  publisher: Pancreas
+  date: '2016-11-01'
+  link: https://doi.org/f89kks
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -3915,199 +4333,87 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1259/bjr.20150762
-  title: 'Hippocampal-dependent neurocognitive impairment following cranial irradiation
-    observed in pre-clinical models: current knowledge and possible future directions'
+- id: doi:10.1016/j.ijrobp.2016.01.043
+  title: Radiation Therapy Noncompliance and Clinical Outcomes in an Urban Academic
+    Cancer Center
   authors:
-  - "Wolfgang A Tom\xE9"
-  - "\u015E\xF6len G\xF6khan"
-  - Maria E Gulinello
-  - N Patrik Brodin
-  - John Heard
-  - Mark F Mehler
+  - Nitin Ohri
+  - Bruce D. Rapkin
   - Chandan Guha
-  publisher: The British Journal of Radiology
-  date: '2016-01-01'
-  link: https://doi.org/gtkh7p
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1002/nbm.3391
-  title: <i>In vivo</i><sup>1</sup>H MRS and<sup>31</sup>P MRSI of the response to
-    cyclocreatine in transgenic mouse liver expressing creatine kinase
-  authors:
-  - Min-Hui Cui
-  - Kamaiah Jayalakshmi
-  - Laibin Liu
-  - Chandan Guha
-  - Craig A. Branch
-  publisher: NMR in Biomedicine
-  date: '2015-10-09'
-  link: https://doi.org/f747t4
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/srep14384
-  title: 'A mouse model replicating hippocampal sparing cranial irradiation in humans:
-    A tool for identifying new strategies to limit neurocognitive decline'
-  authors:
-  - "Wolfgang A. Tom\xE9"
-  - "\u015E\xF6len G\xF6khan"
-  - N. Patrik Brodin
-  - Maria E. Gulinello
-  - John Heard
-  - Mark F. Mehler
-  - Chandan Guha
-  publisher: Scientific Reports
-  date: '2015-09-24'
-  link: https://doi.org/f7r9b9
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1158/1078-0432.ccr-15-0789
-  title: Glycogen Synthase Kinase 3 Beta Predicts Survival in Resected Adenocarcinoma
-    of the Pancreas
-  authors:
-  - Edgar Ben-Josef
-  - Asha George
-  - William F. Regine
-  - Ross Abrams
-  - Meredith Morgan
-  - Dafydd Thomas
-  - Paul L. Schaefer
-  - Thomas A. DiPetrillo
-  - Mitchel Fromm
-  - William Small
-  - Samir Narayan
-  - Kathryn Winter
-  - Kent A. Griffith
-  - Chandan Guha
-  - Terence M. Williams
-  publisher: Clinical Cancer Research
-  date: '2015-12-14'
-  link: https://doi.org/f75x5c
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.ijrobp.2015.02.042
-  title: Are We Ready for a Radiological Terrorist Attack Yet? Report From the Centers
-    for Medical Countermeasures Against Radiation Network
-  authors:
-  - David J. Brenner
-  - Nelson J. Chao
-  - Joel S. Greenberger
-  - Chandan Guha
-  - William H. McBride
-  - Harold M. Swartz
-  - Jacqueline P. Williams
+  - Shalom Kalnicki
+  - Madhur Garg
   publisher: International Journal of Radiation Oncology*Biology*Physics
-  date: '2015-07-01'
-  link: https://doi.org/gtkh7q
+  date: '2016-06-01'
+  link: https://doi.org/f8njsh
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.stemcr.2015.04.017
-  title: Amelioration of Hyperbilirubinemia in Gunn Rats after Transplantation of
-    Human Induced Pluripotent Stem Cell-Derived Hepatocytes
+- id: doi:10.1093/jnci/djw133
+  title: 'Radiotherapy for Hepatocellular Carcinoma: New Indications and Directions
+    for Future Study'
   authors:
-  - Yong Chen
-  - Yanfeng Li
-  - Xia Wang
-  - Wei Zhang
-  - Vanessa Sauer
-  - Chan-Jung Chang
-  - Bing Han
-  - Tatyana Tchaikovskaya
-  - Yesim Avsar
-  - Edgar Tafaleng
-  - "Sanal Madhusudana\_Girija"
-  - Krisztina Tar
-  - Zsuzsanna Polgar
-  - Stephen Strom
-  - "Eric\_E. Bouhassira"
+  - Nitin Ohri
+  - Laura A. Dawson
+  - Sunil Krishnan
+  - Jinsil Seong
+  - Jason C. Cheng
+  - Shiv K. Sarin
+  - Milan Kinkhabwala
+  - Mansoor M. Ahmed
+  - Bhadrasain Vikram
+  - C. Norman Coleman
   - Chandan Guha
-  - "Ira\_J. Fox"
-  - Jayanta Roy-Chowdhury
-  - Namita Roy-Chowdhury
-  publisher: Stem Cell Reports
-  date: '2015-07-01'
-  link: https://doi.org/f3pw3s
+  publisher: Journal of the National Cancer Institute
+  date: '2016-07-04'
+  link: https://doi.org/gtkh7k
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pone.0124795
-  title: Integrative Metabolic Signatures for Hepatic Radiation Injury
+- id: doi:10.1007/s40139-016-0114-6
+  title: Stromal Progenitor Cells in Mitigation of Non-hematopoietic Radiation Injuries
   authors:
-  - Irwin Jack Kurland
-  - "Pilib \xD3. Broin"
-  - Aaron Golden
-  - Gang Su
-  - Fan Meng
-  - Laibin Liu
-  - Robert Mohney
   - Shilpa Kulkarni
+  - Timothy C. Wang
   - Chandan Guha
-  publisher: PLOS ONE
-  date: '2015-06-05'
-  link: https://doi.org/f7qc4n
+  publisher: Current Pathobiology Reports
+  date: '2016-09-07'
+  link: https://doi.org/gtkh7h
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1126/scitranslmed.aaa6593
-  title: Serum microRNAs are early indicators of survival after radiation-induced
-    hematopoietic injury
+- id: doi:10.1016/j.semradonc.2016.06.004
+  title: Targeted Therapy for Hepatocellular Carcinoma
   authors:
-  - Sanket S. Acharya
-  - Wojciech Fendler
-  - Jacqueline Watson
-  - Abigail Hamilton
-  - Yunfeng Pan
-  - Emily Gaudiano
-  - Patryk Moskwa
-  - Payel Bhanja
-  - Subhrajit Saha
+  - Nitin Ohri
+  - Andreas Kaubisch
+  - Madhur Garg
   - Chandan Guha
-  - Kalindi Parmar
-  - Dipanjan Chowdhury
-  publisher: Science Translational Medicine
-  date: '2015-05-13'
-  link: https://doi.org/f7mhf3
+  publisher: Seminars in Radiation Oncology
+  date: '2016-10-01'
+  link: https://doi.org/f84q96
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1667/rr13900.1
-  title: The Triterpenoid RTA 408 is a Robust Mitigator of Hematopoietic Acute Radiation
-    Syndrome in Mice
+- id: doi:10.1016/j.ijrobp.2016.02.022
+  title: "Tumor Cells Surviving Exposure to Proton or Photon Radiation Share a Common\
+    \ Immunogenic Modulation Signature, Rendering Them More Sensitive to T Cell\u2013\
+    Mediated Killing"
   authors:
-  - Devorah C. Goldman
-  - Vitali Alexeev
-  - Elizabeth Lash
-  - Chandan Guha
-  - Ulrich Rodeck
-  - William H. Fleming
-  publisher: Radiation Research
-  date: '2015-03-01'
-  link: https://doi.org/f65xgf
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.ijrobp.2014.10.023
-  title: Intestinal Microbiota-Derived Metabolomic Blood Plasma Markers for Prior
-    Radiation Injury
-  authors:
-  - "Pilib \xD3 Broin"
-  - Bhavapriya Vaitheesvaran
-  - Subhrajit Saha
-  - Kirsten Hartil
-  - Emily I. Chen
-  - Devorah Goldman
-  - William Harv Fleming
-  - Irwin J. Kurland
-  - Chandan Guha
-  - Aaron Golden
+  - Sofia R. Gameiro
+  - Anthony S. Malamas
+  - Michael B. Bernstein
+  - Kwong Y. Tsang
+  - April Vassantachart
+  - Narayan Sahoo
+  - Ramesh Tailor
+  - Rajesh Pidikiti
+  - Chandan P. Guha
+  - Stephen M. Hahn
+  - Sunil Krishnan
+  - James W. Hodge
   publisher: International Journal of Radiation Oncology*Biology*Physics
-  date: '2015-02-01'
-  link: https://doi.org/gmkgtz
+  date: '2016-05-01'
+  link: https://doi.org/gm445m
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4141,20 +4447,66 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.ijrobp.2014.09.030
-  title: Predictors of Radiation Therapy Noncompliance in an Urban Academic Cancer
-    Center
+- id: doi:10.1038/srep14384
+  title: 'A mouse model replicating hippocampal sparing cranial irradiation in humans:
+    A tool for identifying new strategies to limit neurocognitive decline'
   authors:
-  - Nitin Ohri
-  - Bruce D. Rapkin
-  - Debayan Guha
-  - Hilda Haynes-Lewis
+  - "Wolfgang A. Tom\xE9"
+  - "\u015E\xF6len G\xF6khan"
+  - N. Patrik Brodin
+  - Maria E. Gulinello
+  - John Heard
+  - Mark F. Mehler
   - Chandan Guha
-  - Shalom Kalnicki
-  - Madhur Garg
+  publisher: Scientific Reports
+  date: '2015-09-24'
+  link: https://doi.org/f7r9b9
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.stemcr.2015.04.017
+  title: Amelioration of Hyperbilirubinemia in Gunn Rats after Transplantation of
+    Human Induced Pluripotent Stem Cell-Derived Hepatocytes
+  authors:
+  - Yong Chen
+  - Yanfeng Li
+  - Xia Wang
+  - Wei Zhang
+  - Vanessa Sauer
+  - Chan-Jung Chang
+  - Bing Han
+  - Tatyana Tchaikovskaya
+  - Yesim Avsar
+  - Edgar Tafaleng
+  - "Sanal Madhusudana\_Girija"
+  - Krisztina Tar
+  - Zsuzsanna Polgar
+  - Stephen Strom
+  - "Eric\_E. Bouhassira"
+  - Chandan Guha
+  - "Ira\_J. Fox"
+  - Jayanta Roy-Chowdhury
+  - Namita Roy-Chowdhury
+  publisher: Stem Cell Reports
+  date: '2015-07-01'
+  link: https://doi.org/f3pw3s
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijrobp.2015.02.042
+  title: Are We Ready for a Radiological Terrorist Attack Yet? Report From the Centers
+    for Medical Countermeasures Against Radiation Network
+  authors:
+  - David J. Brenner
+  - Nelson J. Chao
+  - Joel S. Greenberger
+  - Chandan Guha
+  - William H. McBride
+  - Harold M. Swartz
+  - Jacqueline P. Williams
   publisher: International Journal of Radiation Oncology*Biology*Physics
-  date: '2015-01-01'
-  link: https://doi.org/f6tgqm
+  date: '2015-07-01'
+  link: https://doi.org/gtkh7q
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4168,6 +4520,123 @@
   publisher: Technology in Cancer Research &amp; Treatment
   date: '2014-01-01'
   link: https://doi.org/f7cmpx
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.CCR-15-0789
+  title: Glycogen Synthase Kinase 3 Beta Predicts Survival in Resected Adenocarcinoma
+    of the Pancreas
+  authors:
+  - Edgar Ben-Josef
+  - Asha George
+  - William F. Regine
+  - Ross Abrams
+  - Meredith Morgan
+  - Dafydd Thomas
+  - Paul L. Schaefer
+  - Thomas A. DiPetrillo
+  - Mitchel Fromm
+  - William Small
+  - Samir Narayan
+  - Kathryn Winter
+  - Kent A. Griffith
+  - Chandan Guha
+  - Terence M. Williams
+  publisher: Clinical Cancer Research
+  date: '2015-12-14'
+  link: https://doi.org/f75x5c
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/nbm.3391
+  title: <i>In vivo</i><sup>1</sup>H MRS and<sup>31</sup>P MRSI of the response to
+    cyclocreatine in transgenic mouse liver expressing creatine kinase
+  authors:
+  - Min-Hui Cui
+  - Kamaiah Jayalakshmi
+  - Laibin Liu
+  - Chandan Guha
+  - Craig A. Branch
+  publisher: NMR in Biomedicine
+  date: '2015-10-09'
+  link: https://doi.org/f747t4
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0124795
+  title: Integrative Metabolic Signatures for Hepatic Radiation Injury
+  authors:
+  - Irwin Jack Kurland
+  - "Pilib \xD3. Broin"
+  - Aaron Golden
+  - Gang Su
+  - Fan Meng
+  - Laibin Liu
+  - Robert Mohney
+  - Shilpa Kulkarni
+  - Chandan Guha
+  publisher: PLOS ONE
+  date: '2015-06-05'
+  link: https://doi.org/f7qc4n
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijrobp.2014.10.023
+  title: Intestinal Microbiota-Derived Metabolomic Blood Plasma Markers for Prior
+    Radiation Injury
+  authors:
+  - "Pilib \xD3 Broin"
+  - Bhavapriya Vaitheesvaran
+  - Subhrajit Saha
+  - Kirsten Hartil
+  - Emily I. Chen
+  - Devorah Goldman
+  - William Harv Fleming
+  - Irwin J. Kurland
+  - Chandan Guha
+  - Aaron Golden
+  publisher: International Journal of Radiation Oncology*Biology*Physics
+  date: '2015-02-01'
+  link: https://doi.org/gmkgtz
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.stem.2015.04.013
+  title: "Krt19+/Lgr5\u2212 Cells Are Radioresistant Cancer-Initiating Stem Cells\
+    \ in the Colon and Intestine"
+  authors:
+  - Samuel Asfaha
+  - Yoku Hayakawa
+  - Ashlesha Muley
+  - Sarah Stokes
+  - "Trevor\_A. Graham"
+  - "Russell\_E. Ericksen"
+  - "Christoph\_B. Westphalen"
+  - "Johannes von\_Burstin"
+  - "Teresa\_L. Mastracci"
+  - "Daniel\_L. Worthley"
+  - Chandhan Guha
+  - Michael Quante
+  - "Anil\_K. Rustgi"
+  - "Timothy\_C. Wang"
+  publisher: Cell Stem Cell
+  date: '2015-06-01'
+  link: https://doi.org/f7fq57
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/liv.12507
+  title: Liver regeneration and energetic changes in rats following hepatic radiation
+    therapy and hepatocyte transplantation by <sup>31</sup>P <scp>MRSI</scp>
+  authors:
+  - Charles S. Landis
+  - Hongchao Zhou
+  - Laibin Liu
+  - Hoby P. Hetherington
+  - Chandan Guha
+  publisher: Liver International
+  date: '2014-03-15'
+  link: https://doi.org/gtkh7z
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4201,252 +4670,88 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.ijrobp.2014.07.016
-  title: Contouring and Constraining Bowel on a Full-Bladder Computed Tomography Scan
-    May Not Reflect Treatment Bowel Position and Dose Certainty in Gynecologic External
-    Beam Radiation Therapy
+- id: doi:10.1016/j.ijrobp.2014.09.030
+  title: Predictors of Radiation Therapy Noncompliance in an Urban Academic Cancer
+    Center
   authors:
-  - Ravindra Yaparpalvi
-  - Keyur J. Mehta
-  - Michael B. Bernstein
-  - Rafi Kabarriti
-  - Linda X. Hong
-  - Madhur K. Garg
-  - Chandan Guha
-  - Shalom Kalnicki
-  - "Wolfgang A. Tom\xE9"
-  publisher: International Journal of Radiation Oncology*Biology*Physics
-  date: '2014-11-01'
-  link: https://doi.org/gtkh7t
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1667/rr13617.1
-  title: An Autologous In Situ Tumor Vaccination Approach for Hepatocellular Carcinoma.
-    2. Tumor-Specific Immunity and Cure after Radio-Inducible Suicide Gene Therapy
-    and Systemic CD40-Ligand and Flt3-Ligand Gene Therapy in an Orthotopic Tumor Model
-  authors:
-  - Yujo Kawashita
-  - Niloy J. Deb
-  - Madhur K. Garg
-  - Rafi Kabarriti
-  - Zuoheng Fan
-  - Alan A. Alfieri
-  - Jayanta Roy-Chowdhury
-  - Chandan Guha
-  publisher: Radiation Research
-  date: '2014-07-03'
-  link: https://doi.org/f6f8nz
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.ijrobp.2014.02.017
-  title: "Bone Marrow\u2013Derived Stromal Cell Therapy in Cirrhosis: Clinical Evidence,\
-    \ Cellular Mechanisms, and Implications for the Treatment of Hepatocellular Carcinoma"
-  authors:
-  - Jeffrey M. Vainshtein
-  - Rafi Kabarriti
-  - Keyur J. Mehta
-  - Jayanta Roy-Chowdhury
-  - Chandan Guha
-  publisher: International Journal of Radiation Oncology*Biology*Physics
-  date: '2014-07-01'
-  link: https://doi.org/f59d7t
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1667/rr13667.1
-  title: Considerations for Combined Immune Checkpoint Modulation and Radiation Treatment
-  authors:
-  - Steven C. Almo
-  - Chandan Guha
-  publisher: Radiation Research
-  date: '2014-08-01'
-  link: https://doi.org/f6gqf5
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1667/rr13849.1
-  title: 'Immunobiology of Radiotherapy: New Paradigms'
-  authors:
-  - Mansoor M. Ahmed
-  - Chandan Guha
-  - James W. Hodge
-  - Elizabeth Jaffee
-  publisher: Radiation Research
-  date: '2014-08-01'
-  link: https://doi.org/gtkh7v
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1002/mas.21439
-  title: "Advanced mass spectrometry\u2010based multi\u2010omics technologies for\
-    \ exploring the pathogenesis of hepatocellular carcinoma"
-  authors:
-  - Wenna Nie
-  - Leyu Yan
-  - Yie H. Lee
-  - Chandan Guha
-  - Irwin J. Kurland
-  - Haitao Lu
-  publisher: Mass Spectrometry Reviews
-  date: '2014-06-02'
-  link: https://doi.org/f8gxqd
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1667/rr13594.1
-  title: An Autologous<i>In Situ</i>Tumor Vaccination Approach for Hepatocellular
-    Carcinoma. 1. Flt3 Ligand Gene Transfer Increases Antitumor Effects of a Radio-Inducible
-    Suicide Gene Therapy in an Ectopic Tumor Model
-  authors:
-  - Yujo Kawashita
-  - Niloy J. Deb
-  - Madhur Garg
-  - Rafi Kabarriti
-  - Alan Alfieri
-  - Masahiko Takahashi
-  - Jayanta Roy-Chowdhury
-  - Chandan Guha
-  publisher: Radiation Research
-  date: '2014-08-01'
-  link: https://doi.org/f6f8n6
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.18632/oncoscience.48
-  title: Low intensity focused ultrasound (LOFU) modulates unfolded protein response
-    and sensitizes prostate cancer to 17AAG
-  authors:
-  - Subhrajit Saha
-  - Payel Bhanja
-  - Ari Partanen
-  - Wei Zhang
-  - Laibin Liu
-  - "Wolfgang A. Tom\xE9"
-  - Chandan Guha
-  publisher: Oncoscience
-  date: '2014-06-03'
-  link: https://doi.org/gtkh7w
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/s12072-014-9532-x
-  title: 'Hedgehog signaling and radiation induced liver injury: a delicate balance'
-  authors:
-  - Rafi Kabarriti
-  - Chandan Guha
-  publisher: Hepatology International
-  date: '2014-05-08'
-  link: https://doi.org/gtkh7x
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1089/cbr.2013.1578
-  title: Radiation-Induced Modulation of Costimulatory and Coinhibitory T-Cell Signaling
-    Molecules on Human Prostate Carcinoma Cells Promotes Productive Antitumor Immune
-    Interactions
-  authors:
-  - Michael B. Bernstein
-  - Charlie T. Garnett
-  - Huogang Zhang
-  - Anna Velcich
-  - Max M. Wattenberg
-  - Sofia R. Gameiro
-  - Shalom Kalnicki
-  - James W. Hodge
-  - Chandan Guha
-  publisher: Cancer Biotherapy and Radiopharmaceuticals
-  date: '2014-05-01'
-  link: https://doi.org/f53xgs
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/s40139-013-0039-2
-  title: Induced Pluripotent Stem Cells as a Source of Hepatocytes
-  authors:
-  - Vanessa Sauer
-  - Namita Roy-Chowdhury
-  - Chandan Guha
-  - Jayanta Roy-Chowdhury
-  publisher: Current Pathobiology Reports
-  date: '2014-01-11'
-  link: https://doi.org/gp9nw6
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1111/liv.12507
-  title: Liver regeneration and energetic changes in rats following hepatic radiation
-    therapy and hepatocyte transplantation by <sup>31</sup>P <scp>MRSI</scp>
-  authors:
-  - Charles S. Landis
-  - Hongchao Zhou
-  - Laibin Liu
-  - Hoby P. Hetherington
-  - Chandan Guha
-  publisher: Liver International
-  date: '2014-03-15'
-  link: https://doi.org/gtkh7z
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.prro.2014.01.002
-  title: Prostate-specific antigen decline during salvage radiation therapy following
-    prostatectomy is associated with reduced biochemical failure
-  authors:
-  - Rafi Kabarriti
   - Nitin Ohri
-  - Raquibul Hannan
-  - Nima Tishbi
-  - Sujith Baliga
-  - Kevin P. McGovern
-  - Waleed F. Mourad
-  - Reza Ghavamian
+  - Bruce D. Rapkin
+  - Debayan Guha
+  - Hilda Haynes-Lewis
+  - Chandan Guha
   - Shalom Kalnicki
-  - Chandan Guha
-  - Madhur K. Garg
-  publisher: Practical Radiation Oncology
-  date: '2014-11-01'
-  link: https://doi.org/gtkh72
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.ijrobp.2013.12.051
-  title: "Rigosertib Is a More Effective Radiosensitizer Than Cisplatin in Concurrent\
-    \ Chemoradiation Treatment of Cervical Carcinoma, In\_Vitro and In\_Vivo"
-  authors:
-  - Lorenzo Agoni
-  - Indranil Basu
-  - Seema Gupta
-  - Alan Alfieri
-  - Angela Gambino
-  - Gary L. Goldberg
-  - E. Premkumar Reddy
-  - Chandan Guha
+  - Madhur Garg
   publisher: International Journal of Radiation Oncology*Biology*Physics
-  date: '2014-04-01'
-  link: https://doi.org/f5v87c
+  date: '2015-01-01'
+  link: https://doi.org/f6tgqm
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1089/ars.2013.5652
-  title: Stem Cell Therapies for the Treatment of Radiation-Induced Normal Tissue
-    Side Effects
+- id: doi:10.1097/HP.0000000000000323
+  title: Proposal for a Simple and Efficient Monthly Quality Management Program Assessing
+    the Consistency of Robotic Image-Guided Small Animal Radiation Systems
   authors:
-  - Marc Benderitter
-  - Fabio Caviggioli
-  - Alain Chapel
-  - Robert P. Coppes
+  - N. Patrik Brodin
   - Chandan Guha
-  - Marco Klinger
-  - Olivier Malard
-  - Fiona Stewart
-  - Radia Tamarat
-  - Peter van Luijk
-  - Charles L. Limoli
-  publisher: Antioxidants &amp; Redox Signaling
-  date: '2014-07-10'
-  link: https://doi.org/f57fkq
+  - "Wolfgang A. Tom\xE9"
+  publisher: Health Physics
+  date: '2015-11-01'
+  link: https://doi.org/f7tkqq
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1259/bjr.20140776
+  title: Semi-automatic cone beam CT segmentation of<i>in vivo</i>pre-clinical subcutaneous
+    tumours provides an efficient non-invasive alternative for tumour volume measurements
+  authors:
+  - N P Brodin
+  - J Tang
+  - K Skalina
+  - TJ Quinn
+  - I Basu
+  - C Guha
+  - "W A Tom\xE9"
+  publisher: The British Journal of Radiology
+  date: '2015-06-01'
+  link: https://doi.org/f7k5jj
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/scitranslmed.aaa6593
+  title: Serum microRNAs are early indicators of survival after radiation-induced
+    hematopoietic injury
+  authors:
+  - Sanket S. Acharya
+  - Wojciech Fendler
+  - Jacqueline Watson
+  - Abigail Hamilton
+  - Yunfeng Pan
+  - Emily Gaudiano
+  - Patryk Moskwa
+  - Payel Bhanja
+  - Subhrajit Saha
+  - Chandan Guha
+  - Kalindi Parmar
+  - Dipanjan Chowdhury
+  publisher: Science Translational Medicine
+  date: '2015-05-13'
+  link: https://doi.org/f7mhf3
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1667/RR13900.1
+  title: The Triterpenoid RTA 408 is a Robust Mitigator of Hematopoietic Acute Radiation
+    Syndrome in Mice
+  authors:
+  - Devorah C. Goldman
+  - Vitali Alexeev
+  - Elizabeth Lash
+  - Chandan Guha
+  - Ulrich Rodeck
+  - William H. Fleming
+  publisher: Radiation Research
+  date: '2015-03-01'
+  link: https://doi.org/f65xgf
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4483,69 +4788,259 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1158/2326-6066.cir-13-0141
-  title: Harnessing the Potential of Radiation-Induced Immune Modulation for Cancer
-    Therapy
+- id: doi:10.1667/RR13594.1
+  title: An Autologous<i>In Situ</i>Tumor Vaccination Approach for Hepatocellular
+    Carcinoma. 1. Flt3 Ligand Gene Transfer Increases Antitumor Effects of a Radio-Inducible
+    Suicide Gene Therapy in an Ectopic Tumor Model
+  authors:
+  - Yujo Kawashita
+  - Niloy J. Deb
+  - Madhur Garg
+  - Rafi Kabarriti
+  - Alan Alfieri
+  - Masahiko Takahashi
+  - Jayanta Roy-Chowdhury
+  - Chandan Guha
+  publisher: Radiation Research
+  date: '2014-08-01'
+  link: https://doi.org/f6f8n6
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1667/RR13617.1
+  title: An Autologous In Situ Tumor Vaccination Approach for Hepatocellular Carcinoma.
+    2. Tumor-Specific Immunity and Cure after Radio-Inducible Suicide Gene Therapy
+    and Systemic CD40-Ligand and Flt3-Ligand Gene Therapy in an Orthotopic Tumor Model
+  authors:
+  - Yujo Kawashita
+  - Niloy J. Deb
+  - Madhur K. Garg
+  - Rafi Kabarriti
+  - Zuoheng Fan
+  - Alan A. Alfieri
+  - Jayanta Roy-Chowdhury
+  - Chandan Guha
+  publisher: Radiation Research
+  date: '2014-07-03'
+  link: https://doi.org/f6f8nz
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijrobp.2014.02.017
+  title: "Bone Marrow\u2013Derived Stromal Cell Therapy in Cirrhosis: Clinical Evidence,\
+    \ Cellular Mechanisms, and Implications for the Treatment of Hepatocellular Carcinoma"
+  authors:
+  - Jeffrey M. Vainshtein
+  - Rafi Kabarriti
+  - Keyur J. Mehta
+  - Jayanta Roy-Chowdhury
+  - Chandan Guha
+  publisher: International Journal of Radiation Oncology*Biology*Physics
+  date: '2014-07-01'
+  link: https://doi.org/f59d7t
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1667/RR13667.1
+  title: Considerations for Combined Immune Checkpoint Modulation and Radiation Treatment
+  authors:
+  - Steven C. Almo
+  - Chandan Guha
+  publisher: Radiation Research
+  date: '2014-08-01'
+  link: https://doi.org/f6gqf5
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijrobp.2014.07.016
+  title: Contouring and Constraining Bowel on a Full-Bladder Computed Tomography Scan
+    May Not Reflect Treatment Bowel Position and Dose Certainty in Gynecologic External
+    Beam Radiation Therapy
+  authors:
+  - Ravindra Yaparpalvi
+  - Keyur J. Mehta
+  - Michael B. Bernstein
+  - Rafi Kabarriti
+  - Linda X. Hong
+  - Madhur K. Garg
+  - Chandan Guha
+  - Shalom Kalnicki
+  - "Wolfgang A. Tom\xE9"
+  publisher: International Journal of Radiation Oncology*Biology*Physics
+  date: '2014-11-01'
+  link: https://doi.org/gtkh7t
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12072-014-9532-x
+  title: 'Hedgehog signaling and radiation induced liver injury: a delicate balance'
+  authors:
+  - Rafi Kabarriti
+  - Chandan Guha
+  publisher: Hepatology International
+  date: '2014-05-08'
+  link: https://doi.org/gtkh7x
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1667/RR13849.1
+  title: 'Immunobiology of Radiotherapy: New Paradigms'
   authors:
   - Mansoor M. Ahmed
-  - James W. Hodge
   - Chandan Guha
-  - Eric J. Bernhard
-  - Bhadrasain Vikram
-  - C. Norman Coleman
-  publisher: Cancer Immunology Research
-  date: '2013-11-01'
-  link: https://doi.org/gh75ww
+  - James W. Hodge
+  - Elizabeth Jaffee
+  publisher: Radiation Research
+  date: '2014-08-01'
+  link: https://doi.org/gtkh7v
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.5114/jcb.2013.38875
-  title: "Prostate-specific antigen bounce predicts for a\_favorable prognosis following\
-    \ brachytherapy: a\_meta-analysis"
+- id: doi:10.1007/s40139-013-0039-2
+  title: Induced Pluripotent Stem Cells as a Source of Hepatocytes
+  authors:
+  - Vanessa Sauer
+  - Namita Roy-Chowdhury
+  - Chandan Guha
+  - Jayanta Roy-Chowdhury
+  publisher: Current Pathobiology Reports
+  date: '2014-01-11'
+  link: https://doi.org/gp9nw6
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18632/oncoscience.48
+  title: Low intensity focused ultrasound (LOFU) modulates unfolded protein response
+    and sensitizes prostate cancer to 17AAG
+  authors:
+  - Subhrajit Saha
+  - Payel Bhanja
+  - Ari Partanen
+  - Wei Zhang
+  - Laibin Liu
+  - "Wolfgang A. Tom\xE9"
+  - Chandan Guha
+  publisher: Oncoscience
+  date: '2014-06-03'
+  link: https://doi.org/gtkh7w
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.prro.2014.01.002
+  title: Prostate-specific antigen decline during salvage radiation therapy following
+    prostatectomy is associated with reduced biochemical failure
+  authors:
+  - Rafi Kabarriti
+  - Nitin Ohri
+  - Raquibul Hannan
+  - Nima Tishbi
+  - Sujith Baliga
+  - Kevin P. McGovern
+  - Waleed F. Mourad
+  - Reza Ghavamian
+  - Shalom Kalnicki
+  - Chandan Guha
+  - Madhur K. Garg
+  publisher: Practical Radiation Oncology
+  date: '2014-11-01'
+  link: https://doi.org/gtkh72
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1089/cbr.2013.1578
+  title: Radiation-Induced Modulation of Costimulatory and Coinhibitory T-Cell Signaling
+    Molecules on Human Prostate Carcinoma Cells Promotes Productive Antitumor Immune
+    Interactions
   authors:
   - Michael B. Bernstein
-  - Nitin Ohri
-  - James W. Hodge
-  - Madhur Garg
-  - William Bodner
+  - Charlie T. Garnett
+  - Huogang Zhang
+  - Anna Velcich
+  - Max M. Wattenberg
+  - Sofia R. Gameiro
   - Shalom Kalnicki
-  - Adam P. Dicker
+  - James W. Hodge
   - Chandan Guha
-  publisher: Journal of Contemporary Brachytherapy
-  date: '2013-01-01'
-  link: https://doi.org/gtkh73
+  publisher: Cancer Biotherapy and Radiopharmaceuticals
+  date: '2014-05-01'
+  link: https://doi.org/f53xgs
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pone.0076472
-  title: Variant Splicing and Influence of Ionizing Radiation on Human Endogenous
-    Retrovirus K (HERV-K) Transcripts in Cancer Cell Lines
+- id: doi:10.1016/j.ijrobp.2013.12.051
+  title: "Rigosertib Is a More Effective Radiosensitizer Than Cisplatin in Concurrent\
+    \ Chemoradiation Treatment of Cervical Carcinoma, In\_Vitro and In\_Vivo"
   authors:
   - Lorenzo Agoni
-  - Jack Lenz
+  - Indranil Basu
+  - Seema Gupta
+  - Alan Alfieri
+  - Angela Gambino
+  - Gary L. Goldberg
+  - E. Premkumar Reddy
   - Chandan Guha
-  publisher: PLoS ONE
-  date: '2013-10-18'
-  link: https://doi.org/gtkh74
+  publisher: International Journal of Radiation Oncology*Biology*Physics
+  date: '2014-04-01'
+  link: https://doi.org/f5v87c
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1158/1078-0432.ccr-13-1116
-  title: Lessons Learned from Radiation Oncology Clinical Trials
+- id: doi:10.1007/s11306-014-0639-9
+  title: 'Role of the tumor suppressor IQGAP2 in metabolic homeostasis: possible link
+    between diabetes and cancer'
   authors:
-  - Fei-Fei Liu
-  - Paul Okunieff
-  - Eric J. Bernhard
-  - Helen B. Stone
-  - Stephen Yoo
-  - C. Norman Coleman
-  - Bhadrasain Vikram
-  - Martin Brown
-  - John Buatti
+  - B. Vaitheesvaran
+  - K. Hartil
+  - A. Navare
+  - C. Zheng
+  - "P. \xD3 Broin"
+  - A. Golden
+  - C. Guha
+  - W. N. Lee
+  - I. J. Kurland
+  - J. E. Bruce
+  publisher: Metabolomics
+  date: '2014-02-18'
+  link: https://doi.org/grzkcq
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1089/ars.2013.5652
+  title: Stem Cell Therapies for the Treatment of Radiation-Induced Normal Tissue
+    Side Effects
+  authors:
+  - Marc Benderitter
+  - Fabio Caviggioli
+  - Alain Chapel
+  - Robert P. Coppes
   - Chandan Guha
-  publisher: Clinical Cancer Research
-  date: '2013-11-14'
-  link: https://doi.org/gtkh75
+  - Marco Klinger
+  - Olivier Malard
+  - Fiona Stewart
+  - Radia Tamarat
+  - Peter van Luijk
+  - Charles L. Limoli
+  publisher: Antioxidants &amp; Redox Signaling
+  date: '2014-07-10'
+  link: https://doi.org/f57fkq
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.prro.2012.07.006
+  title: Clinical and molecular exploration of the impact of radiation therapy on
+    Marfan syndrome patients
+  authors:
+  - Dukagjin M. Blakaj
+  - Hua-Gang Zhang
+  - Adriana Blakaj
+  - Waleed F. Mourad
+  - Belinda Clarke
+  - Marnee Spierer
+  - Shalom Kalnicki
+  - Chandan Guha
+  publisher: Practical Radiation Oncology
+  date: '2013-07-01'
+  link: https://doi.org/gtkh8b
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4564,36 +5059,6 @@
   publisher: PLoS ONE
   date: '2013-07-24'
   link: https://doi.org/ghpcq4
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.3389/fonc.2013.00180
-  title: Detection of Human Endogenous Retrovirus K (HERV-K) Transcripts in Human
-    Prostate Cancer Cell Lines
-  authors:
-  - Lorenzo Agoni
-  - Chandan Guha
-  - Jack Lenz
-  publisher: Frontiers in Oncology
-  date: '2013-01-01'
-  link: https://doi.org/gtkh76
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.scr.2013.07.001
-  title: Endothelial cells mitigate DNA damage and promote the regeneration of hematopoietic
-    stem cells after radiation injury
-  authors:
-  - Derek K. Zachman
-  - Ronald P. Leon
-  - Prerna Das
-  - Devorah C. Goldman
-  - Kimberly L. Hamlin
-  - Chandan Guha
-  - William H. Fleming
-  publisher: Stem Cell Research
-  date: '2013-11-01'
-  link: https://doi.org/gtkh77
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4616,6 +5081,19 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.3389/fonc.2013.00180
+  title: Detection of Human Endogenous Retrovirus K (HERV-K) Transcripts in Human
+    Prostate Cancer Cell Lines
+  authors:
+  - Lorenzo Agoni
+  - Chandan Guha
+  - Jack Lenz
+  publisher: Frontiers in Oncology
+  date: '2013-01-01'
+  link: https://doi.org/gtkh76
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3109/09553002.2013.782110
   title: Effects of radiation on the epidermal growth factor receptor pathway in the
     heart
@@ -4632,6 +5110,58 @@
   publisher: International Journal of Radiation Biology
   date: '2013-04-16'
   link: https://doi.org/gtkh78
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.scr.2013.07.001
+  title: Endothelial cells mitigate DNA damage and promote the regeneration of hematopoietic
+    stem cells after radiation injury
+  authors:
+  - Derek K. Zachman
+  - Ronald P. Leon
+  - Prerna Das
+  - Devorah C. Goldman
+  - Kimberly L. Hamlin
+  - Chandan Guha
+  - William H. Fleming
+  publisher: Stem Cell Research
+  date: '2013-11-01'
+  link: https://doi.org/gtkh77
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2326-6066.CIR-13-0141
+  title: Harnessing the Potential of Radiation-Induced Immune Modulation for Cancer
+    Therapy
+  authors:
+  - Mansoor M. Ahmed
+  - James W. Hodge
+  - Chandan Guha
+  - Eric J. Bernhard
+  - Bhadrasain Vikram
+  - C. Norman Coleman
+  publisher: Cancer Immunology Research
+  date: '2013-11-01'
+  link: https://doi.org/gh75ww
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.CCR-13-1116
+  title: Lessons Learned from Radiation Oncology Clinical Trials
+  authors:
+  - Fei-Fei Liu
+  - Paul Okunieff
+  - Eric J. Bernhard
+  - Helen B. Stone
+  - Stephen Yoo
+  - C. Norman Coleman
+  - Bhadrasain Vikram
+  - Martin Brown
+  - John Buatti
+  - Chandan Guha
+  publisher: Clinical Cancer Research
+  date: '2013-11-14'
+  link: https://doi.org/gtkh75
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4666,20 +5196,39 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.ijrobp.2013.02.008
-  title: Who Benefits From Adjuvant Radiation Therapy for Gastric Cancer? A Meta-Analysis
+- id: doi:10.5114/jcb.2013.38875
+  title: "Prostate-specific antigen bounce predicts for a\_favorable prognosis following\
+    \ brachytherapy: a\_meta-analysis"
   authors:
+  - Michael B. Bernstein
   - Nitin Ohri
-  - Madhur K. Garg
-  - Santiago Aparo
-  - Andreas Kaubisch
-  - Wolfgang Tome
-  - Timothy J. Kennedy
+  - James W. Hodge
+  - Madhur Garg
+  - William Bodner
   - Shalom Kalnicki
+  - Adam P. Dicker
   - Chandan Guha
-  publisher: International Journal of Radiation Oncology*Biology*Physics
+  publisher: Journal of Contemporary Brachytherapy
+  date: '2013-01-01'
+  link: https://doi.org/gtkh73
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1118/1.4814347
+  title: "SU\u2010E\u2010J\u2010135: Measurements of Non\u2010Linearity Features of\
+    \ Breathing Patterns Using Recurrence Quantification Analysis (RQA) and Dynamic\
+    \ Complexity (DC)"
+  authors:
+  - H Kuo
+  - W Tome
+  - L Hong
+  - R Yaparpalvi
+  - M Garg
+  - C Guha
+  - S Kalnicki
+  publisher: Medical Physics
   date: '2013-06-01'
-  link: https://doi.org/f4zfs5
+  link: https://doi.org/g9zzk6
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4707,56 +5256,48 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pone.0046775
-  title: Single Liver Lobe Repopulation with Wildtype Hepatocytes Using Regional Hepatic
-    Irradiation Cures Jaundice in Gunn Rats
+- id: doi:10.1118/1.4815443
+  title: "TU\u2010E\u2010144\u201001: Advanced Novel Technologies &amp; Therapeutic\
+    \ Strategies"
   authors:
-  - Hongchao Zhou
-  - Xinyuan Dong
-  - Rafi Kabarriti
-  - Yong Chen
-  - Yesim Avsar
-  - Xia Wang
-  - Jianqiang Ding
-  - Laibin Liu
-  - Ira J. Fox
-  - Jayanta Roy-Chowdhury
-  - Namita Roy-Chowdhury
-  - Chandan Guha
-  publisher: PLoS ONE
-  date: '2012-10-16'
-  link: https://doi.org/gtkh79
+  - K Ferrara
+  - R Griffin
+  - C Guha
+  - C Holland
+  - C Lafon
+  publisher: Medical Physics
+  date: '2013-06-01'
+  link: https://doi.org/g9zzk7
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.prro.2012.07.006
-  title: Clinical and molecular exploration of the impact of radiation therapy on
-    Marfan syndrome patients
-  authors:
-  - Dukagjin M. Blakaj
-  - Hua-Gang Zhang
-  - Adriana Blakaj
-  - Waleed F. Mourad
-  - Belinda Clarke
-  - Marnee Spierer
-  - Shalom Kalnicki
-  - Chandan Guha
-  publisher: Practical Radiation Oncology
-  date: '2013-07-01'
-  link: https://doi.org/gtkh8b
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.cub.2012.04.049
-  title: Neandertal and Denisovan retroviruses
+- id: doi:10.1371/journal.pone.0076472
+  title: Variant Splicing and Influence of Ionizing Radiation on Human Endogenous
+    Retrovirus K (HERV-K) Transcripts in Cancer Cell Lines
   authors:
   - Lorenzo Agoni
-  - Aaron Golden
-  - Chandan Guha
   - Jack Lenz
-  publisher: Current Biology
-  date: '2012-06-01'
-  link: https://doi.org/f32mb9
+  - Chandan Guha
+  publisher: PLoS ONE
+  date: '2013-10-18'
+  link: https://doi.org/gtkh74
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijrobp.2013.02.008
+  title: Who Benefits From Adjuvant Radiation Therapy for Gastric Cancer? A Meta-Analysis
+  authors:
+  - Nitin Ohri
+  - Madhur K. Garg
+  - Santiago Aparo
+  - Andreas Kaubisch
+  - Wolfgang Tome
+  - Timothy J. Kennedy
+  - Shalom Kalnicki
+  - Chandan Guha
+  publisher: International Journal of Radiation Oncology*Biology*Physics
+  date: '2013-06-01'
+  link: https://doi.org/f4zfs5
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4794,6 +5335,79 @@
   publisher: Cancer Immunology, Immunotherapy
   date: '2012-05-27'
   link: https://doi.org/f4fmwm
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/tpj.2011.22
+  title: 'Cytidine deaminase single-nucleotide polymorphism is predictive of toxicity
+    from gemcitabine in patients with pancreatic cancer: RTOG 9704'
+  authors:
+  - J J Farrell
+  - K Bae
+  - J Wong
+  - C Guha
+  - A P Dicker
+  - H Elsaleh
+  publisher: The Pharmacogenomics Journal
+  date: '2011-05-31'
+  link: https://doi.org/dcxccz
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3727/096368911X566208
+  title: 'Improving the Techniques for Human Hepatocyte Transplantation: Report from
+    a Consensus Meeting in London'
+  authors:
+  - Juliana Puppi
+  - Stephen C. Strom
+  - Robin D. Hughes
+  - Sanjay Bansal
+  - Jose V. Castell
+  - Ibrahim Dagher
+  - Ewa C. S. Ellis
+  - Greg Nowak
+  - Bo-Goran Ericzon
+  - Ira J. Fox
+  - "M. Jos\xE9 G\xF3mez-Lech\xF3n"
+  - Chandan Guha
+  - Sanjeev Gupta
+  - Ragai R. Mitry
+  - Kazuo Ohashi
+  - Michael Ott
+  - Lola M. Reid
+  - Jayanta Roy-Chowdhury
+  - Etienne Sokal
+  - Anne Weber
+  - Anil Dhawan
+  publisher: Cell Transplantation
+  date: '2012-01-01'
+  link: https://doi.org/d3xhg6
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-29807-6_134
+  title: Matrix Metalloproteinases
+  authors:
+  - Daniel J. Leong
+  - Robert J. Majeska
+  - Chandan Guha
+  - Hui B. Sun
+  publisher: Encyclopedia of Exercise Medicine in Health and Disease
+  date: '2012-01-01'
+  link: https://doi.org/g9zzk8
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cub.2012.04.049
+  title: Neandertal and Denisovan retroviruses
+  authors:
+  - Lorenzo Agoni
+  - Aaron Golden
+  - Chandan Guha
+  - Jack Lenz
+  publisher: Current Biology
+  date: '2012-06-01'
+  link: https://doi.org/f32mb9
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4836,78 +5450,25 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3727/096368911x566208
-  title: 'Improving the Techniques for Human Hepatocyte Transplantation: Report from
-    a Consensus Meeting in London'
+- id: doi:10.1371/journal.pone.0046775
+  title: Single Liver Lobe Repopulation with Wildtype Hepatocytes Using Regional Hepatic
+    Irradiation Cures Jaundice in Gunn Rats
   authors:
-  - Juliana Puppi
-  - Stephen C. Strom
-  - Robin D. Hughes
-  - Sanjay Bansal
-  - Jose V. Castell
-  - Ibrahim Dagher
-  - Ewa C. S. Ellis
-  - Greg Nowak
-  - Bo-Goran Ericzon
-  - Ira J. Fox
-  - "M. Jos\xE9 G\xF3mez-Lech\xF3n"
-  - Chandan Guha
-  - Sanjeev Gupta
-  - Ragai R. Mitry
-  - Kazuo Ohashi
-  - Michael Ott
-  - Lola M. Reid
-  - Jayanta Roy-Chowdhury
-  - Etienne Sokal
-  - Anne Weber
-  - Anil Dhawan
-  publisher: Cell Transplantation
-  date: '2012-01-01'
-  link: https://doi.org/d3xhg6
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pone.0029357
-  title: TLR9 Agonist Protects Mice from Radiation-Induced Gastrointestinal Syndrome
-  authors:
-  - Subhrajit Saha
-  - Payel Bhanja
-  - Laibin Liu
-  - Alan A. Alfieri
-  - Dong Yu
-  - Ekambar R. Kandimalla
-  - Sudhir Agrawal
-  - Chandan Guha
-  publisher: PLoS ONE
-  date: '2012-01-04'
-  link: https://doi.org/fxqx6q
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.semradonc.2011.05.003
-  title: 'Hepatic Radiation Toxicity: Avoidance and Amelioration'
-  authors:
-  - Chandan Guha
-  - Brian D. Kavanagh
-  publisher: Seminars in Radiation Oncology
-  date: '2011-10-01'
-  link: https://doi.org/fwx26f
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pone.0024072
-  title: Bone Marrow Stromal Cell Transplantation Mitigates Radiation-Induced Gastrointestinal
-    Syndrome in Mice
-  authors:
-  - Subhrajit Saha
-  - Payel Bhanja
+  - Hongchao Zhou
+  - Xinyuan Dong
   - Rafi Kabarriti
+  - Yong Chen
+  - Yesim Avsar
+  - Xia Wang
+  - Jianqiang Ding
   - Laibin Liu
-  - Alan A. Alfieri
+  - Ira J. Fox
+  - Jayanta Roy-Chowdhury
+  - Namita Roy-Chowdhury
   - Chandan Guha
   publisher: PLoS ONE
-  date: '2011-09-15'
-  link: https://doi.org/ds2775
+  date: '2012-10-16'
+  link: https://doi.org/gtkh79
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4932,25 +5493,36 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1172/jci45260
-  title: "Spontaneous hepatic repopulation in transgenic mice expressing mutant human\
-    \ \u03B11-antitrypsin by wild-type donor hepatocytes"
+- id: doi:10.1371/journal.pone.0029357
+  title: TLR9 Agonist Protects Mice from Radiation-Induced Gastrointestinal Syndrome
   authors:
-  - Jianqiang Ding
-  - Govardhana R. Yannam
-  - Namita Roy-Chowdhury
-  - Tunda Hidvegi
-  - Hesham Basma
-  - Stephen I. Rennard
-  - Ronald J. Wong
-  - Yesim Avsar
+  - Subhrajit Saha
+  - Payel Bhanja
+  - Laibin Liu
+  - Alan A. Alfieri
+  - Dong Yu
+  - Ekambar R. Kandimalla
+  - Sudhir Agrawal
   - Chandan Guha
-  - David H. Perlmutter
-  - Ira J. Fox
-  - Jayanta Roy-Chowdhury
-  publisher: Journal of Clinical Investigation
-  date: '2011-05-02'
-  link: https://doi.org/fgqvg8
+  publisher: PLoS ONE
+  date: '2012-01-04'
+  link: https://doi.org/fxqx6q
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0024072
+  title: Bone Marrow Stromal Cell Transplantation Mitigates Radiation-Induced Gastrointestinal
+    Syndrome in Mice
+  authors:
+  - Subhrajit Saha
+  - Payel Bhanja
+  - Rafi Kabarriti
+  - Laibin Liu
+  - Alan A. Alfieri
+  - Chandan Guha
+  publisher: PLoS ONE
+  date: '2011-09-15'
+  link: https://doi.org/ds2775
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -4976,7 +5548,7 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1074/jbc.m110.198374
+- id: doi:10.1074/jbc.M110.198374
   title: "Growth and Metastases of Human Lung Cancer Are Inhibited in Mouse Xenografts\
     \ by a Transition State Analogue of 5\u2032-Methylthioadenosine Phosphorylase"
   authors:
@@ -4993,6 +5565,56 @@
   publisher: Journal of Biological Chemistry
   date: '2011-02-01'
   link: https://doi.org/dbjg38
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.semradonc.2011.05.003
+  title: 'Hepatic Radiation Toxicity: Avoidance and Amelioration'
+  authors:
+  - Chandan Guha
+  - Brian D. Kavanagh
+  publisher: Seminars in Radiation Oncology
+  date: '2011-10-01'
+  link: https://doi.org/fwx26f
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.3607918
+  title: Immune System Modulation with LOFU And HIFU Treatment of Prostate Cancer
+  authors:
+  - C. Guha
+  - Z. Huagang
+  - W. Chen
+  - R. Carlosn
+  - N. T. Sanghvi
+  - Yoichiro Matsumoto
+  - Lawrence A. Crum
+  - Gail Reinette ter Haar
+  publisher: AIP Conference Proceedings
+  date: '2011-01-01'
+  link: https://doi.org/fpc23p
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1172/JCI45260
+  title: "Spontaneous hepatic repopulation in transgenic mice expressing mutant human\
+    \ \u03B11-antitrypsin by wild-type donor hepatocytes"
+  authors:
+  - Jianqiang Ding
+  - Govardhana R. Yannam
+  - Namita Roy-Chowdhury
+  - Tunda Hidvegi
+  - Hesham Basma
+  - Stephen I. Rennard
+  - Ronald J. Wong
+  - Yesim Avsar
+  - Chandan Guha
+  - David H. Perlmutter
+  - Ira J. Fox
+  - Jayanta Roy-Chowdhury
+  publisher: Journal of Clinical Investigation
+  date: '2011-05-02'
+  link: https://doi.org/fgqvg8
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5035,7 +5657,7 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/1748-717x-5-48
+- id: doi:10.1186/1748-717X-5-48
   title: 'Biological impact of geometric uncertainties: what margin is needed for
     intra-hepatic tumors?'
   authors:
@@ -5054,43 +5676,26 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pone.0008014
-  title: Protective Role of R-spondin1, an Intestinal Stem Cell Growth Factor, against
-    Radiation-Induced Gastrointestinal Syndrome in Mice
+- id: doi:10.1200/JCO.2009.24.5639
+  title: 'Cellular Histone Modification Patterns Predict Prognosis and Treatment Response
+    in Resectable Pancreatic Adenocarcinoma: Results From RTOG 9704'
   authors:
-  - Payel Bhanja
-  - Subhrajit Saha
-  - Rafi Kabarriti
-  - Laibin Liu
-  - Namita Roy-Chowdhury
-  - Jayanta Roy-Chowdhury
-  - Rani S. Sellers
-  - Alan A. Alfieri
-  - Chandan Guha
-  publisher: PLoS ONE
-  date: '2009-11-24'
-  link: https://doi.org/fpk4ng
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1002/hep.23060
-  title: 'Long-term reduction of jaundice in Gunn rats by nonviral liver-targeted
-    delivery of Sleeping Beauty transposon #'
-  authors:
-  - Xia Wang
-  - Debi P. Sarkar
-  - Prashant Mani
-  - Clifford J. Steer
-  - Yong Chen
-  - Chandan Guha
-  - Voshavar Chandrasekhar
-  - Arabinda Chaudhuri
-  - Namita Roy-Chowdhury
-  - Betsy T. Kren
-  - Jayanta Roy-Chowdhury
-  publisher: Hepatology
-  date: '2009-09-01'
-  link: https://doi.org/bchcd3
+  - Ananya Manuyakorn
+  - Rebecca Paulus
+  - James Farrell
+  - Nicole A. Dawson
+  - Sheila Tze
+  - Gardenia Cheung-Lau
+  - Oscar Joe Hines
+  - Howard Reber
+  - David B. Seligson
+  - Steve Horvath
+  - Siavash K. Kurdistani
+  - Chandhan Guha
+  - David W. Dawson
+  publisher: Journal of Clinical Oncology
+  date: '2010-03-10'
+  link: https://doi.org/cw7ms3
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5118,6 +5723,27 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1002/hep.23060
+  title: 'Long-term reduction of jaundice in Gunn rats by nonviral liver-targeted
+    delivery of Sleeping Beauty transposon #'
+  authors:
+  - Xia Wang
+  - Debi P. Sarkar
+  - Prashant Mani
+  - Clifford J. Steer
+  - Yong Chen
+  - Chandan Guha
+  - Voshavar Chandrasekhar
+  - Arabinda Chaudhuri
+  - Namita Roy-Chowdhury
+  - Betsy T. Kren
+  - Jayanta Roy-Chowdhury
+  publisher: Hepatology
+  date: '2009-09-01'
+  link: https://doi.org/bchcd3
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.meddos.2008.11.001
   title: Obtaining Normal Tissue Constraints Using Intensity Modulated Radiotherapy
     (IMRT) in Patients with Oral Cavity, Oropharnygeal, and Laryngeal Carcinoma
@@ -5134,23 +5760,38 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.radonc.2008.07.025
-  title: 'ICRU reference dose in an era of intensity-modulated radiation therapy clinical
-    trials: Correlation with planning target volume mean dose and suitability for
-    intensity-modulated radiation therapy dose prescription'
+- id: doi:10.1371/journal.pone.0008014
+  title: Protective Role of R-spondin1, an Intestinal Stem Cell Growth Factor, against
+    Radiation-Induced Gastrointestinal Syndrome in Mice
   authors:
-  - Ravindra Yaparpalvi
-  - Linda Hong
-  - Dennis Mah
-  - Jin Shen
-  - Subhakar Mutyala
-  - Marnee Spierer
-  - Madhur Garg
+  - Payel Bhanja
+  - Subhrajit Saha
+  - Rafi Kabarriti
+  - Laibin Liu
+  - Namita Roy-Chowdhury
+  - Jayanta Roy-Chowdhury
+  - Rani S. Sellers
+  - Alan A. Alfieri
   - Chandan Guha
-  - Shalom Kalnicki
-  publisher: Radiotherapy and Oncology
-  date: '2008-12-01'
-  link: https://doi.org/cfjg7p
+  publisher: PLoS ONE
+  date: '2009-11-24'
+  link: https://doi.org/fpk4ng
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1118/1.3181883
+  title: "SU\u2010FF\u2010T\u2010401: Monte Carlo Simulation of Batch Assay of Iodine\u2010\
+    125 Seeds Preloaded in Unshielded Cartridges"
+  authors:
+  - C Chen
+  - R Yaparpalvi
+  - H Kuo
+  - S Tsai
+  - C Guha
+  - D Mah
+  publisher: Medical Physics
+  date: '2009-06-01'
+  link: https://doi.org/dszctc
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5168,20 +5809,19 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.canlet.2008.05.026
-  title: "Hyperthermia on immune regulation: A temperature\u2019s story"
+- id: doi:10.1016/j.critrevonc.2008.01.005
+  title: Conformal radiotherapy for hepatocellular carcinoma
   authors:
-  - Hua-Gang Zhang
-  - Keyur Mehta
-  - Patrice Cohen
+  - R.V. Tse
   - Chandan Guha
-  publisher: Cancer Letters
-  date: '2008-11-01'
-  link: https://doi.org/dphrkr
+  - L.A. Dawson
+  publisher: Critical Reviews in Oncology/Hematology
+  date: '2008-08-01'
+  link: https://doi.org/ds8z7t
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1097/tp.0b013e31816de49e
+- id: doi:10.1097/TP.0b013e31816de49e
   title: Correction of Hyperoxaluria by Liver Repopulation With Hepatocytes in a Mouse
     Model of Primary Hyperoxaluria Type-1
   authors:
@@ -5216,19 +5856,7 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.critrevonc.2008.01.005
-  title: Conformal radiotherapy for hepatocellular carcinoma
-  authors:
-  - R.V. Tse
-  - Chandan Guha
-  - L.A. Dawson
-  publisher: Critical Reviews in Oncology/Hematology
-  date: '2008-08-01'
-  link: https://doi.org/ds8z7t
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1097/ppo.0b013e31816a0e80
+- id: doi:10.1097/PPO.0b013e31816a0e80
   title: 'Hepatocellular Carcinoma: Radiation Therapy'
   authors:
   - Laura A. Dawson
@@ -5239,17 +5867,36 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1053/j.semnuclmed.2007.12.001
-  title: 'Tumor Biology-Guided Radiotherapy Treatment Planning: Gross Tumor Volume
-    Versus Functional Tumor Volume'
+- id: doi:10.1016/j.canlet.2008.05.026
+  title: "Hyperthermia on immune regulation: A temperature\u2019s story"
   authors:
+  - Hua-Gang Zhang
+  - Keyur Mehta
+  - Patrice Cohen
   - Chandan Guha
-  - Alan Alfieri
-  - M. Donald Blaufox
+  publisher: Cancer Letters
+  date: '2008-11-01'
+  link: https://doi.org/dphrkr
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.radonc.2008.07.025
+  title: 'ICRU reference dose in an era of intensity-modulated radiation therapy clinical
+    trials: Correlation with planning target volume mean dose and suitability for
+    intensity-modulated radiation therapy dose prescription'
+  authors:
+  - Ravindra Yaparpalvi
+  - Linda Hong
+  - Dennis Mah
+  - Jin Shen
+  - Subhakar Mutyala
+  - Marnee Spierer
+  - Madhur Garg
+  - Chandan Guha
   - Shalom Kalnicki
-  publisher: Seminars in Nuclear Medicine
-  date: '2008-03-01'
-  link: https://doi.org/fg3qxg
+  publisher: Radiotherapy and Oncology
+  date: '2008-12-01'
+  link: https://doi.org/cfjg7p
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5266,6 +5913,15 @@
   publisher: Hepatology
   date: '2008-02-01'
   link: https://doi.org/dfsdwc
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-52649153457
+  title: 'Synergizing radiation therapy and immunotherapy for curing incurable cancers:
+    Opportunities and challenges'
+  publisher: Oncology
+  date: '2025-08-31'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-52649153457&partnerID=MN8TOARS
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5287,7 +5943,37 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1158/0008-5472.can-07-0203
+- id: doi:10.1053/j.semnuclmed.2007.12.001
+  title: 'Tumor Biology-Guided Radiotherapy Treatment Planning: Gross Tumor Volume
+    Versus Functional Tumor Volume'
+  authors:
+  - Chandan Guha
+  - Alan Alfieri
+  - M. Donald Blaufox
+  - Shalom Kalnicki
+  publisher: Seminars in Nuclear Medicine
+  date: '2008-03-01'
+  link: https://doi.org/fg3qxg
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.M702287200
+  title: "A Transition State Analogue of 5\u2032-Methylthioadenosine Phosphorylase\
+    \ Induces Apoptosis in Head and Neck Cancers"
+  authors:
+  - Indranil Basu
+  - Grace Cordovano
+  - Ishita Das
+  - Thomas J. Belbin
+  - Chandan Guha
+  - Vern L. Schramm
+  publisher: Journal of Biological Chemistry
+  date: '2007-07-01'
+  link: https://doi.org/cfdtmv
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.CAN-07-0203
   title: Localized Hyperthermia Combined with Intratumoral Dendritic Cells Induces
     Systemic Antitumor Immunity
   authors:
@@ -5302,22 +5988,6 @@
   publisher: Cancer Research
   date: '2007-08-15'
   link: https://doi.org/fwgjth
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1074/jbc.m702287200
-  title: "A Transition State Analogue of 5\u2032-Methylthioadenosine Phosphorylase\
-    \ Induces Apoptosis in Head and Neck Cancers"
-  authors:
-  - Indranil Basu
-  - Grace Cordovano
-  - Ishita Das
-  - Thomas J. Belbin
-  - Chandan Guha
-  - Vern L. Schramm
-  publisher: Journal of Biological Chemistry
-  date: '2007-07-01'
-  link: https://doi.org/cfdtmv
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5338,23 +6008,17 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/hep.21382
-  title: Noninvasive evaluation of liver repopulation by transplanted hepatocytes
-    using 31P MRS imaging in mice
+- id: doi:10.1007/978-3-540-69886-9_4
+  title: The Radiobiological Rationale for Hypofractionation of Lung and Liver Tumors
   authors:
-  - Charles S. Landis
-  - Kosho Yamanouchi
-  - Hongchao Zhou
-  - Sankar Mohan
-  - Namita Roy-Chowdhury
-  - David A. Shafritz
-  - Alan Koretsky
-  - Jayanta Roy-Chowdhury
-  - Hoby P. Hetherington
+  - Alan Alfieri
+  - Jill Rossinow
+  - Madhur Garg
+  - Shalom Kalnicki
   - Chandan Guha
-  publisher: Hepatology
-  date: '2006-11-01'
-  link: https://doi.org/dwsf5b
+  publisher: Treating Tumors that Move with Respiration
+  date: '2007-01-01'
+  link: https://doi.org/c269kx
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5378,20 +6042,37 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1042/bj20050381
-  title: Role of cysteine residues in the function of human UDP glucuronosyltransferase
-    isoform 1A1 (UGT1A1)
+- id: doi:10.1002/hep.21382
+  title: Noninvasive evaluation of liver repopulation by transplanted hepatocytes
+    using 31P MRS imaging in mice
   authors:
-  - "Siddhartha\_S. Ghosh"
-  - Yang Lu
-  - "Sung\_W. Lee"
-  - Xia Wang
-  - Chandan Guha
-  - Jayanta Roy-Chowdhury
+  - Charles S. Landis
+  - Kosho Yamanouchi
+  - Hongchao Zhou
+  - Sankar Mohan
   - Namita Roy-Chowdhury
-  publisher: Biochemical Journal
-  date: '2005-12-06'
-  link: https://doi.org/fpbrfv
+  - David A. Shafritz
+  - Alan Koretsky
+  - Jayanta Roy-Chowdhury
+  - Hoby P. Hetherington
+  - Chandan Guha
+  publisher: Hepatology
+  date: '2006-11-01'
+  link: https://doi.org/dwsf5b
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/laban0205-39
+  title: 'Cell Culture Models and Animal Models of Viral Hepatitis. Part II: Hepatitis
+    C'
+  authors:
+  - Chandan Guha
+  - Sung-W Lee
+  - Namita Roy Chowdhury
+  - Jayanta Roy Chowdhury
+  publisher: Lab Animal
+  date: '2005-02-01'
+  link: https://doi.org/bcfxwh
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5413,20 +6094,6 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/laban0205-39
-  title: 'Cell Culture Models and Animal Models of Viral Hepatitis. Part II: Hepatitis
-    C'
-  authors:
-  - Chandan Guha
-  - Sung-W Lee
-  - Namita Roy Chowdhury
-  - Jayanta Roy Chowdhury
-  publisher: Lab Animal
-  date: '2005-02-01'
-  link: https://doi.org/bcfxwh
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1007/s00595-005-3024-5
   title: 'Liver Repopulation: A New Concept of Hepatocyte Transplantation'
   authors:
@@ -5442,16 +6109,39 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/laban0704-37
-  title: 'Cell Culture and Animal Models of Viral Hepatitis. Part I: Hepatitis B'
+- id: doi:10.1042/BJ20050381
+  title: Role of cysteine residues in the function of human UDP glucuronosyltransferase
+    isoform 1A1 (UGT1A1)
   authors:
+  - "Siddhartha\_S. Ghosh"
+  - Yang Lu
+  - "Sung\_W. Lee"
+  - Xia Wang
   - Chandan Guha
-  - Sankar Mohan
-  - Namita Roy-Chowdhury
   - Jayanta Roy-Chowdhury
-  publisher: Lab Animal
-  date: '2004-07-01'
-  link: https://doi.org/bxqhtz
+  - Namita Roy-Chowdhury
+  publisher: Biochemical Journal
+  date: '2005-12-06'
+  link: https://doi.org/fpbrfv
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1118/1.1997696
+  title: "SU\u2010FF\u2010T\u201025: Comparison of Intra\u2010Operative Computer Optimized\
+    \ and Nomogram\u2010Based Total Implant Activities in Prostate I\u2010125 Seed\
+    \ Implants"
+  authors:
+  - R Yaparpalvi
+  - C Guha
+  - N Kahan
+  - L Minsky
+  - A Danish
+  - S Shah
+  - M Engler
+  - S Kalnicki
+  publisher: Medical Physics
+  date: '2005-05-26'
+  link: https://doi.org/bwcp6n
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5474,7 +6164,20 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1200/jco.2004.01.227
+- id: doi:10.1038/laban0704-37
+  title: 'Cell Culture and Animal Models of Viral Hepatitis. Part I: Hepatitis B'
+  authors:
+  - Chandan Guha
+  - Sankar Mohan
+  - Namita Roy-Chowdhury
+  - Jayanta Roy-Chowdhury
+  publisher: Lab Animal
+  date: '2004-07-01'
+  link: https://doi.org/bxqhtz
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1200/JCO.2004.01.227
   title: 'TNFerade Biologic, an Adenovector With a Radiation-Inducible Promoter, Carrying
     the Human Tumor Necrosis Factor Alpha Gene: A Phase I Study in Patients With Solid
     Tumors'
@@ -5496,6 +6199,26 @@
   publisher: Journal of Clinical Oncology
   date: '2004-02-15'
   link: https://doi.org/cd9q4p
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/sj.gt.3301909
+  title: A novel strategy for in vivo expansion of transplanted hepatocytes using
+    preparative hepatic irradiation and FasL-induced hepatocellular apoptosis
+  authors:
+  - M Takahashi
+  - N J Deb
+  - Y Kawashita
+  - S W Lee
+  - J Furgueil
+  - T Okuyama
+  - N Roy-Chowdhury
+  - B Vikram
+  - J Roy-Chowdhury
+  - C Guha
+  publisher: Gene Therapy
+  date: '2003-02-01'
+  link: https://doi.org/bmbkh4
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5522,7 +6245,22 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/s0360-3016(03)00531-5
+- id: doi:10.2165/00063030-200317020-00001
+  title: Molecular Therapies for Viral Hepatitis
+  authors:
+  - Chandan Guha
+  - Shalin J. Shah
+  - Siddhartha S. Ghosh
+  - Sung W. Lee
+  - Namita Roy-Chowdhury
+  - Jayanta Roy-Chowdhury
+  publisher: BioDrugs
+  date: '2003-01-01'
+  link: https://doi.org/dmxqzm
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0360-3016(03)00531-5
   title: Patterns of failure after the multimodality treatment of uterine papillary
     serous carcinoma
   authors:
@@ -5542,36 +6280,14 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.2165/00063030-200317020-00001
-  title: Molecular Therapies for Viral Hepatitis
+- id: doi:10.1016/S0168-8278(02)00027-2
+  title: A long-awaited small animal model for hepatitis C
   authors:
   - Chandan Guha
-  - Shalin J. Shah
-  - Siddhartha S. Ghosh
-  - Sung W. Lee
-  - Namita Roy-Chowdhury
-  - Jayanta Roy-Chowdhury
-  publisher: BioDrugs
-  date: '2003-01-01'
-  link: https://doi.org/dmxqzm
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/s0360-3016(02)03051-1
-  title: Predictive value of linear-quadratic model in the treatment of cervical cancer
-    using high-dose-rate brachytherapy
-  authors:
-  - Brij Sood
-  - Madhur Garg
-  - Jai Avadhani
-  - Giridhar Gorla
-  - Harish Malhotra
-  - Chandan Guha
-  - Shivaji Deore
-  - Bhadrasain Vikram
-  publisher: International Journal of Radiation Oncology*Biology*Physics
-  date: '2002-12-01'
-  link: https://doi.org/fkx23h
+  - Jayanta Roy Chowdhury
+  publisher: Journal of Hepatology
+  date: '2002-03-01'
+  link: https://doi.org/cdn5gg
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5604,17 +6320,256 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/s0168-8278(02)00027-2
-  title: A long-awaited small animal model for hepatitis C
+- id: doi:10.1016/S0360-3016(02)03051-1
+  title: Predictive value of linear-quadratic model in the treatment of cervical cancer
+    using high-dose-rate brachytherapy
   authors:
+  - Brij Sood
+  - Madhur Garg
+  - Jai Avadhani
+  - Giridhar Gorla
+  - Harish Malhotra
   - Chandan Guha
-  - Jayanta Roy Chowdhury
-  publisher: Journal of Hepatology
-  date: '2002-03-01'
-  link: https://doi.org/cdn5gg
+  - Shivaji Deore
+  - Bhadrasain Vikram
+  publisher: International Journal of Radiation Oncology*Biology*Physics
+  date: '2002-12-01'
+  link: https://doi.org/fkx23h
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1046/j.1525-1594.2001.025007522.x
+  title: Amplification of Engrafted Hepatocytes by Preparative Manipulation of the
+    Host Liver
+  authors:
+  - Chandan Guha
+  - Niloy J. Deb
+  - Baljit S. Sappal
+  - Siddhartha S. Ghosh
+  - "Namita Roy\u2010Chowdhury"
+  - "Jayanta Roy\u2010Chowdhury"
+  publisher: Artificial Organs
+  date: '2001-07-01'
+  link: https://doi.org/cg5svk
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s005340170050
+  title: Hepatocyte-based gene therapy
+  authors:
+  - Chandan Guha
+  - Namita Roy-Chowdhury
+  - Hugo Jauregui
+  - Jayanta Roy-Chowdhury
+  publisher: Journal of Hepato-Biliary-Pancreatic Surgery
+  date: '2001-02-28'
+  link: https://doi.org/bwsmvb
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0360-3016(00)01495-4
+  title: 'Liver irradiation: a potential preparative regimen for hepatocyte transplantation'
+  authors:
+  - Chandan Guha
+  - Bhupesh Parashar
+  - Niloy J Deb
+  - Anand Sharma
+  - Giridhar R Gorla
+  - Alan Alfieri
+  - Namita Roy-Chowdhury
+  - Jayanta Roy-Chowdhury
+  - Bhadrasain Vikram
+  publisher: International Journal of Radiation Oncology*Biology*Physics
+  date: '2001-02-01'
+  link: https://doi.org/bvk869
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/sj.cgt.0243
+  title: Adenovirus-mediated antisense ATM gene transfer sensitizes prostate cancer
+    cells to radiation
+  authors:
+  - Zuoheng Fan
+  - Prabir Chakravarty
+  - Alan Alfieri
+  - Tej K Pandita
+  - Bhadrasain Vikram
+  - Chandan Guha
+  publisher: Cancer Gene Therapy
+  date: '2000-10-01'
+  link: https://doi.org/cvgqg7
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/sj.gt.3301174
+  title: 'Antisense ATM gene therapy: a strategy to increase the radiosensitivity
+    of human tumors'
+  authors:
+  - C Guha
+  - U Guha
+  - S Tribius
+  - A Alfieri
+  - D Casper
+  - P Chakravarty
+  - W Mellado
+  - T K Pandita
+  - B Vikram
+  publisher: Gene Therapy
+  date: '2000-05-01'
+  link: https://doi.org/csxcg7
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0168-8278(00)80109-9
+  title: Recombinant adenoassociated virus in cancer gene therapy
+  authors:
+  - Chandan Guha
+  - Namita Roy Chowdhury
+  - Jayanta Roy Chowdhury
+  publisher: Journal of Hepatology
+  date: '2000-06-01'
+  link: https://doi.org/bpv2rz
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hep.510320240
+  title: 'Reversibly immortalized human hepatocytes: An eternal fountain of liver
+    support?'
+  authors:
+  - Chandan Guha
+  - Namita Roy Chowdhury
+  - Jayanta Roy Chowdhury
+  publisher: Hepatology
+  date: '2000-08-01'
+  link: https://doi.org/bjntgj
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-0033431693
+  title: Amelioration of radiation-induced liver damage in partially hepatectomized
+    rats by hepatocyte transplantation
+  publisher: Cancer Research
+  date: '2025-08-31'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0033431693&partnerID=MN8TOARS
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-0033572416
+  title: Flt3-ligand administration after radiation therapy prolongs survival in a
+    murine model of metastatic lung cancer
+  publisher: Cancer Research
+  date: '2025-08-31'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0033572416&partnerID=MN8TOARS
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/00003072-199903000-00021
+  title: Internal Mammary Nodal Metastases From Breast Cancer Detected by Scintimammography
+  authors:
+  - PARTHA SINHA
+  - PETER P. LAI
+  - CHANDIN GUHA
+  - JOSEPHINE CHO
+  - LEONARD M. FREEMAN
+  publisher: Clinical Nuclear Medicine
+  date: '1999-03-01'
+  link: https://doi.org/b6sw9t
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/00007890-199707150-00003
+  title: MASSIVE REPOPULATION OF RAT LIVER BY TRANSPLANTATION OF HEPATOCYTES INTO
+    SPECIFIC LOBES OF THE LIVER AND LIGATION OF PORTAL VEIN BRANCHES TO OTHER LOBES1
+  authors:
+  - Yaron Ilan
+  - Namita Roy Chowdhury
+  - Renu Prakash
+  - Vinod Jona
+  - Preeti Attavar
+  - Chandan Guha
+  - Kouji Tada
+  - Jayanta Roy Chowdhury
+  publisher: Transplantation
+  date: '1997-07-01'
+  link: https://doi.org/bvk8n3
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/0270-9139(95)90221-X
+  title: 'Adenovirus-mediated gene transfer in the transplant setting. Part III. Variables
+    affecting gene transfer in liver grafts Drazan KE, Wu L, Shen X, Bullington D,
+    Jurim O, Busuttil RW, Shaked A. Transplantation 1995; 59: 670?673'
+  authors:
+  - C GUHA
+  publisher: Hepatology
+  date: '1995-12-01'
+  link: https://doi.org/fpcr6c
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/0270-9139(95)90220-1
+  title: 'Keratinocyte growth factor induces proliferation of hepatocytes and epithelial
+    cells throughout the rat gastrointestinal tract Housley RM, Morris CF, Boyle W,
+    Ring B, Biltz R, Tarpley JE, Aukerman SL, et al. J Clin Invest 1994; 94: 1764?1777'
+  authors:
+  - A DIEHL
+  publisher: Hepatology
+  date: '1995-12-01'
+  link: https://doi.org/dbv5qv
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/0270-9139(95)90474-3
+  title: 'Regulation of human Gc (vitamin d?binding) protein levels: Hormonal and
+    cytokine control of gene expression in vitro*1'
+  authors:
+  - C GUHA
+  publisher: Hepatology
+  date: '1995-06-01'
+  link: https://doi.org/bh27rk
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-0027366342
+  title: 'The vitamin D-binding protein gene: Quantitation of amplified nucleic acids
+    by ELISA'
+  publisher: Biotechniques
+  date: '2025-08-31'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0027366342&partnerID=MN8TOARS
+  orcid: 0000-0002-1906-2186
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.can-22-0656
+  title: "Orthovoltage X-Rays Exhibit Increased Efficacy Compared with \u03B3-Rays\
+    \ in Preclinical Irradiation"
+  authors:
+  - Brett I. Bell
+  - Justin Vercellino
+  - N. Patrik Brodin
+  - Christian Velten
+  - Lalitha S.Y. Nanduri
+  - Prashanth K.B. Nagesh
+  - Kathryn E. Tanaka
+  - Yanan Fang
+  - Yanhua Wang
+  - Rodney Macedo
+  - Jeb English
+  - Michelle M. Schumacher
+  - Phaneendra K. Duddempudi
+  - Patrik Asp
+  - Wade Koba
+  - Shahin Shajahan
+  - Laibin Liu
+  - "Wolfgang A. Tom\xE9"
+  - Weng-Lang Yang
+  - Richard Kolesnick
+  - Chandan Guha
+  publisher: Cancer Research
+  date: '2022-08-03'
+  link: https://doi.org/gtkh53
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/issue/82/15/2/m_canres_82_15_cover.png?Expires=1712534177&Signature=PPO2tJ7xS4xzDMN4lnC1-5wrEpG01J1wW5X09DsMiNwZYs5mOngadVtVtyplcxKi~QasUlD0JGVoCnFtHqR2DZZD9zcZL49ZgjJutI7hE0HWm2wYjhi~QF93SUm9UKbirJx4ZYQumV2eY5ZpIzbkgmVAXhNHUZ~bmRXxBp4QZFQ4tA19REePGRRuiNKpGTUYwdZ71DG8f5NThQksSwR9IPLnNS64tjycIjMQVK6X5doQV0Fv9SfAhatXHm-XITHj-KB9jvEQwgYou22pXZPqo3hr7V1tSKc4w9VH0G3ESycQoKYXguwx~7hafBIX4RyL7h-VxAaXkpKrL-WRsi6Wtg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  plugin: sources.py
+  file: sources.yaml
 - id: http:https://www.frontiersin.org/journals/acoustics/articles/10.3389/facou.2025.1616297/abstract
   title: ''
   authors: []
