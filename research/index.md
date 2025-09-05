@@ -20,6 +20,8 @@ Our lab focuses on radiation biology and tumor immunology with the goal of impro
 
 {% include citation.html lookup="Thrombopoietin mimetic reduces mouse lung inflammation and fibrosis after radiation by attenuating activated endothelial phenotypes" style="rich" %}
 
+{% include citation.html lookup="Enhancing tumoricidal effects of radiation therapy with low-intensity focused ultrasound in murine breast cancers" style="rich" %}
+
 ## Our Published Works
 
 {% include search-box.html %}

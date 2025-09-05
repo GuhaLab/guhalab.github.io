@@ -1,5 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.3389/facou.2025.1616297
+  title: Enhancing tumoricidal effects of radiation therapy with low-intensity focused
+    ultrasound in murine breast cancers
+  authors:
+  - Michelle Marie Schumacher
+  - Claudia Gutierrez Chavez
+  - Beata Malachowska
+  - Sanjay Pandey
+  - Tatyana Tchaikovskaya
+  - Saurabh Singh
+  - Steve Barry
+  - Rodney Macedo
+  - Chandan Guha
+  publisher: Frontiers in Acoustics
+  date: '2025-09-02'
+  link: https://doi.org/g92p48
+  orcid: 0000-0002-1906-2186
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.frontiersin.org/files/Articles/1616297/facou-03-1616297-HTML-r1/image_m/facou-03-1616297-g001.jpg
 - id: doi:10.1038/s41586-025-09462-5
   title: Haematopoietic stem cell number is not solely defined by niche availability
   authors:
@@ -507,7 +527,7 @@
   orcid: 0000-0002-1906-2186
   plugin: sources.py
   file: sources.yaml
-  image: https://www.redjournal.org/cms/asset/84b43ee8-be65-4f72-acfc-8f0faaa242c3/cov200h.gif
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0360301624X00164-cov200h.gif
 - id: doi:10.1101/2024.07.08.602528
   title: FLASH proton reirradiation, with or without hypofractionation, mitigates
     chronic toxicity in the normal murine intestine, skin, and bone
@@ -990,7 +1010,7 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/s41598-022-21726-y
+- id: doi:10.21203/rs.3.rs-1733631/v1
   title: Circulating microvesicles correlate with radiation proctitis complication
     after radiotherapy
   authors:
@@ -1005,13 +1025,13 @@
   - Chandan Guha
   - Marc Benderitter
   - Romaric Lacroix
-  - Stephane Flamant
+  - Stephane FLAMANT
   - Emily I. Chen
   - Jean-Marc Simon
   - Radia Tamarat
-  publisher: Scientific Reports
-  date: '2023-02-04'
-  link: https://doi.org/gtkh5v
+  publisher: Research Square Platform LLC
+  date: '2022-06-17'
+  link: https://doi.org/gtkh54
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -1254,31 +1274,6 @@
   publisher: Cells
   date: '2022-10-24'
   link: https://doi.org/grhqfm
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.21203/rs.3.rs-1733631/v1
-  title: Circulating microvesicles correlate with radiation proctitis complication
-    after radiotherapy
-  authors:
-  - Alexandre Ribault
-  - Mohamed Amine Benadjaoud
-  - Claire Squiban
-  - Laurent Arnaud
-  - Coralie Judicone
-  - "Aur\xE9lie S. Leroyer"
-  - Alexandra Rousseau
-  - Christelle Huet
-  - Chandan Guha
-  - Marc Benderitter
-  - Romaric Lacroix
-  - Stephane FLAMANT
-  - Emily I. Chen
-  - Jean-Marc Simon
-  - Radia Tamarat
-  publisher: Research Square Platform LLC
-  date: '2022-06-17'
-  link: https://doi.org/gtkh54
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -6568,14 +6563,5 @@
   date: '2022-08-03'
   link: https://doi.org/gtkh53
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/issue/82/15/2/m_canres_82_15_cover.png?Expires=1712534177&Signature=PPO2tJ7xS4xzDMN4lnC1-5wrEpG01J1wW5X09DsMiNwZYs5mOngadVtVtyplcxKi~QasUlD0JGVoCnFtHqR2DZZD9zcZL49ZgjJutI7hE0HWm2wYjhi~QF93SUm9UKbirJx4ZYQumV2eY5ZpIzbkgmVAXhNHUZ~bmRXxBp4QZFQ4tA19REePGRRuiNKpGTUYwdZ71DG8f5NThQksSwR9IPLnNS64tjycIjMQVK6X5doQV0Fv9SfAhatXHm-XITHj-KB9jvEQwgYou22pXZPqo3hr7V1tSKc4w9VH0G3ESycQoKYXguwx~7hafBIX4RyL7h-VxAaXkpKrL-WRsi6Wtg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  plugin: sources.py
-  file: sources.yaml
-- id: http:https://www.frontiersin.org/journals/acoustics/articles/10.3389/facou.2025.1616297/abstract
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
-  link: http:https://www.frontiersin.org/journals/acoustics/articles/10.3389/facou.2025.1616297/abstract
-  image: null
   plugin: sources.py
   file: sources.yaml
