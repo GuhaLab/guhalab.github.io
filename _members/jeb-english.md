@@ -1,7 +1,8 @@
 ---
 name: Jeb English, Ph.D.
 image: images/jebenglish.jpeg
-role: postdoc
+role: phd
+group: alum
 aliases: Jeb English
 
 links:
