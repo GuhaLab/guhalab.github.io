@@ -1,7 +1,8 @@
 ---
 name: Justin Vercellino, Ph.D.
 image: images/justinvercellino1.jpg
-role: postdoc
+role: phd
+group: alum
 aliases: Justin Vercellino 
 
 links:
