@@ -12,3 +12,12 @@
 
 - id: doi:10.3389/facou.2025.1616297
   image: images/michelle2025.png
+
+- id: doi:10.1002/mp.16364
+  image: https://aapm.onlinelibrary.wiley.com/cms/asset/5e40ffa9-8b13-47e8-8bd7-70e959eabf88/mp.v50.7.cover.jpg
+
+- id: doi:10.1016/j.radonc.2024.110404
+  image: https://www.thegreenjournal.com/cms/asset/c702f18d-0109-4842-8a6e-a4af3067eda4/cov200h.gif
+
+- id: 10.1016/j.radonc.2025.110744
+  image: https://www.thegreenjournal.com/cms/asset/553c6c44-3baa-45d2-9cb8-45508b92d747/cov200h.gif

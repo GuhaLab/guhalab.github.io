@@ -90,7 +90,7 @@ Hepatocyte transplantation (HT) is a very attractive alternative to liver transp
 
 [![]()]()
 
-[![Varian](/images/varian.png)](https://www.varian.com/)
+
 
 {% endcapture %}
 
