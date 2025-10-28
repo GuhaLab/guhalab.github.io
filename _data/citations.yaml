@@ -19,7 +19,7 @@
   orcid: 0000-0002-1906-2186
   plugin: sources.py
   file: sources.yaml
-  image: https://www.frontiersin.org/files/Articles/1616297/facou-03-1616297-HTML-r1/image_m/facou-03-1616297-g001.jpg
+  image: images/michelle2025.png
 - id: doi:10.1038/s41586-025-09462-5
   title: Haematopoietic stem cell number is not solely defined by niche availability
   authors:
@@ -443,8 +443,9 @@
   date: '2024-11-08'
   link: https://doi.org/g8rgsv
   orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/jciinsightjeb.jpg
 - id: doi:10.1016/j.oraloncology.2024.107069
   title: Comprehensive functional evaluation of head and neck squamous cell carcinoma
     with BH3-profiling demonstrates apoptotic competency and therapeutic efficacy
@@ -663,8 +664,9 @@
   date: '2024-04-29'
   link: https://doi.org/gtsqzd
   orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/13287?as=webp
 - id: doi:10.1016/j.prro.2023.08.016
   title: 'Defining Minimum Treatment Parameters of Ablative Radiation Therapy in Patients
     With Hepatocellular Carcinoma: An Expert Consensus'
@@ -6562,6 +6564,6 @@
   publisher: Cancer Research
   date: '2022-08-03'
   link: https://doi.org/gtkh53
-  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/issue/82/15/2/m_canres_82_15_cover.png?Expires=1712534177&Signature=PPO2tJ7xS4xzDMN4lnC1-5wrEpG01J1wW5X09DsMiNwZYs5mOngadVtVtyplcxKi~QasUlD0JGVoCnFtHqR2DZZD9zcZL49ZgjJutI7hE0HWm2wYjhi~QF93SUm9UKbirJx4ZYQumV2eY5ZpIzbkgmVAXhNHUZ~bmRXxBp4QZFQ4tA19REePGRRuiNKpGTUYwdZ71DG8f5NThQksSwR9IPLnNS64tjycIjMQVK6X5doQV0Fv9SfAhatXHm-XITHj-KB9jvEQwgYou22pXZPqo3hr7V1tSKc4w9VH0G3ESycQoKYXguwx~7hafBIX4RyL7h-VxAaXkpKrL-WRsi6Wtg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/issue/82/15/2/m_canres_82_15_cover.png
   plugin: sources.py
   file: sources.yaml
