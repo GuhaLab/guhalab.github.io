@@ -362,15 +362,6 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-105011119367
-  title: Loss of CARM1 Alters the Developmental Programming of Glioma Stem-Like Cells
-    and Creates a Druggable NGFR/NTRK Dependency
-  publisher: Ssrn
-  date: '2025-08-31'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-105011119367&partnerID=MN8TOARS
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.ijrobp.2025.06.3881
   title: Prospective Phase 2 Clinical Trial of Carbon Ion Radiation Therapy Combined
     With Chemotherapy for Locally Advanced Pancreatic Carcinoma
@@ -1752,24 +1743,6 @@
   publisher: Practical Radiation Oncology
   date: '2021-03-01'
   link: https://doi.org/gtkh6g
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.21203/rs.2.23301/v3
-  title: Evaluating Dosimetric Constraints for Carbon Ion Radiotherapy in the Treatment
-    of Locally Advanced Pancreatic Cancer
-  authors:
-  - Lien-Chun Lin
-  - Guo-Liang Jiang
-  - Nitin Ohri
-  - Zheng Wang
-  - Jiade Lu
-  - Madhur Garg
-  - Chandan Guha
-  - XIAODONG Wu
-  publisher: Springer Science and Business Media LLC
-  date: '2020-03-17'
-  link: https://doi.org/gtkh6r
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -5803,11 +5776,11 @@
   - Jacques Neefjes
   - James L Gulley
   publisher: Oncology (Williston Park, N.Y.)
-  date: '2024-03-03'
-  link: http://europepmc.org/abstract/med/18777956
+  date: ''
+  link: https://europepmc.org/articles/PMC3474236
   orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.critrevonc.2008.01.005
   title: Conformal radiotherapy for hepatocellular carcinoma
   authors:
@@ -5912,15 +5885,6 @@
   publisher: Hepatology
   date: '2008-02-01'
   link: https://doi.org/dfsdwc
-  orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-52649153457
-  title: 'Synergizing radiation therapy and immunotherapy for curing incurable cancers:
-    Opportunities and challenges'
-  publisher: Oncology
-  date: '2025-08-31'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-52649153457&partnerID=MN8TOARS
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
@@ -6444,24 +6408,44 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-0033431693
+- id: pmid:10606225
   title: Amelioration of radiation-induced liver damage in partially hepatectomized
-    rats by hepatocyte transplantation
-  publisher: Cancer Research
-  date: '2025-08-31'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0033431693&partnerID=MN8TOARS
+    rats by hepatocyte transplantation.
+  authors:
+  - C Guha
+  - A Sharma
+  - S Gupta
+  - A Alfieri
+  - G R Gorla
+  - S Gagandeep
+  - R Sokhi
+  - N Roy-Chowdhury
+  - K E Tanaka
+  - B Vikram
+  - J Roy-Chowdhury
+  publisher: Cancer research
+  date: ''
+  link: https://www.ncbi.nlm.nih.gov/pubmed/10606225
   orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-0033572416
+  plugin: sources.py
+  file: sources.yaml
+- id: pmid:10626784
   title: Flt3-ligand administration after radiation therapy prolongs survival in a
-    murine model of metastatic lung cancer
-  publisher: Cancer Research
-  date: '2025-08-31'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0033572416&partnerID=MN8TOARS
+    murine model of metastatic lung cancer.
+  authors:
+  - P K Chakravarty
+  - A Alfieri
+  - E K Thomas
+  - V Beri
+  - K E Tanaka
+  - B Vikram
+  - C Guha
+  publisher: Cancer research
+  date: ''
+  link: https://aacrjournals.org/cancerres/article/59/24/6028/505689/Flt3-Ligand-Administration-after-Radiation-Therapy
   orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1097/00003072-199903000-00021
   title: Internal Mammary Nodal Metastases From Breast Cancer Detected by Scintimammography
   authors:
@@ -6529,15 +6513,21 @@
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-0027366342
-  title: 'The vitamin D-binding protein gene: Quantitation of amplified nucleic acids
-    by ELISA'
-  publisher: Biotechniques
-  date: '2025-08-31'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0027366342&partnerID=MN8TOARS
+- id: pmid:8251173
+  title: 'The vitamin D-binding protein gene: quantitation of amplified nucleic acids
+    by ELISA.'
+  authors:
+  - A R Sabbatini
+  - P A Werner
+  - C Guha
+  - G V Paddock
+  - R M Galbraith
+  publisher: BioTechniques
+  date: ''
+  link: https://www.ncbi.nlm.nih.gov/pubmed/8251173
   orcid: 0000-0002-1906-2186
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1158/0008-5472.can-22-0656
   title: "Orthovoltage X-Rays Exhibit Increased Efficacy Compared with \u03B3-Rays\
     \ in Preclinical Irradiation"
@@ -6600,68 +6590,5 @@
   date: '2025-04-01'
   link: https://doi.org/g9rx8q
   image: https://www.thegreenjournal.com/cms/asset/553c6c44-3baa-45d2-9cb8-45508b92d747/cov200h.gif
-  plugin: sources.py
-  file: sources.yaml
-- id: pubmed:8251173
-  title: 'The vitamin D-binding protein gene: quantitation of amplified nucleic acids
-    by ELISA.'
-  authors:
-  - A R Sabbatini
-  - P A Werner
-  - C Guha
-  - G V Paddock
-  - R M Galbraith
-  publisher: BioTechniques
-  date: ''
-  link: https://www.ncbi.nlm.nih.gov/pubmed/8251173
-  plugin: sources.py
-  file: sources.yaml
-- id: pubmed:10626784
-  title: Flt3-ligand administration after radiation therapy prolongs survival in a
-    murine model of metastatic lung cancer.
-  authors:
-  - P K Chakravarty
-  - A Alfieri
-  - E K Thomas
-  - V Beri
-  - K E Tanaka
-  - B Vikram
-  - C Guha
-  publisher: Cancer research
-  date: ''
-  link: https://www.ncbi.nlm.nih.gov/pubmed/10626784
-  plugin: sources.py
-  file: sources.yaml
-- id: pubmed:10606225
-  title: Amelioration of radiation-induced liver damage in partially hepatectomized
-    rats by hepatocyte transplantation.
-  authors:
-  - C Guha
-  - A Sharma
-  - S Gupta
-  - A Alfieri
-  - G R Gorla
-  - S Gagandeep
-  - R Sokhi
-  - N Roy-Chowdhury
-  - K E Tanaka
-  - B Vikram
-  - J Roy-Chowdhury
-  publisher: Cancer research
-  date: ''
-  link: https://www.ncbi.nlm.nih.gov/pubmed/10606225
-  plugin: sources.py
-  file: sources.yaml
-- id: pubmed:18777956
-  title: Synergizing radiation therapy and immunotherapy for curing incurable cancers.
-    Opportunities and challenges.
-  authors:
-  - James W Hodge
-  - Chandan Guha
-  - Jacques Neefjes
-  - James L Gulley
-  publisher: Oncology (Williston Park, N.Y.)
-  date: ''
-  link: https://www.ncbi.nlm.nih.gov/pubmed/18777956
   plugin: sources.py
   file: sources.yaml
