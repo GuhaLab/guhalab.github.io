@@ -104,7 +104,7 @@
   - Richard E. Phillips
   - Chandan Guha
   - Simone Sidoli
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-04-17'
   link: https://doi.org/g9gf67
   orcid: 0000-0002-1906-2186
@@ -145,7 +145,7 @@
   - XingXing Zang
   - Ian F. Parney
   - Benjamin T. Himes
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-04-25'
   link: https://doi.org/g9rx8p
   orcid: 0000-0002-1906-2186
@@ -178,7 +178,7 @@
   - Maria Hawkins
   - Charles B. Simone
   publisher: International Journal of Radiation Oncology*Biology*Physics
-  date: '2025-03-01'
+  date: '2025-09-01'
   link: https://doi.org/g9gf68
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
@@ -231,7 +231,7 @@
   - Josephine R Giles
   - Chandan Guha
   - E. John Wherry
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-02-02'
   link: https://doi.org/g9gf7b
   orcid: 0000-0002-1906-2186
@@ -357,7 +357,7 @@
   - Chandan Guha
   - Jayanta Roy-Chowdhury
   publisher: Clinics in Liver Disease
-  date: '2025-08-01'
+  date: '2025-11-01'
   link: https://doi.org/g9zzkh
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
@@ -382,7 +382,7 @@
   - Guo-Liang Jiang
   - Zheng Wang
   publisher: International Journal of Radiation Oncology*Biology*Physics
-  date: '2025-07-01'
+  date: '2025-11-01'
   link: https://doi.org/g9zzkj
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
@@ -547,7 +547,7 @@
   - Keith A. Cengel
   - Constantinos Koumenis
   - Theresa M. Busch
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-07-11'
   link: https://doi.org/gt5kc4
   orcid: 0000-0002-1906-2186
@@ -923,7 +923,7 @@
   - Paul S. Frenette
   - Kira Gritsman
   - Ulrich Steidl
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-10-29'
   link: https://doi.org/gtkh5p
   orcid: 0000-0002-1906-2186
@@ -1114,7 +1114,7 @@
   - Carrie J. Shawber
   - Kelley S. Yan
   - Timothy C. Wang
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-03-01'
   link: https://doi.org/g9zzkq
   orcid: 0000-0002-1906-2186
@@ -1184,7 +1184,7 @@
   file: orcid.yaml
 - id: doi:10.1080/2162402X.2023.2222560
   title: "Updates on radiotherapy-immunotherapy combinations: Proceedings of 6\n \
-    \           <sup>th</sup>\n            annual ImmunoRad conference"
+    \                   <sup>th</sup>\n                    annual ImmunoRad conference"
   authors:
   - Fabiana Gregucci
   - Sheila Spada
@@ -1343,7 +1343,7 @@
   - Weng-Lang Yang
   - Richard Kolesnick
   - Chandan Guha
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-02-20'
   link: https://doi.org/g9zzks
   orcid: 0000-0002-1906-2186
@@ -1383,7 +1383,7 @@
   - KS. Yan
   - A. Califano
   - T.C. Wang
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-04-28'
   link: https://doi.org/g9zzkv
   orcid: 0000-0002-1906-2186
@@ -2927,7 +2927,7 @@
   - Stanley G. Nathenson
   - Chandan Guha
   - Steven C. Almo
-  publisher: EBioMedicine
+  publisher: eBioMedicine
   date: '2017-03-01'
   link: https://doi.org/gtkh7f
   orcid: 0000-0002-1906-2186
@@ -4127,8 +4127,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1089/pho.2015.4030
-  title: <i>In Vitro</i> Photoirradiation System for Simultaneous Irradiation with
-    Different Light Doses at a Fixed Temperature
+  title: "<i>In Vitro</i>\n                    Photoirradiation System for Simultaneous\
+    \ Irradiation with Different Light Doses at a Fixed Temperature"
   authors:
   - "Luis F. Hern\xE1ndez Quintanar"
   - "Fulgencio Y. L\xF3pez Silva"
@@ -4521,10 +4521,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/nbm.3391
-  title: <i>In vivo</i><sup>1</sup>H MRS and<sup>31</sup>P MRSI of the response to
+  title: <i>In vivo</i><sup>1</sup>H MRS and <sup>31</sup>P MRSI of the response to
     cyclocreatine in transgenic mouse liver expressing creatine kinase
   authors:
-  - Min-Hui Cui
+  - "Min\u2010Hui Cui"
   - Kamaiah Jayalakshmi
   - Laibin Liu
   - Chandan Guha
@@ -4993,7 +4993,7 @@
   - Peter van Luijk
   - Charles L. Limoli
   publisher: Antioxidants &amp; Redox Signaling
-  date: '2014-07-10'
+  date: '2014-07-01'
   link: https://doi.org/f57fkq
   orcid: 0000-0002-1906-2186
   plugin: orcid.py
